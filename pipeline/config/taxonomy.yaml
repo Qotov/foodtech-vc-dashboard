@@ -1,0 +1,126 @@
+# ---------------------------------------------------------------------------
+# Food Tech VC Dashboard — taxonomy config
+#
+# This file is the single source of truth for how raw deal data is bucketed.
+# Edit freely; the pipeline re-derives all normalized fields from it on the
+# next run (npm run pipeline). Nothing here is hardcoded elsewhere.
+# ---------------------------------------------------------------------------
+
+# --- Stage -----------------------------------------------------------------
+# `stages` is the canonical ordered list (order drives chart sort).
+# `stage_aliases` maps messy source labels -> canonical stage (case-insensitive).
+# Anything unmatched lands in "Unknown" and is flagged in the QA report.
+stages:
+  - Pre-seed
+  - Seed
+  - Series A
+  - Series B
+  - Series C
+  - Series D+
+  - Growth        # late-stage VC / PE growth rounds without a lettered series
+  - Debt          # venture debt, credit facilities — excluded from equity totals by default
+  - Grant         # public grants, non-dilutive awards — excluded from equity totals by default
+  - Unknown
+
+stage_aliases:
+  "pre seed": Pre-seed
+  "preseed": Pre-seed
+  "angel": Pre-seed
+  "seed extension": Seed
+  "seed+": Seed
+  "post-seed": Seed
+  "series a1": Series A
+  "series a2": Series A
+  "series a extension": Series A
+  "series b1": Series B
+  "series b extension": Series B
+  "series d": Series D+
+  "series e": Series D+
+  "series f": Series D+
+  "series g": Series D+
+  "late stage vc": Growth
+  "growth equity": Growth
+  "private equity growth": Growth
+  "crossover": Growth
+  "venture debt": Debt
+  "debt financing": Debt
+  "credit facility": Debt
+  "loan": Debt
+  "grant": Grant
+  "government grant": Grant
+  "non-dilutive": Grant
+  "convertible note": Seed        # default bucket; override per-deal if clearly later-stage
+  "safe": Pre-seed
+  "corporate round": Growth       # override per-deal when a series letter is disclosed
+  "undisclosed round": Unknown
+
+# --- Market segments -------------------------------------------------------
+# Multi-label: each deal gets segments[] plus one primary_segment.
+# `keywords` seed the auto-tagger; every auto-tag is human-reviewed in the
+# overrides file (pipeline/config/overrides.yaml) before publishing.
+segments:
+  alt-protein:
+    label: Alternative Protein
+    description: Plant-based, cultivated meat/seafood, insect protein, novel protein sources
+    keywords: [plant-based, cultivated meat, cell-based, cultured meat, mycoprotein, insect protein, alternative protein]
+  precision-fermentation:
+    label: Precision Fermentation
+    description: Microbial production of proteins, fats, dairy analogs, functional ingredients
+    keywords: [precision fermentation, biomass fermentation, microbial protein, animal-free dairy]
+  agtech-upstream:
+    label: Ag-tech / Upstream
+    description: Farm-level tech — crop science, vertical farming, livestock tech, farm management software, ag robotics
+    keywords: [vertical farming, indoor farming, crop, agronomy, livestock, aquaculture, farm management, ag biotech, soil]
+  food-robotics:
+    label: Food Robotics & Automation
+    description: Kitchen/production automation, food-prep robots, processing-line automation (post-farm)
+    keywords: [kitchen robot, food robot, automation, robotic kitchen, processing automation]
+  supply-chain:
+    label: Supply Chain & Logistics
+    description: Cold chain, distribution, wholesale marketplaces, traceability, freight for food
+    keywords: [cold chain, food logistics, distribution, traceability, wholesale marketplace, food delivery infrastructure]
+  d2c-cpg:
+    label: D2C Brands & CPG
+    description: Consumer food & beverage brands, meal kits, functional beverages, snacks
+    keywords: [brand, beverage, snack, meal kit, cpg, functional drink]
+  restaurant-tech:
+    label: Restaurant Tech
+    description: POS, ordering, ghost kitchens, restaurant SaaS, delivery platforms
+    keywords: [restaurant, pos, ordering platform, ghost kitchen, cloud kitchen, table management]
+  food-waste:
+    label: Food Waste & Circularity
+    description: Surplus redistribution, upcycled ingredients, shelf-life extension, waste valorization
+    keywords: [food waste, surplus, upcycled, shelf life, circularity, side stream]
+  personalized-nutrition:
+    label: Personalized Nutrition
+    description: Nutrition apps, microbiome-based diets, medical nutrition, supplements-as-service
+    keywords: [personalized nutrition, microbiome, dietitian, nutrition app, glucose monitoring]
+  packaging:
+    label: Packaging
+    description: Sustainable/edible/smart packaging for food & beverage
+    keywords: [packaging, compostable, edible packaging, smart label, biodegradable film]
+  ingredients-biotech:
+    label: Ingredients / Biotech
+    description: Novel ingredients, sweeteners, fats, enzymes, molecular discovery platforms for food
+    keywords: [ingredient, sweetener, enzyme, food biotech, flavor, functional ingredient, alternative fat]
+
+# --- Geography -------------------------------------------------------------
+# Country (ISO-3166 alpha-2) -> region. UK is split out from EU per spec.
+# Countries not listed fall back to "Other" and are flagged in the QA report.
+regions:
+  NA:     [US, CA, MX]
+  EU:     [DE, FR, NL, ES, IT, SE, DK, FI, NO, IE, BE, AT, CH, PT, PL, CZ, EE, LT, LV, GR, HU, RO, BG, HR, SI, SK, LU, IS]
+  UK:     [GB]
+  APAC:   [CN, IN, JP, KR, SG, AU, NZ, ID, TH, VN, MY, PH, HK, TW]
+  MENA:   [IL, AE, SA, EG, QA, KW, BH, OM, JO, MA, TN, TR]
+  LATAM:  [BR, AR, CL, CO, PE, UY, EC, CR, PA, GT]
+  Africa: [ZA, NG, KE, GH, ET, RW]   # not in original spec; kept separate rather than lumped into "Other"
+
+# --- Analysis conventions --------------------------------------------------
+conventions:
+  ttm_window: 2025-07-21 .. 2026-07-20   # trailing twelve months as of build date
+  headline_totals_include: [Pre-seed, Seed, Series A, Series B, Series C, Series D+, Growth]
+  # Debt and Grant rounds are shown in the dashboard but excluded from
+  # headline "capital deployed" KPIs; a toggle includes them.
+  undisclosed_amounts: exclude_from_sums_with_visible_caveat   # never imputed
+  fx: amount converted at ECB reference rate on the deal's announcement date
