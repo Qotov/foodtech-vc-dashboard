@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Food Tech VC investment dashboard + re-runnable data pipeline (TTM)",
+  "homepage": "https://qotov.github.io/foodtech-vc-dashboard/",
   "scripts": {
     "pipeline": "node pipeline/2-normalize.mjs && node pipeline/3-qa-report.mjs",
     "normalize": "node pipeline/2-normalize.mjs",
