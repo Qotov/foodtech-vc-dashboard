@@ -116,6 +116,16 @@ regions:
   LATAM:  [BR, AR, CL, CO, PE, UY, EC, CR, PA, GT]
   Africa: [ZA, NG, KE, GH, ET, RW]   # not in original spec; kept separate rather than lumped into "Other"
 
+# --- Scope exclusions ------------------------------------------------------
+# Decided 2026-07-20: consumer delivery apps and grocery quick-commerce
+# (Wolt/Getir/Flink-style) are OUT of scope — their mega-rounds swamp food
+# innovation totals. B2B supply chain (cold chain, wholesale marketplaces,
+# traceability) stays IN.
+exclusions:
+  - consumer food delivery apps
+  - grocery quick-commerce (q-commerce)
+  - restaurant discovery / reservation consumer apps with no food-tech component
+
 # --- Analysis conventions --------------------------------------------------
 conventions:
   ttm_window: 2025-07-21 .. 2026-07-20   # trailing twelve months as of build date
