@@ -1,0 +1,31 @@
+{
+  "name": "foodtech-vc-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Food Tech VC investment dashboard + re-runnable data pipeline (TTM)",
+  "scripts": {
+    "pipeline": "node pipeline/2-normalize.mjs && node pipeline/3-qa-report.mjs",
+    "normalize": "node pipeline/2-normalize.mjs",
+    "qa": "node pipeline/3-qa-report.mjs",
+    "dev": "vite",
+    "build": "npm run pipeline && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7",
+    "react-simple-maps": "^3.0.0",
+    "d3-scale": "^4.0.2",
+    "topojson-client": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4",
+    "yaml": "^2.5.0"
+  }
+}

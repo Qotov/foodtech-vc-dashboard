@@ -1,0 +1,175 @@
+{
+  "built_at": "2026-07-20T20:38:20.041Z",
+  "ttm_window": {
+    "start": "2025-07-21",
+    "end": "2026-07-20"
+  },
+  "deal_count": 68,
+  "disclosed_count": 65,
+  "undisclosed_count": 3,
+  "equity_deal_count": 27,
+  "headline_capital_usd": 677538000,
+  "headline_note": "Headline capital = disclosed equity rounds only (Pre-seed..Growth). Debt, grants, and undisclosed amounts excluded.",
+  "taxonomy_version": "2025-07-21 .. 2026-07-20",
+  "confidence_breakdown": {
+    "low": 37,
+    "medium": 31
+  },
+  "segments": {
+    "alt-protein": {
+      "label": "Alternative Protein",
+      "description": "Plant-based, cultivated meat/seafood, insect protein, novel protein sources",
+      "keywords": [
+        "plant-based",
+        "cultivated meat",
+        "cell-based",
+        "cultured meat",
+        "mycoprotein",
+        "insect protein",
+        "alternative protein"
+      ]
+    },
+    "precision-fermentation": {
+      "label": "Precision Fermentation",
+      "description": "Microbial production of proteins, fats, dairy analogs, functional ingredients",
+      "keywords": [
+        "precision fermentation",
+        "biomass fermentation",
+        "microbial protein",
+        "animal-free dairy"
+      ]
+    },
+    "agtech-upstream": {
+      "label": "Ag-tech / Upstream",
+      "description": "Farm-level tech — crop science, vertical farming, livestock tech, farm management software, ag robotics",
+      "keywords": [
+        "vertical farming",
+        "indoor farming",
+        "crop",
+        "agronomy",
+        "livestock",
+        "aquaculture",
+        "farm management",
+        "ag biotech",
+        "soil"
+      ]
+    },
+    "food-robotics": {
+      "label": "Food Robotics & Automation",
+      "description": "Kitchen/production automation, food-prep robots, processing-line automation (post-farm)",
+      "keywords": [
+        "kitchen robot",
+        "food robot",
+        "automation",
+        "robotic kitchen",
+        "processing automation"
+      ]
+    },
+    "supply-chain": {
+      "label": "Supply Chain & Logistics",
+      "description": "Cold chain, distribution, wholesale marketplaces, traceability, freight for food",
+      "keywords": [
+        "cold chain",
+        "food logistics",
+        "distribution",
+        "traceability",
+        "wholesale marketplace",
+        "food delivery infrastructure"
+      ]
+    },
+    "d2c-cpg": {
+      "label": "D2C Brands & CPG",
+      "description": "Consumer food & beverage brands, meal kits, functional beverages, snacks",
+      "keywords": [
+        "brand",
+        "beverage",
+        "snack",
+        "meal kit",
+        "cpg",
+        "functional drink"
+      ]
+    },
+    "restaurant-tech": {
+      "label": "Restaurant Tech",
+      "description": "POS, ordering, ghost kitchens, restaurant SaaS, delivery platforms",
+      "keywords": [
+        "restaurant",
+        "pos",
+        "ordering platform",
+        "ghost kitchen",
+        "cloud kitchen",
+        "table management"
+      ]
+    },
+    "food-waste": {
+      "label": "Food Waste & Circularity",
+      "description": "Surplus redistribution, upcycled ingredients, shelf-life extension, waste valorization",
+      "keywords": [
+        "food waste",
+        "surplus",
+        "upcycled",
+        "shelf life",
+        "circularity",
+        "side stream"
+      ]
+    },
+    "personalized-nutrition": {
+      "label": "Personalized Nutrition",
+      "description": "Nutrition apps, microbiome-based diets, medical nutrition, supplements-as-service",
+      "keywords": [
+        "personalized nutrition",
+        "microbiome",
+        "dietitian",
+        "nutrition app",
+        "glucose monitoring"
+      ]
+    },
+    "packaging": {
+      "label": "Packaging",
+      "description": "Sustainable/edible/smart packaging for food & beverage",
+      "keywords": [
+        "packaging",
+        "compostable",
+        "edible packaging",
+        "smart label",
+        "biodegradable film"
+      ]
+    },
+    "ingredients-biotech": {
+      "label": "Ingredients / Biotech",
+      "description": "Novel ingredients, sweeteners, fats, enzymes, molecular discovery platforms for food",
+      "keywords": [
+        "ingredient",
+        "sweetener",
+        "enzyme",
+        "food biotech",
+        "flavor",
+        "functional ingredient",
+        "alternative fat"
+      ]
+    }
+  },
+  "stages": [
+    "Pre-seed",
+    "Seed",
+    "Series A",
+    "Series B",
+    "Series C",
+    "Series D+",
+    "Growth",
+    "Debt",
+    "Grant",
+    "Unknown"
+  ],
+  "regions": [
+    "NA",
+    "EU",
+    "UK",
+    "APAC",
+    "MENA",
+    "LATAM",
+    "Africa",
+    "Other"
+  ],
+  "warnings_count": 38
+}

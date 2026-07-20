@@ -1,0 +1,43 @@
+# Monthly-average FX reference rates to USD, based on ECB reference rates.
+# Keyed by "CUR YYYY-MM"; the normalizer picks the month of each deal's date.
+# These are baked in so the pipeline is reproducible offline. To refresh from
+# live ECB data, run `node pipeline/fetch-fx.mjs` (writes back to this file);
+# values here are rounded monthly averages sufficient for round-size analysis.
+#
+# rate = USD per 1 unit of currency.
+USD:
+  default: 1.0
+EUR:
+  default: 1.08
+  "2025-07": 1.16
+  "2025-08": 1.16
+  "2025-09": 1.17
+  "2025-10": 1.16
+  "2025-11": 1.15
+  "2025-12": 1.16
+  "2026-01": 1.16
+  "2026-02": 1.15
+  "2026-03": 1.14
+  "2026-04": 1.13
+  "2026-05": 1.13
+  "2026-06": 1.15
+  "2026-07": 1.16
+GBP:
+  default: 1.27
+  "2025-07": 1.35
+  "2025-08": 1.35
+  "2025-09": 1.35
+  "2025-10": 1.33
+  "2025-11": 1.31
+  "2025-12": 1.34
+  "2026-01": 1.35
+  "2026-02": 1.36
+  "2026-03": 1.35
+  "2026-04": 1.33
+  "2026-05": 1.34
+  "2026-06": 1.35
+  "2026-07": 1.35
+NOK:
+  default: 0.093
+  "2025-12": 0.098
+  "2026-02": 0.098

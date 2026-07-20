@@ -1,0 +1,2875 @@
+[
+  {
+    "id": "uvera-2026-07-seed",
+    "company": "Uvera",
+    "date": "2026-07-16",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-07",
+    "stage_raw": "Seed",
+    "stage": "Seed",
+    "is_equity": true,
+    "amount_raw": null,
+    "amount_usd": null,
+    "fx_rate": null,
+    "fx_rate_date": null,
+    "amount_disclosed": false,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [
+      "Morgan Stanley",
+      "LAB7",
+      "Core Vision"
+    ],
+    "investor_count": 3,
+    "investors_partial": false,
+    "hq_city": "Riyadh",
+    "hq_country": "SA",
+    "region": "MENA",
+    "segments": [
+      "food-waste"
+    ],
+    "primary_segment": "food-waste",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-ubers-14-8bn-bid-for-delivery-hero-hippo-harvest-banks-30m-agentic-ai-for-ag",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Investor list ambiguous in roundup extraction; amount undisclosed in article"
+  },
+  {
+    "id": "hippo-harvest-2026-07-unknown",
+    "company": "Hippo Harvest",
+    "date": "2026-07-16",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-07",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 30000000,
+      "currency": "USD"
+    },
+    "amount_usd": 30000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-07-16",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Half Moon Bay",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-ubers-14-8bn-bid-for-delivery-hero-hippo-harvest-banks-30m-agentic-ai-for-ag",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "rize-2026-07-unknown",
+    "company": "Rize",
+    "date": "2026-07-16",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-07",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 31000000,
+      "currency": "USD"
+    },
+    "amount_usd": 31000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-07-16",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "SG",
+    "region": "APAC",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-ubers-14-8bn-bid-for-delivery-hero-hippo-harvest-banks-30m-agentic-ai-for-ag",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "profuse-technology-2026-07-unknown",
+    "company": "ProFuse Technology",
+    "date": "2026-07-02",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-07",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 1500000,
+      "currency": "USD"
+    },
+    "amount_usd": 1500000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-07-02",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Ness Ziona",
+    "hq_country": "IL",
+    "region": "MENA",
+    "segments": [
+      "alt-protein"
+    ],
+    "primary_segment": "alt-protein",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "stenon-2026-07-unknown",
+    "company": "Stenon",
+    "date": "2026-07-02",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-07",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 20500000,
+      "currency": "USD"
+    },
+    "amount_usd": 20500000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-07-02",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Potsdam",
+    "hq_country": "DE",
+    "region": "EU",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "the-protein-brewery-2026-07-series-b",
+    "company": "The Protein Brewery",
+    "date": "2026-07-02",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-07",
+    "stage_raw": "Series B extension",
+    "stage": "Series B",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 20500000,
+      "currency": "USD"
+    },
+    "amount_usd": 20500000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-07-02",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Breda",
+    "hq_country": "NL",
+    "region": "EU",
+    "segments": [
+      "precision-fermentation",
+      "alt-protein"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Publication date approx; confirm exact roundup"
+  },
+  {
+    "id": "fieldwork-robotics-2026-06-unknown",
+    "company": "Fieldwork Robotics",
+    "date": "2026-06-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": null,
+    "amount_usd": null,
+    "fx_rate": null,
+    "fx_rate_date": null,
+    "amount_disclosed": false,
+    "valuation_usd": null,
+    "lead_investors": [
+      "Seed Innovations"
+    ],
+    "investors": [
+      "Seed Innovations"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": "Plymouth",
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "food-robotics",
+      "agtech-upstream"
+    ],
+    "primary_segment": "food-robotics",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-bayer-wins-roundup-case-ceo-change-at-vow-reservoir-acquires-contain",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": false,
+    "notes": "Amount undisclosed in roundup"
+  },
+  {
+    "id": "coast-4c-2026-06-seed",
+    "company": "Coast 4C",
+    "date": "2026-06-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "Seed",
+    "stage": "Seed",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 2500000,
+      "currency": "USD"
+    },
+    "amount_usd": 2500000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "PH",
+    "region": "APAC",
+    "segments": [
+      "agtech-upstream",
+      "food-waste"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-bayer-wins-roundup-case-ceo-change-at-vow-reservoir-acquires-contain",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "HQ inferred as SE Asia operations; verify country"
+  },
+  {
+    "id": "myota-2026-06-unknown",
+    "company": "Myota",
+    "date": "2026-06-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 4500000,
+      "currency": "USD"
+    },
+    "amount_usd": 4500000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "London",
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "ingredients-biotech",
+      "personalized-nutrition"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-bayer-wins-roundup-case-ceo-change-at-vow-reservoir-acquires-contain",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "omni-2026-06-series-a",
+    "company": "Omni",
+    "date": "2026-06-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "Series A",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 11000000,
+      "currency": "GBP"
+    },
+    "amount_usd": 14850000,
+    "fx_rate": 1.35,
+    "fx_rate_date": "2026-06-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "London",
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "d2c-cpg"
+    ],
+    "primary_segment": "d2c-cpg",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-bayer-wins-roundup-case-ceo-change-at-vow-reservoir-acquires-contain",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "onesoil-2026-06-unknown",
+    "company": "OneSoil",
+    "date": "2026-06-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 1000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 1150000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-06-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Lausanne",
+    "hq_country": "CH",
+    "region": "EU",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-anthropic-joins-carbon-removal-coalition-elanco-launches-venture-arm-aerofarms-acquired",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "picketa-systems-2026-06-unknown",
+    "company": "Picketa Systems",
+    "date": "2026-06-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 1500000,
+      "currency": "USD"
+    },
+    "amount_usd": 1500000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Fredericton",
+    "hq_country": "CA",
+    "region": "NA",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-anthropic-joins-carbon-removal-coalition-elanco-launches-venture-arm-aerofarms-acquired",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "terraxy-2026-06-unknown",
+    "company": "Terraxy",
+    "date": "2026-06-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 3000000,
+      "currency": "USD"
+    },
+    "amount_usd": 3000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Riyadh",
+    "hq_country": "SA",
+    "region": "MENA",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-anthropic-joins-carbon-removal-coalition-elanco-launches-venture-arm-aerofarms-acquired",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Also appears in 2026-06-26 roundup; possible duplicate mention of same $3m round"
+  },
+  {
+    "id": "seqana-2026-06-unknown",
+    "company": "Seqana",
+    "date": "2026-06-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 3200000,
+      "currency": "EUR"
+    },
+    "amount_usd": 3680000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-06-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Berlin",
+    "hq_country": "DE",
+    "region": "EU",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-anthropic-joins-carbon-removal-coalition-elanco-launches-venture-arm-aerofarms-acquired",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "rainbow-crops-2026-06-unknown",
+    "company": "Rainbow Crops",
+    "date": "2026-06-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 11250000,
+      "currency": "USD"
+    },
+    "amount_usd": 11250000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-anthropic-joins-carbon-removal-coalition-elanco-launches-venture-arm-aerofarms-acquired",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "vivici-2026-06-grant",
+    "company": "Vivici",
+    "date": "2026-06-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "EIC grant/blended",
+    "stage": "Grant",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 14400000,
+      "currency": "EUR"
+    },
+    "amount_usd": 16560000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-06-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "European Innovation Council"
+    ],
+    "investors": [
+      "European Innovation Council"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": "Delft",
+    "hq_country": "NL",
+    "region": "EU",
+    "segments": [
+      "precision-fermentation"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-anthropic-joins-carbon-removal-coalition-elanco-launches-venture-arm-aerofarms-acquired",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Amount reported inconsistently (EUR12.5m body vs EUR14.4m headline); EIC funding mix of grant+equity"
+  },
+  {
+    "id": "vertoro-2026-06-series-b",
+    "company": "Vertoro",
+    "date": "2026-06-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "Series B",
+    "stage": "Series B",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 17000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 19550000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-06-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Geleen",
+    "hq_country": "NL",
+    "region": "EU",
+    "segments": [
+      "ingredients-biotech",
+      "food-waste"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-anthropic-joins-carbon-removal-coalition-elanco-launches-venture-arm-aerofarms-acquired",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "innovorder-2026-06-unknown",
+    "company": "Innovorder",
+    "date": "2026-06-15",
+    "date_precision": "month",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 20000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 23000000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-06-15",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Paris",
+    "hq_country": "FR",
+    "region": "EU",
+    "segments": [
+      "restaurant-tech"
+    ],
+    "primary_segment": "restaurant-tech",
+    "sources": [
+      {
+        "name": "EU-Startups",
+        "url": "https://www.eu-startups.com/2026/06/profitable-french-scale-up-innovorder-raises-e20-million-to-accelerate-ai-first-restaurant-digitalisation/",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "leaft-foods-2026-06-unknown",
+    "company": "Leaft Foods",
+    "date": "2026-06-11",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": null,
+    "amount_usd": null,
+    "fx_rate": null,
+    "fx_rate_date": null,
+    "amount_disclosed": false,
+    "valuation_usd": null,
+    "lead_investors": [
+      "Lacto Japan"
+    ],
+    "investors": [
+      "Lacto Japan"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": "Christchurch",
+    "hq_country": "NZ",
+    "region": "APAC",
+    "segments": [
+      "alt-protein",
+      "ingredients-biotech"
+    ],
+    "primary_segment": "alt-protein",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": false,
+    "notes": "Amount undisclosed"
+  },
+  {
+    "id": "cordon-technologies-2026-06-unknown",
+    "company": "Cordon Technologies",
+    "date": "2026-06-11",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 1000000,
+      "currency": "GBP"
+    },
+    "amount_usd": 1350000,
+    "fx_rate": 1.35,
+    "fx_rate_date": "2026-06-11",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "manam-chocolate-2026-06-unknown",
+    "company": "Manam Chocolate",
+    "date": "2026-06-11",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 9000000,
+      "currency": "USD"
+    },
+    "amount_usd": 9000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-11",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "Omnivore",
+      "Turner Morrison"
+    ],
+    "investors": [
+      "Omnivore",
+      "Turner Morrison"
+    ],
+    "investor_count": 2,
+    "investors_partial": false,
+    "hq_city": "Hyderabad",
+    "hq_country": "IN",
+    "region": "APAC",
+    "segments": [
+      "d2c-cpg"
+    ],
+    "primary_segment": "d2c-cpg",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "swarm-engineering-2026-06-series-a",
+    "company": "SWARM Engineering",
+    "date": "2026-06-11",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "Series A",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 10000000,
+      "currency": "USD"
+    },
+    "amount_usd": 10000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-11",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "supply-chain",
+      "agtech-upstream"
+    ],
+    "primary_segment": "supply-chain",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "ns-tx-industries-2026-06-unknown",
+    "company": "NS/TX Industries",
+    "date": "2026-06-11",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 10500000,
+      "currency": "USD"
+    },
+    "amount_usd": 10500000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-11",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "CA",
+    "region": "NA",
+    "segments": [
+      "alt-protein"
+    ],
+    "primary_segment": "alt-protein",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "leaf-2026-06-series-b",
+    "company": "Leaf",
+    "date": "2026-06-11",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "Series B",
+    "stage": "Series B",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 13000000,
+      "currency": "USD"
+    },
+    "amount_usd": 13000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-11",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "San Francisco",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "innovafeed-2026-06-unknown",
+    "company": "Innovafeed",
+    "date": "2026-06-11",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 59000000,
+      "currency": "USD"
+    },
+    "amount_usd": 59000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-11",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Paris",
+    "hq_country": "FR",
+    "region": "EU",
+    "segments": [
+      "alt-protein",
+      "agtech-upstream"
+    ],
+    "primary_segment": "alt-protein",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-eif-commits-29m-to-irish-agrifoodtech-aphea-bio-and-bayer-team-up-glp-1-pills",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "mykor-2026-06-unknown",
+    "company": "Mykor",
+    "date": "2026-06-04",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 4000000,
+      "currency": "GBP"
+    },
+    "amount_usd": 5400000,
+    "fx_rate": 1.35,
+    "fx_rate_date": "2026-06-04",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "food-waste",
+      "ingredients-biotech"
+    ],
+    "primary_segment": "food-waste",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-30m-for-meatpacking-tech-rabobank-sells-foodbytes-job-cuts-at-aleph-farms",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Construction materials use-case; borderline food-tech — flag for scope review"
+  },
+  {
+    "id": "raisio-2026-06-unknown",
+    "company": "Raisio",
+    "date": "2026-06-04",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "research investment",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 4500000,
+      "currency": "EUR"
+    },
+    "amount_usd": 5175000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-06-04",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Raisio",
+    "hq_country": "FI",
+    "region": "EU",
+    "segments": [
+      "ingredients-biotech",
+      "food-waste"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-30m-for-meatpacking-tech-rabobank-sells-foodbytes-job-cuts-at-aleph-farms",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Raisio is a listed corporate; likely R&D capex not a VC round — candidate for exclusion"
+  },
+  {
+    "id": "proscale-2026-06-unknown",
+    "company": "PROSCALE",
+    "date": "2026-06-04",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 7000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 8050000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-06-04",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "DE",
+    "region": "EU",
+    "segments": [
+      "precision-fermentation",
+      "food-waste"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-30m-for-meatpacking-tech-rabobank-sells-foodbytes-job-cuts-at-aleph-farms",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "HQ country not stated in roundup"
+  },
+  {
+    "id": "marble-technologies-2026-06-series-a",
+    "company": "Marble Technologies",
+    "date": "2026-06-04",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "Series A",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 30000000,
+      "currency": "USD"
+    },
+    "amount_usd": 30000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-04",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Lincoln",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "food-robotics"
+    ],
+    "primary_segment": "food-robotics",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-30m-for-meatpacking-tech-rabobank-sells-foodbytes-job-cuts-at-aleph-farms",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "apoha-2026-06-series-a",
+    "company": "Apoha",
+    "date": "2026-06-04",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-06",
+    "stage_raw": "Series A",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 36000000,
+      "currency": "USD"
+    },
+    "amount_usd": 36000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-06-04",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "London",
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "ingredients-biotech"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-30m-for-meatpacking-tech-rabobank-sells-foodbytes-job-cuts-at-aleph-farms",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Verify food-tech relevance vs general materials AI"
+  },
+  {
+    "id": "perplant-2026-05-unknown",
+    "company": "Perplant",
+    "date": "2026-05-28",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 1000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 1130000,
+    "fx_rate": 1.13,
+    "fx_rate_date": "2026-05-28",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "DK",
+    "region": "EU",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-elbit-acquires-bluewhite-more-funding-for-virtual-fencing-anheuser-busch-awards-80k-grant",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "pacifico-biolabs-2026-05-unknown",
+    "company": "Pacifico Biolabs",
+    "date": "2026-05-28",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 8000000,
+      "currency": "USD"
+    },
+    "amount_usd": 8000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-28",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Berlin",
+    "hq_country": "DE",
+    "region": "EU",
+    "segments": [
+      "alt-protein",
+      "precision-fermentation"
+    ],
+    "primary_segment": "alt-protein",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-elbit-acquires-bluewhite-more-funding-for-virtual-fencing-anheuser-busch-awards-80k-grant",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "strainx-bioworks-2026-05-unknown",
+    "company": "StrainX Bioworks",
+    "date": "2026-05-28",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 13000000,
+      "currency": "USD"
+    },
+    "amount_usd": 13000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-28",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Bangalore",
+    "hq_country": "IN",
+    "region": "APAC",
+    "segments": [
+      "precision-fermentation",
+      "ingredients-biotech"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-elbit-acquires-bluewhite-more-funding-for-virtual-fencing-anheuser-busch-awards-80k-grant",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "phytolon-2026-05-series-b",
+    "company": "Phytolon",
+    "date": "2026-05-28",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "Series B",
+    "stage": "Series B",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 23600000,
+      "currency": "USD"
+    },
+    "amount_usd": 23600000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-28",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Yokneam",
+    "hq_country": "IL",
+    "region": "MENA",
+    "segments": [
+      "precision-fermentation",
+      "ingredients-biotech"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-elbit-acquires-bluewhite-more-funding-for-virtual-fencing-anheuser-busch-awards-80k-grant",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "choice-2026-05-unknown",
+    "company": "Choice",
+    "date": "2026-05-15",
+    "date_precision": "month",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 7100000,
+      "currency": "USD"
+    },
+    "amount_usd": 7100000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-15",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Warsaw",
+    "hq_country": "PL",
+    "region": "EU",
+    "segments": [
+      "restaurant-tech"
+    ],
+    "primary_segment": "restaurant-tech",
+    "sources": [
+      {
+        "name": "Romania Insider",
+        "url": "https://www.romania-insider.com/restaurant-startup-choice-funding-expansion-romania-2026",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "melazyme-2026-05-seed",
+    "company": "Melazyme",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "Seed",
+    "stage": "Seed",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 2000000,
+      "currency": "USD"
+    },
+    "amount_usd": 2000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-14",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "precision-fermentation"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "nanostruct-2026-05-seed",
+    "company": "NanoStruct",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "Seed",
+    "stage": "Seed",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 2600000,
+      "currency": "EUR"
+    },
+    "amount_usd": 2938000,
+    "fx_rate": 1.13,
+    "fx_rate_date": "2026-05-14",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "DE",
+    "region": "EU",
+    "segments": [
+      "supply-chain"
+    ],
+    "primary_segment": "supply-chain",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "supermeat-2026-05-growth",
+    "company": "SuperMeat",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "Growth",
+    "stage": "Growth",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 5000000,
+      "currency": "USD"
+    },
+    "amount_usd": 5000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-14",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "Agronomics"
+    ],
+    "investors": [
+      "Agronomics"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": "Tel Aviv",
+    "hq_country": "IL",
+    "region": "MENA",
+    "segments": [
+      "alt-protein"
+    ],
+    "primary_segment": "alt-protein",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "aplantex-2026-05-seed",
+    "company": "Aplantex",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "Bridge",
+    "stage": "Seed",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 5000000,
+      "currency": "USD"
+    },
+    "amount_usd": 5000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-14",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Montreal",
+    "hq_country": "CA",
+    "region": "NA",
+    "segments": [
+      "ingredients-biotech"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": "Bridge round bucketed as Seed per taxonomy default"
+  },
+  {
+    "id": "adamo-foods-2026-05-grant",
+    "company": "Adamo Foods",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "EU grant",
+    "stage": "Grant",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 10000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 11300000,
+    "fx_rate": 1.13,
+    "fx_rate_date": "2026-05-14",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "London",
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "alt-protein"
+    ],
+    "primary_segment": "alt-protein",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Roundup extraction said Germany HQ but Adamo Foods is London-based; verify HQ + grant details"
+  },
+  {
+    "id": "resurrect-bio-2026-05-series-a",
+    "company": "Resurrect Bio",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "Series A extension",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 10300000,
+      "currency": "USD"
+    },
+    "amount_usd": 10300000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-14",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "London",
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "oishii-2026-05-series-c",
+    "company": "Oishii",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-05",
+    "stage_raw": "Series C (first close)",
+    "stage": "Series C",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 150000000,
+      "currency": "USD"
+    },
+    "amount_usd": 150000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-05-14",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Jersey City",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "naturbeads-2026-04-unknown",
+    "company": "Naturbeads",
+    "date": "2026-04-23",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-04",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 3600000,
+      "currency": "GBP"
+    },
+    "amount_usd": 4788000,
+    "fx_rate": 1.33,
+    "fx_rate_date": "2026-04-23",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Bath",
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "packaging",
+      "ingredients-biotech"
+    ],
+    "primary_segment": "packaging",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-usda-palantir-deal-fresh-funding-for-afresh-amazons-30m-carbon-credit-deal",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Borderline food-tech (cosmetics/materials); flag for scope review"
+  },
+  {
+    "id": "aux-labs-2026-04-unknown",
+    "company": "AuX Labs",
+    "date": "2026-04-23",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-04",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 4000000,
+      "currency": "USD"
+    },
+    "amount_usd": 4000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-04-23",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "precision-fermentation",
+      "alt-protein"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-usda-palantir-deal-fresh-funding-for-afresh-amazons-30m-carbon-credit-deal",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "cosaic-2026-04-seed",
+    "company": "Cosaic",
+    "date": "2026-04-23",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-04",
+    "stage_raw": "Seed extension",
+    "stage": "Seed",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 6000000,
+      "currency": "USD"
+    },
+    "amount_usd": 6000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-04-23",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "dsm-firmenich Ventures"
+    ],
+    "investors": [
+      "dsm-firmenich Ventures"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "precision-fermentation",
+      "ingredients-biotech"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-usda-palantir-deal-fresh-funding-for-afresh-amazons-30m-carbon-credit-deal",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "incapto-2026-04-unknown",
+    "company": "Incapto",
+    "date": "2026-04-23",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-04",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 10000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 11300000,
+    "fx_rate": 1.13,
+    "fx_rate_date": "2026-04-23",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "McWin Capital Partners"
+    ],
+    "investors": [
+      "McWin Capital Partners"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": "Barcelona",
+    "hq_country": "ES",
+    "region": "EU",
+    "segments": [
+      "d2c-cpg"
+    ],
+    "primary_segment": "d2c-cpg",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-usda-palantir-deal-fresh-funding-for-afresh-amazons-30m-carbon-credit-deal",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "planetary-2026-04-unknown",
+    "company": "Planetary",
+    "date": "2026-04-23",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-04",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 28000000,
+      "currency": "USD"
+    },
+    "amount_usd": 28000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-04-23",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "precision-fermentation"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-usda-palantir-deal-fresh-funding-for-afresh-amazons-30m-carbon-credit-deal",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "afresh-technologies-2026-04-unknown",
+    "company": "Afresh Technologies",
+    "date": "2026-04-23",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-04",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 34000000,
+      "currency": "USD"
+    },
+    "amount_usd": 34000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-04-23",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "San Francisco",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "supply-chain",
+      "food-waste"
+    ],
+    "primary_segment": "supply-chain",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-usda-palantir-deal-fresh-funding-for-afresh-amazons-30m-carbon-credit-deal",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "grodi-2026-02-unknown",
+    "company": "Grodi",
+    "date": "2026-02-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-02",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 2500000,
+      "currency": "EUR"
+    },
+    "amount_usd": 2875000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-02-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "Swanlaab"
+    ],
+    "investors": [
+      "Swanlaab"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "ES",
+    "region": "EU",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-pepper-raises-50m-mars-new-impact-fund-syngenta-ipo-hints",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "alpa-2026-02-unknown",
+    "company": "Alpa",
+    "date": "2026-02-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-02",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 3500000,
+      "currency": "USD"
+    },
+    "amount_usd": 3500000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-02-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "London",
+    "hq_country": "GB",
+    "region": "UK",
+    "segments": [
+      "restaurant-tech"
+    ],
+    "primary_segment": "restaurant-tech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-pepper-raises-50m-mars-new-impact-fund-syngenta-ipo-hints",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "ikos-advanced-2026-02-unknown",
+    "company": "IKOS Advanced",
+    "date": "2026-02-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-02",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 8000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 9200000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-02-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "Impact Bridge"
+    ],
+    "investors": [
+      "Impact Bridge"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "ES",
+    "region": "EU",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-pepper-raises-50m-mars-new-impact-fund-syngenta-ipo-hints",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "reduced-2026-02-series-a",
+    "company": "REDUCED",
+    "date": "2026-02-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-02",
+    "stage_raw": "Series A",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 12000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 13800000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2026-02-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Copenhagen",
+    "hq_country": "DK",
+    "region": "EU",
+    "segments": [
+      "ingredients-biotech",
+      "food-waste"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-pepper-raises-50m-mars-new-impact-fund-syngenta-ipo-hints",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "verley-2026-02-series-a",
+    "company": "Verley",
+    "date": "2026-02-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-02",
+    "stage_raw": "Series A",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 38000000,
+      "currency": "USD"
+    },
+    "amount_usd": 38000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-02-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Paris",
+    "hq_country": "FR",
+    "region": "EU",
+    "segments": [
+      "precision-fermentation"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-pepper-raises-50m-mars-new-impact-fund-syngenta-ipo-hints",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "pepper-2026-02-series-c",
+    "company": "Pepper",
+    "date": "2026-02-26",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2026-02",
+    "stage_raw": "Series C",
+    "stage": "Series C",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 50000000,
+      "currency": "USD"
+    },
+    "amount_usd": 50000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2026-02-26",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "New York",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "supply-chain",
+      "restaurant-tech"
+    ],
+    "primary_segment": "supply-chain",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-pepper-raises-50m-mars-new-impact-fund-syngenta-ipo-hints",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "a-io-2025-12-grant",
+    "company": "ÄIO",
+    "date": "2025-12-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-12",
+    "stage_raw": "Grant",
+    "stage": "Grant",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 1200000,
+      "currency": "EUR"
+    },
+    "amount_usd": 1392000,
+    "fx_rate": 1.16,
+    "fx_rate_date": "2025-12-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Tallinn",
+    "hq_country": "EE",
+    "region": "EU",
+    "segments": [
+      "precision-fermentation",
+      "ingredients-biotech"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-binsentry-bags-another-25m-lloyds-backs-regen-ag-zepto-ipo",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "agreenculture-2025-12-unknown",
+    "company": "Agreenculture",
+    "date": "2025-12-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-12",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 7000000,
+      "currency": "USD"
+    },
+    "amount_usd": 7000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-12-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Toulouse",
+    "hq_country": "FR",
+    "region": "EU",
+    "segments": [
+      "food-robotics",
+      "agtech-upstream"
+    ],
+    "primary_segment": "food-robotics",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-binsentry-bags-another-25m-lloyds-backs-regen-ag-zepto-ipo",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "symbrosia-2025-12-unknown",
+    "company": "Symbrosia",
+    "date": "2025-12-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-12",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 5800000,
+      "currency": "USD"
+    },
+    "amount_usd": 5800000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-12-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Kailua-Kona",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "agtech-upstream",
+      "food-waste"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-binsentry-bags-another-25m-lloyds-backs-regen-ag-zepto-ipo",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "those-vegan-cowboys-2025-12-unknown",
+    "company": "Those Vegan Cowboys",
+    "date": "2025-12-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-12",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 7300000,
+      "currency": "USD"
+    },
+    "amount_usd": 7300000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-12-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Ghent",
+    "hq_country": "BE",
+    "region": "EU",
+    "segments": [
+      "precision-fermentation",
+      "alt-protein"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-binsentry-bags-another-25m-lloyds-backs-regen-ag-zepto-ipo",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": "Also ran a Feb-2026 EUR2.5m crowdfunding; treat these as separate events"
+  },
+  {
+    "id": "squizify-2025-12-series-a",
+    "company": "Squizify",
+    "date": "2025-12-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-12",
+    "stage_raw": "Series A",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 10000000,
+      "currency": "USD"
+    },
+    "amount_usd": 10000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-12-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Melbourne",
+    "hq_country": "AU",
+    "region": "APAC",
+    "segments": [
+      "restaurant-tech",
+      "supply-chain"
+    ],
+    "primary_segment": "restaurant-tech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-binsentry-bags-another-25m-lloyds-backs-regen-ag-zepto-ipo",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "meq-solutions-2025-12-unknown",
+    "company": "MEQ Solutions",
+    "date": "2025-12-18",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-12",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 15000000,
+      "currency": "USD"
+    },
+    "amount_usd": 15000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-12-18",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "Insight Partners"
+    ],
+    "investors": [
+      "Insight Partners"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": "Adelaide",
+    "hq_country": "AU",
+    "region": "APAC",
+    "segments": [
+      "food-robotics",
+      "supply-chain"
+    ],
+    "primary_segment": "supply-chain",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-binsentry-bags-another-25m-lloyds-backs-regen-ag-zepto-ipo",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "chromologics-2025-11-unknown",
+    "company": "Chromologics",
+    "date": "2025-11-20",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-11",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 7000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 8050000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2025-11-20",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Copenhagen",
+    "hq_country": "DK",
+    "region": "EU",
+    "segments": [
+      "ingredients-biotech"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-biocentis-raises-19m-for-insect-control-monarch-tractor-in-trouble-choc-giant-partners-with-notco-on-ai",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "keychain-2025-11-unknown",
+    "company": "Keychain",
+    "date": "2025-11-20",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-11",
+    "stage_raw": "not specified",
+    "stage": "Unknown",
+    "is_equity": false,
+    "amount_raw": {
+      "value": 10000000,
+      "currency": "USD"
+    },
+    "amount_usd": 10000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-11-20",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "New York",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "supply-chain"
+    ],
+    "primary_segment": "supply-chain",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-biocentis-raises-19m-for-insect-control-monarch-tractor-in-trouble-choc-giant-partners-with-notco-on-ai",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "aka-foods-2025-11-seed",
+    "company": "AKA Foods",
+    "date": "2025-11-20",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-11",
+    "stage_raw": "Seed",
+    "stage": "Seed",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 17200000,
+      "currency": "USD"
+    },
+    "amount_usd": 17200000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-11-20",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": null,
+    "hq_country": "NL",
+    "region": "EU",
+    "segments": [
+      "ingredients-biotech"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-biocentis-raises-19m-for-insect-control-monarch-tractor-in-trouble-choc-giant-partners-with-notco-on-ai",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "biocentis-2025-11-seed",
+    "company": "Biocentis",
+    "date": "2025-11-20",
+    "date_precision": "day",
+    "date_basis": "announcement",
+    "month": "2025-11",
+    "stage_raw": "Seed",
+    "stage": "Seed",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 19000000,
+      "currency": "USD"
+    },
+    "amount_usd": 19000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-11-20",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Milan",
+    "hq_country": "IT",
+    "region": "EU",
+    "segments": [
+      "agtech-upstream"
+    ],
+    "primary_segment": "agtech-upstream",
+    "sources": [
+      {
+        "name": "AgFunderNews AgriFood Signals",
+        "url": "https://agfundernews.com/agrifood-signals-biocentis-raises-19m-for-insect-control-monarch-tractor-in-trouble-choc-giant-partners-with-notco-on-ai",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": false,
+    "notes": null
+  },
+  {
+    "id": "revyve-2025-11-series-b",
+    "company": "Revyve",
+    "date": "2025-11-15",
+    "date_precision": "month",
+    "date_basis": "announcement",
+    "month": "2025-11",
+    "stage_raw": "Series B",
+    "stage": "Series B",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 24000000,
+      "currency": "EUR"
+    },
+    "amount_usd": 27600000,
+    "fx_rate": 1.15,
+    "fx_rate_date": "2025-11-15",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "ABN AMRO Sustainable Impact Fund"
+    ],
+    "investors": [
+      "ABN AMRO Sustainable Impact Fund",
+      "Invest-NL"
+    ],
+    "investor_count": 2,
+    "investors_partial": false,
+    "hq_city": "Wageningen",
+    "hq_country": "NL",
+    "region": "EU",
+    "segments": [
+      "ingredients-biotech",
+      "food-waste"
+    ],
+    "primary_segment": "ingredients-biotech",
+    "sources": [
+      {
+        "name": "Green Queen top rounds 2025",
+        "url": "https://www.greenqueen.com.hk/alternative-protein-future-food-funding-rounds-investment-plant-based-2025/",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": null
+  },
+  {
+    "id": "vivici-2025-10-series-a",
+    "company": "Vivici",
+    "date": "2025-10-15",
+    "date_precision": "month",
+    "date_basis": "announcement",
+    "month": "2025-10",
+    "stage_raw": "Series A",
+    "stage": "Series A",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 32500000,
+      "currency": "EUR"
+    },
+    "amount_usd": 37700000,
+    "fx_rate": 1.16,
+    "fx_rate_date": "2025-10-15",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "Invest-NL"
+    ],
+    "investors": [
+      "Invest-NL",
+      "ABP"
+    ],
+    "investor_count": 2,
+    "investors_partial": false,
+    "hq_city": "Delft",
+    "hq_country": "NL",
+    "region": "EU",
+    "segments": [
+      "precision-fermentation"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "Green Queen top rounds 2025",
+        "url": "https://www.greenqueen.com.hk/alternative-protein-future-food-funding-rounds-investment-plant-based-2025/",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Distinct from the 2026-06 EIC grant record for Vivici; confirm not double-counting"
+  },
+  {
+    "id": "nxtfood-2025-09-series-b",
+    "company": "NxtFood",
+    "date": "2025-09-15",
+    "date_precision": "month",
+    "date_basis": "announcement",
+    "month": "2025-09",
+    "stage_raw": "Series B",
+    "stage": "Series B",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 58000000,
+      "currency": "USD"
+    },
+    "amount_usd": 58000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-09-15",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [],
+    "investors": [],
+    "investor_count": null,
+    "investors_partial": false,
+    "hq_city": "Paris",
+    "hq_country": "FR",
+    "region": "EU",
+    "segments": [
+      "alt-protein",
+      "d2c-cpg"
+    ],
+    "primary_segment": "alt-protein",
+    "sources": [
+      {
+        "name": "Green Queen / New Market Pitch",
+        "url": "https://newmarketpitch.com/blogs/news/alternative-protein-funding-analysis",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "low",
+    "verify": true,
+    "notes": "Amount and month need primary-source confirmation"
+  },
+  {
+    "id": "the-every-company-2025-09-series-d",
+    "company": "The EVERY Company",
+    "date": "2025-09-15",
+    "date_precision": "month",
+    "date_basis": "announcement",
+    "month": "2025-09",
+    "stage_raw": "Series D",
+    "stage": "Series D+",
+    "is_equity": true,
+    "amount_raw": {
+      "value": 55000000,
+      "currency": "USD"
+    },
+    "amount_usd": 55000000,
+    "fx_rate": 1,
+    "fx_rate_date": "2025-09-15",
+    "amount_disclosed": true,
+    "valuation_usd": null,
+    "lead_investors": [
+      "McWin Capital Partners"
+    ],
+    "investors": [
+      "McWin Capital Partners"
+    ],
+    "investor_count": 1,
+    "investors_partial": false,
+    "hq_city": "South San Francisco",
+    "hq_country": "US",
+    "region": "NA",
+    "segments": [
+      "precision-fermentation",
+      "alt-protein"
+    ],
+    "primary_segment": "precision-fermentation",
+    "sources": [
+      {
+        "name": "Green Queen top rounds 2025",
+        "url": "https://www.greenqueen.com.hk/alternative-protein-future-food-funding-rounds-investment-plant-based-2025/",
+        "retrieved": "2026-07-20"
+      },
+      {
+        "name": "FoodNavigator",
+        "url": "https://www.foodnavigator.com/Article/2026/02/18/alternative-protein-funding-shifts-in-2026/",
+        "retrieved": "2026-07-20"
+      }
+    ],
+    "confidence": "medium",
+    "verify": true,
+    "notes": "Month approximate; confirm exact close date"
+  }
+]
