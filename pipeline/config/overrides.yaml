@@ -1,0 +1,11 @@
+# Manual corrections applied by the normalizer AFTER auto-mapping.
+# Keyed by exact company name; listed fields shallow-merge over the raw record.
+# This is the final arbiter — use it to fix a stage, HQ, segment, or amount
+# without editing the raw source file, so the correction survives re-scrapes.
+#
+# Example:
+# overrides:
+#   Adamo Foods:
+#     hq_country: GB
+#     hq_city: London
+overrides: {}
