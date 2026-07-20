@@ -50,7 +50,7 @@
     "month": "2026-07",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 30000000,
       "currency": "USD"
@@ -91,7 +91,7 @@
     "month": "2026-07",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 31000000,
       "currency": "USD"
@@ -132,7 +132,7 @@
     "month": "2026-07",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 1500000,
       "currency": "USD"
@@ -173,7 +173,7 @@
     "month": "2026-07",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 20500000,
       "currency": "USD"
@@ -256,7 +256,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": null,
     "amount_usd": null,
     "fx_rate": null,
@@ -341,7 +341,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 4500000,
       "currency": "USD"
@@ -424,7 +424,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 1000000,
       "currency": "EUR"
@@ -465,7 +465,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 1500000,
       "currency": "USD"
@@ -506,7 +506,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 3000000,
       "currency": "USD"
@@ -547,7 +547,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 3200000,
       "currency": "EUR"
@@ -588,7 +588,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 11250000,
       "currency": "USD"
@@ -716,7 +716,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 20000000,
       "currency": "EUR"
@@ -757,7 +757,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": null,
     "amount_usd": null,
     "fx_rate": null,
@@ -800,7 +800,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 1000000,
       "currency": "GBP"
@@ -841,7 +841,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 9000000,
       "currency": "USD"
@@ -930,7 +930,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 10500000,
       "currency": "USD"
@@ -1012,7 +1012,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 59000000,
       "currency": "USD"
@@ -1054,7 +1054,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 4000000,
       "currency": "GBP"
@@ -1096,7 +1096,7 @@
     "month": "2026-06",
     "stage_raw": "research investment",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 4500000,
       "currency": "EUR"
@@ -1138,7 +1138,7 @@
     "month": "2026-06",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 7000000,
       "currency": "EUR"
@@ -1262,7 +1262,7 @@
     "month": "2026-05",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 1000000,
       "currency": "EUR"
@@ -1303,7 +1303,7 @@
     "month": "2026-05",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 8000000,
       "currency": "USD"
@@ -1345,7 +1345,7 @@
     "month": "2026-05",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 13000000,
       "currency": "USD"
@@ -1429,7 +1429,7 @@
     "month": "2026-05",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 7100000,
       "currency": "USD"
@@ -1761,7 +1761,7 @@
     "month": "2026-04",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 3600000,
       "currency": "GBP"
@@ -1803,7 +1803,7 @@
     "month": "2026-04",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 4000000,
       "currency": "USD"
@@ -1891,7 +1891,7 @@
     "month": "2026-04",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 10000000,
       "currency": "EUR"
@@ -1936,7 +1936,7 @@
     "month": "2026-04",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 28000000,
       "currency": "USD"
@@ -1977,7 +1977,7 @@
     "month": "2026-04",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 34000000,
       "currency": "USD"
@@ -2019,7 +2019,7 @@
     "month": "2026-02",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 2500000,
       "currency": "EUR"
@@ -2064,7 +2064,7 @@
     "month": "2026-02",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 3500000,
       "currency": "USD"
@@ -2105,7 +2105,7 @@
     "month": "2026-02",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 8000000,
       "currency": "EUR"
@@ -2317,7 +2317,7 @@
     "month": "2025-12",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 7000000,
       "currency": "USD"
@@ -2359,7 +2359,7 @@
     "month": "2025-12",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 5800000,
       "currency": "USD"
@@ -2401,7 +2401,7 @@
     "month": "2025-12",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 7300000,
       "currency": "USD"
@@ -2485,7 +2485,7 @@
     "month": "2025-12",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 15000000,
       "currency": "USD"
@@ -2531,7 +2531,7 @@
     "month": "2025-11",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 7000000,
       "currency": "EUR"
@@ -2572,7 +2572,7 @@
     "month": "2025-11",
     "stage_raw": "not specified",
     "stage": "Unknown",
-    "is_equity": false,
+    "is_equity": true,
     "amount_raw": {
       "value": 10000000,
       "currency": "USD"

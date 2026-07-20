@@ -1,12 +1,12 @@
 # QA & coverage report
 
-_Built 2026-07-20T20:38:20.041Z · TTM 2025-07-21 → 2026-07-20_
+_Built 2026-07-20T20:46:38.785Z · TTM 2025-07-21 → 2026-07-20_
 
 ## Headline
 - **68** deals in window
 - **65** disclosed / **3** undisclosed amounts
-- **$677.5M** headline capital (disclosed equity rounds only)
-- Top-5 deals = **51.8%** of disclosed equity capital → concentration flag
+- **$1087.1M** headline capital (disclosed equity rounds only)
+- Top-5 deals = **34.2%** of disclosed equity capital → concentration flag
 
 ## Confidence mix
 - low: 37

@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-07-20T20:38:20.041Z",
+  "built_at": "2026-07-20T20:46:38.785Z",
   "ttm_window": {
     "start": "2025-07-21",
     "end": "2026-07-20"
@@ -7,8 +7,8 @@
   "deal_count": 68,
   "disclosed_count": 65,
   "undisclosed_count": 3,
-  "equity_deal_count": 27,
-  "headline_capital_usd": 677538000,
+  "equity_deal_count": 65,
+  "headline_capital_usd": 1087136000,
   "headline_note": "Headline capital = disclosed equity rounds only (Pre-seed..Growth). Debt, grants, and undisclosed amounts excluded.",
   "taxonomy_version": "2025-07-21 .. 2026-07-20",
   "confidence_breakdown": {

@@ -27,7 +27,11 @@ try { overrides = readYaml('pipeline/config/overrides.yaml')?.overrides ?? {}; }
 
 const TTM = taxonomy.conventions.ttm_window.split('..').map((s) => s.trim());
 const [TTM_START, TTM_END] = TTM;
-const EQUITY_STAGES = new Set(taxonomy.conventions.headline_totals_include);
+// Headline capital = all rounds EXCEPT debt and grants. A disclosed round whose
+// stage the source left unspecified ("Unknown") is still equity capital and must
+// not be dropped from sums just for lacking a series letter.
+const NON_EQUITY = new Set(['Debt', 'Grant']);
+const isEquity = (stage) => !NON_EQUITY.has(stage);
 
 // --- helpers ---------------------------------------------------------------
 const warnings = [];
@@ -112,7 +116,7 @@ for (const d of raw.deals) {
     month: (date || '').slice(0, 7),
     stage_raw: rec.stage_raw ?? null,
     stage,
-    is_equity: EQUITY_STAGES.has(stage),
+    is_equity: isEquity(stage),
     amount_raw: rec.amount ?? null,
     amount_usd: amountUsd,
     fx_rate: fxUsed,
