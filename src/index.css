@@ -41,6 +41,7 @@ body {
 
 .tnum { font-variant-numeric: tabular-nums; }
 .mono { font-family: 'JetBrains Mono', ui-monospace, monospace; }
+.display { font-family: 'Fraunces', Georgia, serif; font-optical-sizing: auto; }
 
 /* editorial small-caps eyebrow */
 .eyebrow {
@@ -123,3 +124,52 @@ table.deals tbody tr:hover { background: var(--panel-2); }
 
 .fade-enter { animation: fade 0.2s ease; }
 @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+
+/* --- v2: drawer / palette / insight cards ---------------------------------- */
+.backdrop {
+  position: fixed; inset: 0; z-index: 60;
+  background: color-mix(in srgb, var(--bg) 60%, transparent);
+  backdrop-filter: blur(3px);
+  animation: fade 0.15s ease;
+}
+.drawer {
+  position: fixed; top: 0; right: 0; bottom: 0; z-index: 70;
+  width: min(480px, 94vw);
+  background: var(--panel);
+  border-left: 1px solid var(--border);
+  box-shadow: -24px 0 60px rgba(0,0,0,0.35);
+  animation: slideIn 0.22s cubic-bezier(0.32, 0.72, 0, 1);
+  overflow-y: auto;
+}
+@keyframes slideIn { from { transform: translateX(40px); opacity: 0; } to { transform: none; opacity: 1; } }
+
+.palette {
+  position: fixed; z-index: 80; left: 50%; top: 14vh;
+  transform: translateX(-50%);
+  width: min(620px, 92vw);
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 30px 90px rgba(0,0,0,0.5);
+  overflow: hidden;
+  animation: popIn 0.16s cubic-bezier(0.32, 0.72, 0, 1);
+}
+@keyframes popIn { from { transform: translateX(-50%) scale(0.97); opacity: 0; } to { transform: translateX(-50%) scale(1); opacity: 1; } }
+
+.insight-card {
+  background: linear-gradient(160deg, var(--panel), var(--panel-2));
+  border: 1px solid var(--border-soft);
+  border-radius: 14px;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.insight-card[data-clickable='true']:hover { border-color: var(--accent); transform: translateY(-1px); cursor: pointer; }
+
+kbd {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  padding: 2px 5px;
+  border-radius: 5px;
+  border: 1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--text-dim);
+}

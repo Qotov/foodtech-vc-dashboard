@@ -41,3 +41,18 @@ NOK:
   default: 0.093
   "2025-12": 0.098
   "2026-02": 0.098
+# Flat approximations (2025-26 period averages) for currencies that appear
+# rarely; refine with per-month rows if a large round lands in one of these.
+CHF: { default: 1.25 }
+SEK: { default: 0.105 }
+DKK: { default: 0.155 }
+CAD: { default: 0.73 }
+AUD: { default: 0.66 }
+NZD: { default: 0.60 }
+SGD: { default: 0.78 }
+INR: { default: 0.0114 }
+JPY: { default: 0.0068 }
+ILS: { default: 0.30 }
+BRL: { default: 0.185 }
+KRW: { default: 0.00073 }
+CNY: { default: 0.14 }

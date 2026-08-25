@@ -8,7 +8,7 @@ export default function Methodology({ meta, kpis }) {
       <button className="w-full flex items-center justify-between gap-3" onClick={() => setOpen((o) => !o)}>
         <div className="text-left">
           <div className="eyebrow mb-1">Read before citing</div>
-          <h3 className="text-[15px] font-semibold">Methodology & data caveats</h3>
+          <h3 className="display text-[17px] font-semibold">Methodology & data caveats</h3>
         </div>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--text-dim)" strokeWidth="2" style={{ transform: open ? 'rotate(180deg)' : 'none', transition: 'transform .2s' }}><polyline points="6 9 12 15 18 9" /></svg>
       </button>

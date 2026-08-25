@@ -1,4 +1,4 @@
-import { useMemo, useReducer } from 'react';
+import { useEffect, useMemo, useReducer } from 'react';
 
 export const initialFilters = {
   search: '',
@@ -32,8 +32,54 @@ function reducer(state, action) {
   }
 }
 
+// --- URL hash sync: filters serialize into #… so any view is shareable ------
+const LIST_KEYS = ['stages', 'segments', 'regions', 'countries'];
+
+function filtersToHash(f) {
+  const p = new URLSearchParams();
+  for (const k of LIST_KEYS) if (f[k].length) p.set(k, f[k].join('~'));
+  if (f.search) p.set('q', f.search);
+  if (f.dateFrom) p.set('from', f.dateFrom);
+  if (f.dateTo) p.set('to', f.dateTo);
+  if (f.sizeMin > 0) p.set('min', String(f.sizeMin));
+  if (f.sizeMax < Infinity) p.set('max', String(f.sizeMax));
+  if (f.disclosedOnly) p.set('disc', '1');
+  if (!f.includeDebtGrant) p.set('eq', '1');
+  if (f.segmentMode === 'any') p.set('segmode', 'any');
+  const s = p.toString();
+  return s ? '#' + s : '';
+}
+
+function hashToFilters() {
+  try {
+    const raw = window.location.hash.replace(/^#/, '');
+    if (!raw) return initialFilters;
+    const p = new URLSearchParams(raw);
+    const f = { ...initialFilters };
+    for (const k of LIST_KEYS) if (p.get(k)) f[k] = p.get(k).split('~');
+    if (p.get('q')) f.search = p.get('q');
+    if (p.get('from')) f.dateFrom = p.get('from');
+    if (p.get('to')) f.dateTo = p.get('to');
+    if (p.get('min')) f.sizeMin = +p.get('min') || 0;
+    if (p.get('max')) f.sizeMax = +p.get('max') || Infinity;
+    if (p.get('disc')) f.disclosedOnly = true;
+    if (p.get('eq')) f.includeDebtGrant = false;
+    if (p.get('segmode') === 'any') f.segmentMode = 'any';
+    return f;
+  } catch {
+    return initialFilters;
+  }
+}
+
 export function useDashboard(deals) {
-  const [filters, dispatch] = useReducer(reducer, initialFilters);
+  const [filters, dispatch] = useReducer(reducer, undefined, hashToFilters);
+
+  // reflect filters into the URL (replaceState: no history spam)
+  useEffect(() => {
+    const hash = filtersToHash(filters);
+    const url = window.location.pathname + window.location.search + hash;
+    window.history.replaceState(null, '', url);
+  }, [filters]);
 
   const set = (key, value) => dispatch({ type: 'set', key, value });
   const toggleValue = (key, value) => dispatch({ type: 'toggle', key, value });

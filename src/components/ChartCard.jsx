@@ -12,7 +12,7 @@ export default function ChartCard({ eyebrow, title, subtitle, children, right, e
       <header className="flex items-start justify-between gap-3 mb-3">
         <div className="min-w-0">
           {eyebrow && <div className="eyebrow mb-1">{eyebrow}</div>}
-          <h3 className="text-[15px] font-semibold leading-tight" style={{ color: 'var(--text)' }}>{title}</h3>
+          <h3 className="display text-[17px] font-semibold leading-tight" style={{ color: 'var(--text)' }}>{title}</h3>
           {subtitle && <p className="text-xs mt-0.5" style={{ color: 'var(--text-dim)' }}>{subtitle}</p>}
         </div>
         <div className="flex items-center gap-2 shrink-0">

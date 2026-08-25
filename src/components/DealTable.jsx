@@ -15,7 +15,7 @@ const COLS = [
 
 const CONF_COLOR = { high: '#4cc9b0', medium: '#e5c454', low: '#ef7d6a' };
 
-export default function DealTable({ deals, meta }) {
+export default function DealTable({ deals, meta, onSelectDeal }) {
   const [sort, setSort] = useState({ key: 'amount_usd', dir: -1 });
 
   const sorted = useMemo(() => {
@@ -40,7 +40,7 @@ export default function DealTable({ deals, meta }) {
       <header className="flex items-center justify-between gap-3 mb-3">
         <div>
           <div className="eyebrow mb-1">Ledger</div>
-          <h3 className="text-[15px] font-semibold">Deal table <span className="tnum font-normal" style={{ color: 'var(--text-dim)' }}>· {deals.length}</span></h3>
+          <h3 className="display text-[17px] font-semibold">The ledger <span className="tnum font-normal font-sans text-[13px]" style={{ color: 'var(--text-dim)' }}>· {deals.length} rounds</span></h3>
         </div>
         <button className="btn" onClick={() => downloadCsv(sorted)}>
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" /><polyline points="7 10 12 15 17 10" /><line x1="12" y1="15" x2="12" y2="3" /></svg>
@@ -63,7 +63,7 @@ export default function DealTable({ deals, meta }) {
           </thead>
           <tbody>
             {sorted.map((d) => (
-              <tr key={d.id}>
+              <tr key={d.id} onClick={() => onSelectDeal?.(d)} style={{ cursor: onSelectDeal ? 'pointer' : 'default' }} title="Open deal detail">
                 <td className="font-medium">
                   {d.company}
                   {d.hq_city && <span className="block text-[11px]" style={{ color: 'var(--text-faint)' }}>{d.hq_city}</span>}
