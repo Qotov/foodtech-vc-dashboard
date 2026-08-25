@@ -1,0 +1,4647 @@
+{
+ "discovered": [
+  {
+   "company": "BlueNalu",
+   "date": "2026-01-02",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 11000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "San Diego",
+   "hq_country": "US",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein",
+    "ingredients-biotech"
+   ],
+   "description": "Cell-cultivated seafood company commercializing cultivated bluefin tuna toro for sushi and fine dining",
+   "investors": [
+    "Agronomics",
+    "Siddhi Capital",
+    "Lewis & Clark AgriFood",
+    "Griffith Foods",
+    "Pulmuone",
+    "Rich Products Corporation"
+   ],
+   "lead_investors": [
+    "Agronomics",
+    "Siddhi Capital",
+    "Lewis & Clark AgriFood"
+   ],
+   "source_name": "vegconomist",
+   "source_url": "https://vegconomist.com/investments-finance/bluenalu-financing-advance-commercialization-cultivated-tuna/",
+   "source2_url": "https://www.undercurrentnews.com/2026/01/02/us-cell-cultivated-seafood-maker-secures-11m-as-it-targets-sushi-fine-dining-establishments/",
+   "confidence": "high",
+   "notes": "Mix of convertible notes and preferred stock, so no series label (stage Unknown); ~40 existing investors participated; total raised to date ~$129M. Coverage clustered around Jan 2, 2026 (Undercurrent News)."
+  },
+  {
+   "company": "Mosa Meat",
+   "date": "2025-12-01",
+   "date_precision": "month",
+   "stage": "Unknown",
+   "amount_value": 15000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Maastricht",
+   "hq_country": "NL",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein"
+   ],
+   "description": "Cultivated beef pioneer preparing regulatory filings in UK/EU/Switzerland/Singapore; claims 99.999% cost cut since its 2013 burger",
+   "investors": [
+    "Invest-NL",
+    "LIOF",
+    "PHW Group",
+    "Jitse Groen"
+   ],
+   "lead_investors": [],
+   "source_name": "EU-Startups",
+   "source_url": "https://www.eu-startups.com/2025/12/as-meatable-shuts-down-dutch-based-mosa-meat-lands-e15m-and-achieves-99-999-cost-cut-from-its-e250k-first-burger/",
+   "source2_url": "https://vegconomist.com/investments-finance/mosa-meat-raises-15m-support-regulatory-filings-restaurant-ready-pricing/",
+   "confidence": "high",
+   "notes": "€15M (~$17.6M) round announced mid-December 2025 (exact day not confirmed); backers include state impact investors Invest-NL and LIOF, strategic partner PHW Group, and Just Eat Takeaway founder Jitse Groen. Brings total over past two years to €58M."
+  },
+  {
+   "company": "Melt&Marble",
+   "date": "2025-12-08",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 7300000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Gothenburg",
+   "hq_country": "SE",
+   "primary_segment": "precision-fermentation",
+   "segments": [
+    "precision-fermentation",
+    "ingredients-biotech",
+    "alt-protein"
+   ],
+   "description": "Precision-fermentation 'designer fats' for food and beauty applications",
+   "investors": [
+    "Industrifonden",
+    "European Innovation Council (EIC) Fund",
+    "Beiersdorf",
+    "Valio",
+    "Chalmers Ventures",
+    "Catalyze Capital"
+   ],
+   "lead_investors": [
+    "Industrifonden"
+   ],
+   "source_name": "vegconomist",
+   "source_url": "https://vegconomist.com/investments-finance/meltmarble-secures-scale-designer-fats-made-precision-fermentation/",
+   "source2_url": "https://www.eu-startups.com/2025/12/swedish-biotech-company-meltmarble-secures-e7-millon-to-scale-designer-fats-in-beauty-and-food/",
+   "confidence": "high",
+   "notes": "Some outlets round to €7M; European Biotechnology and vegconomist report €7.3M Series A. EIC previously awarded a €2.5M grant (2024). Announced ~Dec 8, 2025 (BeBeez/EU-Startups)."
+  },
+  {
+   "company": "Oxzo",
+   "date": "2025-12-04",
+   "date_precision": "day",
+   "stage": "Growth",
+   "amount_value": 25000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "CL",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Chilean aquaculture technology firm making automated oxygenation and aeration systems for fish farms",
+   "investors": [
+    "S2G Investments",
+    "Fiordo Austral",
+    "Altis"
+   ],
+   "lead_investors": [
+    "S2G Investments"
+   ],
+   "source_name": "Undercurrent News",
+   "source_url": "https://www.undercurrentnews.com/2025/12/04/walton-backed-s2g-injects-25m-into-chilean-aquatech-firm-oxzo-to-fuel-overseas-growth/",
+   "source2_url": "https://www.seafoodsource.com/news/aquaculture/s2g-invests-usd-25-million-in-chilean-aquaculture-tech-firm-oxzo",
+   "confidence": "high",
+   "notes": "US$25M strategic investment from S2G Investments (Oceans strategy) to expand beyond Chile, Norway, Canada; Fiordo Austral and Altis are existing backers. Company founded 2004, based in southern Chile; classified Growth (late-stage strategic capital)."
+  },
+  {
+   "company": "GINT",
+   "date": "2025-12-17",
+   "date_precision": "day",
+   "stage": "Series C",
+   "amount_value": 9800000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "KR",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "food-robotics"
+   ],
+   "description": "Korean agricultural autonomy company: autonomous-driving kits for tractors, AI crop management software, robotic pest control",
+   "investors": [
+    "PT. Indo Agritech Investment",
+    "LIG Nex1",
+    "IBK Capital"
+   ],
+   "lead_investors": [
+    "PT. Indo Agritech Investment"
+   ],
+   "source_name": "AsiaTechDaily",
+   "source_url": "https://asiatechdaily.com/gint-raises-9-8m-ahead-of-ipo-as-it-pushes-into-overseas-agtech-markets/",
+   "source2_url": "https://agfundernews.com/south-korea-says-ai-is-no-longer-a-choice-as-agrifoodtech-funding-jumps-171",
+   "confidence": "medium",
+   "notes": "Amount reported in USD-converted terms (~$9.8M, original KRW round); pre-IPO Series C. AgFunderNews confirms December Series C led by PT. Indo Agritech Investment with LIG Nex1 and IBK Capital; aggregators also list KDB, PlanH Ventures, Villans Investment, Xplor Investment (not independently confirmed, so omitted)."
+  },
+  {
+   "company": "Biographica",
+   "date": "2026-01-07",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 8000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "London",
+   "hq_country": "GB",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "description": "AI/graph-ML platform identifying genetic targets for climate-resilient crop trait development; partnership with BASF's Nunhems",
+   "investors": [
+    "Faber",
+    "SuperSeed",
+    "Cardumen Capital",
+    "The Helm",
+    "EQT Foundation",
+    "Sie Ventures"
+   ],
+   "lead_investors": [
+    "Faber"
+   ],
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/exclusive-biographica-raises-9-5m-for-ai-driven-crop-design-unveils-partnership-with-basf",
+   "source2_url": "https://www.eu-startups.com/2026/01/global-food-security-concerns-drive-e8-million-raise-for-londons-agtech-startup-biographica/",
+   "confidence": "high",
+   "notes": "€8M (~£7M / $9.4-9.5M) round announced Jan 7, 2026; round not given a series label in coverage."
+  },
+  {
+   "company": "All G",
+   "date": "2025-12-09",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 10000000,
+   "amount_currency": "AUD",
+   "valuation_usd": null,
+   "hq_city": "Sydney",
+   "hq_country": "AU",
+   "primary_segment": "precision-fermentation",
+   "segments": [
+    "precision-fermentation",
+    "ingredients-biotech"
+   ],
+   "description": "Australian precision-fermentation company producing human and bovine lactoferrin for early-life and adult nutrition",
+   "investors": [],
+   "lead_investors": [],
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/all-g-raises-6-6m-forms-jv-with-armor-proteines-to-scale-human-and-bovine-lactoferrin",
+   "source2_url": "https://www.greenqueen.com.hk/all-g-foods-human-bovine-lactoferrin-funding-armor-proteines/",
+   "confidence": "high",
+   "notes": "Closed 'over A$10M' (~US$6.6M) convertible-note bridge ahead of a planned Series B — mapped to Seed per bridge/convertible rule, but this is a late-stage bridge. Individual investors not disclosed. Announced Dec 9-10, 2025 alongside lactoferrin JV with Armor Proteines (Savencia)."
+  },
+  {
+   "company": "Earthful",
+   "date": "2025-12-01",
+   "date_precision": "month",
+   "stage": "Seed",
+   "amount_value": 260000000,
+   "amount_currency": "INR",
+   "valuation_usd": null,
+   "hq_city": "Hyderabad",
+   "hq_country": "IN",
+   "primary_segment": "personalized-nutrition",
+   "segments": [
+    "personalized-nutrition",
+    "d2c-cpg"
+   ],
+   "description": "Indian plant-based supplements and protein brand targeting women's health (menopause, PCOS, sleep, stress)",
+   "investors": [
+    "Fireside Ventures",
+    "V3 Ventures",
+    "Atrium Angels"
+   ],
+   "lead_investors": [
+    "Fireside Ventures",
+    "V3 Ventures"
+   ],
+   "source_name": "Entrackr",
+   "source_url": "https://entrackr.com/snippets/earthful-raises-rs-26-cr-led-by-fireside-and-v3-ventures-10897435",
+   "source2_url": "https://vegconomist.com/investments-finance/indias-earthful-raise-plant-based-nutrition-products-shark-tank-appearance/",
+   "confidence": "high",
+   "notes": "INR 26 crore (~$2.9M) pre-Series A — mapped to Seed per stage rules. Announced mid-December 2025 (exact day not confirmed). Shark Tank India alum, founded 2020."
+  },
+  {
+   "company": "Borough Broth Company",
+   "date": "2025-12-01",
+   "date_precision": "day",
+   "stage": "Growth",
+   "amount_value": 7500000,
+   "amount_currency": "GBP",
+   "valuation_usd": null,
+   "hq_city": "London",
+   "hq_country": "GB",
+   "primary_segment": "d2c-cpg",
+   "segments": [
+    "d2c-cpg"
+   ],
+   "description": "UK organic, B Corp-certified bone broth brand (~£11M annualized revenue) expanding into soups, stocks and gravies",
+   "investors": [
+    "Piper"
+   ],
+   "lead_investors": [
+    "Piper"
+   ],
+   "source_name": "Food Manufacture",
+   "source_url": "https://www.foodmanufacture.co.uk/Article/2025/12/01/borough-broth-company-has-secured-a-75-million-investment-from-piper/",
+   "source2_url": "https://www.foodbev.com/news/borough-broth-secures-7-5m-investment-to-accelerate-sustainable-growth",
+   "confidence": "high",
+   "notes": "First institutional round: £7.5M from consumer growth investor Piper; funds a new West London facility doubling production capacity. Classified Growth (consumer growth-equity investment)."
+  },
+  {
+   "company": "Ripple Foods",
+   "date": "2025-12-02",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 17000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Berkeley",
+   "hq_country": "US",
+   "primary_segment": "d2c-cpg",
+   "segments": [
+    "d2c-cpg",
+    "alt-protein"
+   ],
+   "description": "Pea-milk and pea-protein ingredient maker riding growth in organic, high-protein and kids' plant-based dairy",
+   "investors": [
+    "Material Impact",
+    "Rich Products Ventures",
+    "S2G Investments",
+    "Prelude Ventures",
+    "Fall Line Capital",
+    "Euclidean Capital",
+    "Tao Capital Partners",
+    "Tim Koogle"
+   ],
+   "lead_investors": [],
+   "source_name": "Green Queen",
+   "source_url": "https://www.greenqueen.com.hk/ripple-foods-pea-milk-funding-organic-protein-plant-based/",
+   "source2_url": "https://www.fooddive.com/news/plant-based-milk-maker-ripple-foods-raises-another-49m-heels-innovation/701538/",
+   "confidence": "high",
+   "notes": "$17M financing (no series label) announced ~Dec 2, 2025; new investors Material Impact and Rich Products Ventures. Total raised >$291M. Note: DigitalFoodLab's week-50 roundup misreported $49M, which was Ripple's Dec 2023 round (see Food Dive)."
+  },
+  {
+   "company": "Wakuli",
+   "date": "2025-12-10",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 5000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Amsterdam",
+   "hq_country": "NL",
+   "primary_segment": "d2c-cpg",
+   "segments": [
+    "d2c-cpg",
+    "supply-chain"
+   ],
+   "description": "Direct-trade specialty coffee scale-up (subscriptions plus 20 Dutch coffee bars) paying farmers above-market prices",
+   "investors": [
+    "European Circular Bioeconomy Fund (ECBF)",
+    "Rabobank"
+   ],
+   "lead_investors": [
+    "European Circular Bioeconomy Fund (ECBF)",
+    "Rabobank"
+   ],
+   "source_name": "ECBF (press release)",
+   "source_url": "https://ecbf.vc/pr-series-a-wakuli/",
+   "source2_url": "https://tech.eu/2025/12/10/wakuli-raises-eur5m-from-ecbf-and-rabobank/",
+   "confidence": "high",
+   "notes": "€5M Series A in mixed debt and equity from ECBF and Rabobank; total raised €9.25M (earlier backers include ABN AMRO Sustainable Impact Fund and Icecat Capital). Announced Dec 10, 2025."
+  },
+  {
+   "company": "Harmony Baby Nutrition",
+   "date": "2025-12-01",
+   "date_precision": "month",
+   "stage": "Grant",
+   "amount_value": 31800000,
+   "amount_currency": "BRL",
+   "valuation_usd": null,
+   "hq_city": "Belo Horizonte",
+   "hq_country": "BR",
+   "primary_segment": "precision-fermentation",
+   "segments": [
+    "precision-fermentation",
+    "personalized-nutrition",
+    "ingredients-biotech"
+   ],
+   "description": "Biotech developing breast milk-inspired infant formula using precision-fermented recombinant human milk proteins (lactoferrin, alpha-lactalbumin, caseins)",
+   "investors": [
+    "BNDES (Brazilian Development Bank)",
+    "Finep"
+   ],
+   "lead_investors": [],
+   "source_name": "Green Queen",
+   "source_url": "https://www.greenqueen.com.hk/harmony-baby-nutrition-infant-formula-recombinant-breast-milk-proteins-funding/",
+   "source2_url": "https://femtechinsider.com/harmony-baby-nutrition-receives-5-8m-from-brazilian-government-to-develop-breast-milk-inspired-infant-formula/",
+   "confidence": "high",
+   "notes": "R$31.8M (~$5.8M) non-dilutive government funding under Brazil's Nova Industria Brasil policy to build an R&D hub in Belo Horizonte. Brazilian-American company (founder is MIT Sloan alum; SOSV portfolio); reported mid-December 2025, exact day not confirmed."
+  },
+  {
+   "company": "Halter",
+   "date": "2026-03-24",
+   "date_precision": "day",
+   "stage": "Series D+",
+   "amount_value": 220000000,
+   "amount_currency": "USD",
+   "valuation_usd": 2000000000,
+   "company_description_check": null,
+   "description": "GPS-enabled smart collars for virtual fencing and herding of cattle",
+   "hq_city": "Auckland",
+   "hq_country": "NZ",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "lead_investors": [
+    "Founders Fund"
+   ],
+   "investors": [
+    "Founders Fund",
+    "Blackbird",
+    "DCVC",
+    "Bond",
+    "Bessemer Venture Partners",
+    "NewView Capital",
+    "Ubiquity Ventures",
+    "Promus Ventures",
+    "Icehouse Ventures"
+   ],
+   "source_name": "Business Wire (company press release)",
+   "source_url": "https://www.businesswire.com/news/home/20260324036414/en/Halter-Raises-$220M-in-Series-E-to-Accelerate-Global-Expansion-of-Virtual-Fencing",
+   "source2_url": "https://www.bloomberg.com/news/articles/2026-03-24/ai-cow-collar-startup-halter-raises-220-million-in-latest-deal",
+   "confidence": "high",
+   "notes": "Series E mapped to Series D+. Round at $2B valuation; one of the largest agtech rounds globally."
+  },
+  {
+   "company": "Tropic",
+   "date": "2026-03-12",
+   "date_precision": "day",
+   "stage": "Series C",
+   "amount_value": 105000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "description": "Gene-edited tropical crops: TR4/Black Sigatoka-resistant and non-browning bananas, plus rice portfolio",
+   "hq_city": "Norwich",
+   "hq_country": "GB",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "lead_investors": [
+    "Corteva",
+    "Forbion (Bioeconomy Fund)"
+   ],
+   "investors": [
+    "Corteva",
+    "Forbion (Bioeconomy Fund)",
+    "Just Climate",
+    "IQ Capital",
+    "ABN AMRO",
+    "Invest International",
+    "Temasek",
+    "Five Seasons Ventures",
+    "Aliment Capital",
+    "Sucden Ventures",
+    "Genoa Ventures",
+    "Polaris Partners"
+   ],
+   "source_name": "Forbion press release",
+   "source_url": "https://forbion.com/news-insights/news/forbion-leads-105-million-series-c-in-tropic-to-scale-commercial-rollout-of-gene-edited-tropical-crops/",
+   "source2_url": "https://agfundernews.com/tropic-bags-105m-to-scale-gene-edited-bananas-deploy-tr4-resistant-bananas-in-2027",
+   "confidence": "high",
+   "notes": "Company site also confirms (tropic.bio/series-c-raise). Consumer launches in US/Canada planned for 2026."
+  },
+  {
+   "company": "Standing Ovation",
+   "date": "2026-03-31",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 30000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "description": "Precision-fermentation casein proteins (alpha-s1, alpha-s2, beta-casein) using acid whey feedstock",
+   "hq_city": "Paris",
+   "hq_country": "FR",
+   "primary_segment": "precision-fermentation",
+   "segments": [
+    "precision-fermentation",
+    "alt-protein",
+    "ingredients-biotech"
+   ],
+   "lead_investors": [
+    "Bpifrance (Ecotechnologies 2 fund)",
+    "Crédit Mutuel Innovation"
+   ],
+   "investors": [
+    "Bpifrance (Ecotechnologies 2 fund)",
+    "Crédit Mutuel Innovation",
+    "Astanor",
+    "Bel Group",
+    "Seventure Partners",
+    "GoodStartUp",
+    "Danone Ventures",
+    "Big Idea Ventures",
+    "Angelor",
+    "Newtree",
+    "Noshaq"
+   ],
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/standing-ovation-nets-34m-gears-up-for-us-launch-of-casein-via-precision-fermentation",
+   "source2_url": "https://www.eu-startups.com/2026/03/paris-based-standing-ovation-raises-e30-million-to-produce-dairy-proteins-through-precision-fermentation/",
+   "confidence": "high",
+   "notes": "€30M total (~$34M) = ~€25M equity Series B + ~€5M non-dilutive. US commercialization of casein in 2026, Europe/Asia late 2027."
+  },
+  {
+   "company": "Saltz",
+   "date": "2026-03-09",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 20000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "description": "B2B digital marketplace connecting professional kitchens directly with verified food suppliers across Europe",
+   "hq_city": "Vilnius",
+   "hq_country": "LT",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain",
+    "restaurant-tech"
+   ],
+   "lead_investors": [],
+   "investors": [
+    "EBRD",
+    "Inovo",
+    "Lifeline Ventures",
+    "Change Ventures",
+    "Mantas Mikuckas (Vinted founder, angel)",
+    "Miki Kuusi (Wolt founder, angel)"
+   ],
+   "source_name": "Tech.eu",
+   "source_url": "https://tech.eu/2026/03/09/saltz-raises-eur20m-to-build-global-chef-supplier-marketplace/",
+   "source2_url": "https://www.eu-startups.com/2026/03/vilnius-based-food-supply-marketplace-saltz-raises-e20-million-series-a-plans-100-hires-as-it-expands-across-europe/",
+   "confidence": "high",
+   "notes": "Founded 2022; offices in Vilnius, Berlin, Warsaw, Krakow. Lead investor not clearly designated across sources. Also includes Shopify executives as angels."
+  },
+  {
+   "company": "Agriodor",
+   "date": "2026-04-15",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 15000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "description": "Olfactory biocontrol: natural volatile scent blends that repel crop pest insects without harming pollinators",
+   "hq_city": "Rennes",
+   "hq_country": "FR",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "lead_investors": [
+    "Crédit Mutuel Impact (Fonds Révolution Environnementale et Solidaire)"
+   ],
+   "investors": [
+    "Crédit Mutuel Impact (Fonds Révolution Environnementale et Solidaire)",
+    "Région Sud Investissement",
+    "CAAP Création (Crédit Agricole Alpes-Provence)",
+    "Capagro",
+    "Ambra Capital",
+    "SWEN Capital Partners"
+   ],
+   "source_name": "Tech.eu",
+   "source_url": "https://tech.eu/2026/04/15/agriodor-raises-eur15-million-to-expand-scent-based-crop-protection-globally/",
+   "source2_url": "https://capagro.fr/olfactory-biocontrol-pioneer-agriodor-raises-e15m-series-a-to-accelerate-global-deployment-of-its-technology-in-international-crop-protection-markets",
+   "confidence": "high",
+   "notes": "INRAE spin-off founded 2019; INSIOR Gr A marketed in partnership with Syngenta."
+  },
+  {
+   "company": "Seprify",
+   "date": "2026-03-10",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 13400000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "description": "Cellulose-based white pigment ingredients replacing titanium dioxide in food, cosmetics and coatings (food grade: SilvaAlba)",
+   "hq_city": null,
+   "hq_country": "CH",
+   "primary_segment": "ingredients-biotech",
+   "segments": [
+    "ingredients-biotech"
+   ],
+   "lead_investors": [],
+   "investors": [
+    "Inter IKEA Group",
+    "Una Terra Early Growth Fund",
+    "Zürcher Kantonalbank",
+    "Cambridge Enterprise Ventures",
+    "Kickfund"
+   ],
+   "source_name": "Tech.eu",
+   "source_url": "https://tech.eu/2026/03/10/inter-ikea-group-backs-seprifys-eur134m-series-a-to-scale-cellulose-materials-platform/",
+   "source2_url": "https://www.greenqueen.com.hk/seprify-cellulose-materials-titanium-dioxide-funding/",
+   "confidence": "high",
+   "notes": "€13.4M (~$15.7M). TiO2 banned as EU food additive since 2022; scaling to hundreds of tonnes/year via manufacturing partners. Lead not explicitly designated; Inter IKEA Group most prominent backer."
+  },
+  {
+   "company": "AgZen",
+   "date": "2026-03-13",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 10000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "description": "Precision spraying / droplet-level pesticide application optimization (RealCoverage feedback-optimized spraying)",
+   "hq_city": "Boston",
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "lead_investors": [
+    "DCVC Bio"
+   ],
+   "investors": [
+    "DCVC Bio",
+    "Material Impact",
+    "Astanor Ventures",
+    "Syngenta Group Ventures"
+   ],
+   "source_name": "GlobeNewswire (company press release)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/03/13/3255681/0/en/agzen-secures-10-million-series-b-to-fuel-rapid-growth-after-accelerated-adoption-by-growers-industry.html",
+   "source2_url": "https://agfundernews.com/precision-spraying-startup-agzen-nets-10m-series-b-quantifiable-roi-drove-our-investment-says-dcvc-bio",
+   "confidence": "high",
+   "notes": "MIT spinout. Syngenta partnership plus strategic investment from Syngenta Group Ventures announced alongside the round. 2M+ acres committed for 2026 across three continents."
+  },
+  {
+   "company": "Mezcla",
+   "date": "2026-03-05",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 9500000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "description": "Plant-based protein bars with crispy pea-protein puff texture (D2C/retail CPG brand)",
+   "hq_city": "New York",
+   "hq_country": "US",
+   "primary_segment": "d2c-cpg",
+   "segments": [
+    "d2c-cpg",
+    "alt-protein"
+   ],
+   "lead_investors": [
+    "Bluestein Ventures"
+   ],
+   "investors": [
+    "Bluestein Ventures",
+    "Santatera Capital",
+    "Grupo DMI",
+    "Lever VC",
+    "Habitat Partners",
+    "Tonic Ventures",
+    "Steve Platt (angel)",
+    "SG Credit Partners (debt)"
+   ],
+   "source_name": "Green Queen",
+   "source_url": "https://www.greenqueen.com.hk/mezcla-plant-based-protein-bar-vegan-funding/",
+   "source2_url": null,
+   "confidence": "medium",
+   "notes": "Round includes debt financing from SG Credit Partners. Green Queen coverage dated March 4-5, 2026."
+  },
+  {
+   "company": "eternal.ag",
+   "date": "2026-03-19",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 8000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "description": "AI-powered autonomous harvesting robots for greenhouses (first product: tomato harvester, up to 22h/day)",
+   "hq_city": "Cologne",
+   "hq_country": "DE",
+   "primary_segment": "food-robotics",
+   "segments": [
+    "food-robotics",
+    "agtech-upstream"
+   ],
+   "lead_investors": [],
+   "investors": [
+    "Simon Capital",
+    "Oyster Bay Venture Capital",
+    "EquityPitcher Ventures",
+    "Backbone Ventures"
+   ],
+   "source_name": "Tech.eu",
+   "source_url": "https://tech.eu/2026/03/19/eternalag-raises-eur8m-to-automate-greenhouse-harvesting-with-ai-powered-robots/",
+   "source2_url": "https://www.vestbee.com/insights/articles/eternal-raises-8-m",
+   "confidence": "high",
+   "notes": "Founded 2025 by Renji John and Sherry Kunjachan; emerged from stealth with this round. Round stage not labeled in any consulted source (likely seed-stage given stealth exit)."
+  },
+  {
+   "company": "Wikifarmer",
+   "date": "2026-03-17",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 7100000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "description": "B2B agricultural trade platform using AI for price discovery, buyer-supplier matching and transactions; evolved from 'Wikipedia of Farming'",
+   "hq_city": "Athens",
+   "hq_country": "GR",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain",
+    "agtech-upstream"
+   ],
+   "lead_investors": [
+    "Brighteye Ventures",
+    "Piraeus Bank"
+   ],
+   "investors": [
+    "Brighteye Ventures",
+    "Piraeus Bank",
+    "Point Nine Capital",
+    "Metavallon VC"
+   ],
+   "source_name": "Tech.eu",
+   "source_url": "https://tech.eu/2026/03/17/wikifarmer-raises-77m-to-develop-ai-tools-for-the-agricultural-supply-chain/",
+   "source2_url": "https://www.eu-startups.com/2026/03/wikifarmer-raises-e7-1-million-to-evolve-from-wikipedia-of-farming-into-an-operating-system-for-agricultural-trade/",
+   "confidence": "high",
+   "notes": "€7.1M ($7.7M); total funding now ~€15.6M. Also launching FarmClick JV with Piraeus Bank in Greece. Round stage not labeled in consulted sources."
+  },
+  {
+   "company": "Cellva Ingredients",
+   "date": "2026-03-06",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 20000000,
+   "amount_currency": "BRL",
+   "valuation_usd": null,
+   "description": "Upcycles coffee-production byproducts into CoffeeCoa, a cocoa-replacement ingredient (up to 70% cocoa substitution)",
+   "hq_city": null,
+   "hq_country": "BR",
+   "primary_segment": "ingredients-biotech",
+   "segments": [
+    "ingredients-biotech",
+    "food-waste"
+   ],
+   "lead_investors": [
+    "DigiBoard"
+   ],
+   "investors": [
+    "DigiBoard",
+    "Air Capital",
+    "Rubens Pereira (angel)"
+   ],
+   "source_name": "Green Queen",
+   "source_url": "https://www.greenqueen.com.hk/brazil-cellva-ingredients-coffee-waste-cocoa-free-chocolate-funding/",
+   "source2_url": "https://futurefoodtechsf.com/articles/cellva-enters-new-growth-phase-following-pre-series-round-expands-industrial-biotech-platform",
+   "confidence": "medium",
+   "notes": "Reported as 'pre-Series A' (mapped to Seed). R$20M ~= $3.8-4M. Building semi-industrial R&D/processing plant in Manaus; targeting North America and Europe by end of 2026."
+  },
+  {
+   "company": "Orchard Robotics",
+   "date": "2025-09-03",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 22000000,
+   "amount_currency": "USD",
+   "hq_city": null,
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "food-robotics"
+   ],
+   "description": "AI-powered camera and data platform for precision crop management in orchards and vineyards",
+   "lead_investors": [
+    "Quiet Capital",
+    "Shine Capital"
+   ],
+   "investors": [
+    "Quiet Capital",
+    "Shine Capital",
+    "General Catalyst",
+    "Contrary",
+    "Mythos",
+    "Valyrian",
+    "Ravelin",
+    "Nico Rosberg",
+    "Howard Lerman"
+   ],
+   "valuation_usd": null,
+   "source_name": "Business Wire",
+   "source_url": "https://www.businesswire.com/news/home/20250903369582/en/Orchard-Robotics-Raises-$22M-to-Build-the-AI-Farmer-and-Secure-Americas-Food-Supply",
+   "source2_url": "https://agfundernews.com/the-week-in-agrifoodtech-kraft-heinz-breaking-up-egrocery-outfits-raise-funds-alt-meat-startups-sue-texas",
+   "confidence": "high",
+   "notes": "Oversubscribed round; founded by Thiel Fellow Charlie Wu; total funding over $25M"
+  },
+  {
+   "company": "Xampla",
+   "date": "2025-09-03",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 14000000,
+   "amount_currency": "USD",
+   "hq_city": "Cambridge",
+   "hq_country": "GB",
+   "primary_segment": "packaging",
+   "segments": [
+    "packaging",
+    "food-waste"
+   ],
+   "description": "Cambridge University spinout making plant-protein Morro materials to replace single-use plastic in food packaging",
+   "lead_investors": [
+    "Emerald Technology Ventures",
+    "BGF",
+    "Matterwave Ventures"
+   ],
+   "investors": [
+    "Emerald Technology Ventures",
+    "BGF",
+    "Matterwave Ventures",
+    "Cambridge Enterprise Ventures",
+    "Amadeus Capital Partners",
+    "Horizons Ventures"
+   ],
+   "valuation_usd": null,
+   "source_name": "GlobeNewswire",
+   "source_url": "https://www.globenewswire.com/news-release/2025/09/03/3143329/0/en/TEN-BILLION-items-of-single-use-plastic-to-be-replaced-following-14m-investment-in-Xampla.html",
+   "source2_url": "https://tech.eu/2025/09/03/xampla-secures-14m-to-replace-10-billion-units-of-single-use-plastic/",
+   "confidence": "high",
+   "notes": "Total funding to date $17.6M; targets replacing 10 billion single-use plastic items over five years"
+  },
+  {
+   "company": "NeoFarm",
+   "date": "2025-09-12",
+   "date_precision": "month",
+   "stage": "Series B",
+   "amount_value": 30000000,
+   "amount_currency": "EUR",
+   "hq_city": null,
+   "hq_country": "FR",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "food-robotics"
+   ],
+   "description": "Automated robotic agroecological vegetable farms producing local organic produce",
+   "lead_investors": [
+    "ADEME Investissement",
+    "Eurazeo Smart City"
+   ],
+   "investors": [
+    "ADEME Investissement",
+    "Eurazeo Smart City",
+    "Bpifrance",
+    "Cléry",
+    "Karl Leitzgen family office"
+   ],
+   "valuation_usd": null,
+   "source_name": "iGrow News",
+   "source_url": "https://igrownews.com/neofarm-latest-news/",
+   "source2_url": "https://www.agnavigator.com/Article/2025/09/18/neofarm-breaks-ground-on-europes-largest-agroecological-vegetable-farm-following-30m-fundraise/",
+   "confidence": "medium",
+   "notes": "Announced mid-September 2025 (covered in French Tech Journal funding wire of Sept 12); funds 25-hectare flagship farm in Lisses, Essonne"
+  },
+  {
+   "company": "Nofence",
+   "date": "2025-09-16",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 30000000,
+   "amount_currency": "EUR",
+   "hq_city": null,
+   "hq_country": "NO",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "GPS solar-powered virtual fencing collars for cattle, sheep and goat grazing management",
+   "lead_investors": [
+    "European Circular Bioeconomy Fund (ECBF)"
+   ],
+   "investors": [
+    "European Circular Bioeconomy Fund (ECBF)",
+    "Capagro",
+    "Nysnø Climate Investments",
+    "Climate Innovation Capital",
+    "Speedinvest",
+    "Sandwater",
+    "Momentum",
+    "Ferd"
+   ],
+   "valuation_usd": null,
+   "source_name": "PR Newswire",
+   "source_url": "https://www.prnewswire.com/news-releases/nofence-raises-over-35-million-in-series-b-funding-to-accelerate-us-expansion-and-global-growth-302557526.html",
+   "source2_url": "https://arcticstartup.com/nofence-raises-35-million-series-b/",
+   "confidence": "high",
+   "notes": "Reported as over $35M / €30M; founded in Norway 2011, US operations HQ in St. Paul, Minnesota; round closed in July, announced Sept 16 2025"
+  },
+  {
+   "company": "Nory",
+   "date": "2025-09-16",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 37000000,
+   "amount_currency": "USD",
+   "hq_city": "London",
+   "hq_country": "GB",
+   "primary_segment": "restaurant-tech",
+   "segments": [
+    "restaurant-tech"
+   ],
+   "description": "AI-native restaurant operating system covering inventory, workforce, payroll and business intelligence",
+   "lead_investors": [
+    "Kinnevik"
+   ],
+   "investors": [
+    "Kinnevik",
+    "Accel",
+    "Base10",
+    "Triple Point",
+    "Samaipata"
+   ],
+   "valuation_usd": null,
+   "source_name": "Tech.eu",
+   "source_url": "https://tech.eu/2025/09/16/nory-closes-37m-series-b-to-automate-restaurant-operations-with-ai/",
+   "source2_url": "https://www.siliconrepublic.com/start-ups/nory-ai-restaurant-management-platform-hospitality-37m-raise-funding-conor-sheridan",
+   "confidence": "high",
+   "notes": "Total funding $62.6M; founded in Dublin by Conor Sheridan, widely reported as London-based; funds US expansion"
+  },
+  {
+   "company": "BRAINR",
+   "date": "2025-09-12",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 11000000,
+   "amount_currency": "EUR",
+   "hq_city": "Leiria",
+   "hq_country": "PT",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain"
+   ],
+   "description": "Cloud-native AI factory operating system digitizing food manufacturing (meat, poultry, dairy, bakery)",
+   "lead_investors": [
+    "C2 Capital Partners"
+   ],
+   "investors": [
+    "C2 Capital Partners"
+   ],
+   "valuation_usd": null,
+   "source_name": "Silicon Canals",
+   "source_url": "https://siliconcanals.com/brainr-raises-e11m/",
+   "source2_url": "https://agfundernews.com/the-week-in-agrifoodtech-european-agrifood-funding-bonanza-conservation-projects-from-danone-mcdonalds-corteva-breakup-hints",
+   "confidence": "high",
+   "notes": "Reported as largest seed round in Portugal's history; spun out of poultry group Grupo Lusiaves; manages over 30% of Portugal's meat production"
+  },
+  {
+   "company": "Petpooja",
+   "date": "2025-09-29",
+   "date_precision": "day",
+   "stage": "Series C",
+   "amount_value": 1370000000,
+   "amount_currency": "INR",
+   "hq_city": "Ahmedabad",
+   "hq_country": "IN",
+   "primary_segment": "restaurant-tech",
+   "segments": [
+    "restaurant-tech"
+   ],
+   "description": "Restaurant POS and management platform serving 100,000+ restaurants in India, Middle East, US and Africa",
+   "lead_investors": [
+    "Dharana Capital"
+   ],
+   "investors": [
+    "Dharana Capital",
+    "Ashish Gupta",
+    "Abhiraj Singh Bhal",
+    "Varun Khaitan",
+    "Raghav Chandra",
+    "Mukund Kulashekaran"
+   ],
+   "valuation_usd": null,
+   "source_name": "YourStory",
+   "source_url": "https://yourstory.com/2025/09/dharana-capital-rs-137-crore-funding-round-restaurant-management-startup-petpooja",
+   "source2_url": "https://entrackr.com/news/petpooja-raises-155-mn-series-c-at-over-3x-valuation-premium-10512396",
+   "confidence": "high",
+   "notes": "INR 137 crore (~$15.5M); ~3.5x valuation step-up; first raise in four years; angels include Urban Company founders"
+  },
+  {
+   "company": "Aydi",
+   "date": "2025-09-30",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 7500000,
+   "amount_currency": "USD",
+   "hq_city": "Dubai",
+   "hq_country": "AE",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Agritech SaaS platform with AI agronomy assistant Orth combining satellite monitoring and predictive analytics for growers",
+   "lead_investors": [
+    "COTU Ventures",
+    "Daltex",
+    "Nuwa Capital"
+   ],
+   "investors": [
+    "COTU Ventures",
+    "Daltex",
+    "Nuwa Capital",
+    "Magrabi Agriculture",
+    "Foundation Ventures"
+   ],
+   "valuation_usd": null,
+   "source_name": "Wamda",
+   "source_url": "https://www.wamda.com/2025/09/aydi-raises-7-5-million-seed-launch-ai-agronomy-assistant",
+   "source2_url": "https://www.forbesmiddleeast.com/innovation/startups/agritech-firm-aydi-secures-$75m-in-seed-funding-round",
+   "confidence": "high",
+   "notes": "Founded 2022 by Hassan Fayed; Orth launched at Fruit Attraction Madrid"
+  },
+  {
+   "company": "SwarmFarm Robotics",
+   "date": "2025-10-02",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 30000000,
+   "amount_currency": "AUD",
+   "hq_city": null,
+   "hq_country": "AU",
+   "primary_segment": "food-robotics",
+   "segments": [
+    "food-robotics",
+    "agtech-upstream"
+   ],
+   "description": "Autonomous farm robots (SwarmBots) delivering integrated automation for broadacre agriculture",
+   "lead_investors": [
+    "Edaphon"
+   ],
+   "investors": [
+    "Edaphon",
+    "QIC",
+    "Clean Energy Finance Corporation",
+    "Tenacious Ventures",
+    "GrainInnovate (Artesian Venture Partners)",
+    "Emmertech",
+    "Tribe Global Ventures",
+    "Access Capital"
+   ],
+   "valuation_usd": null,
+   "source_name": "Robotics and Automation News",
+   "source_url": "https://roboticsandautomationnews.com/2025/10/02/swarmfarm-robotics-raises-30-million-to-scale-farm-bot-fleet-and-expand-into-north-america/95107/",
+   "source2_url": "https://agfundernews.com/the-week-in-agrifoodtech-swarmfarm-robotics-nabs-30m-doordash-delivery-bots-new-carbon-fund-from-cibus",
+   "confidence": "high",
+   "notes": "AUD 30M; includes $7M AUD from Powering Australia Technology Fund (CEFC); funds Toowoomba manufacturing expansion and North America entry; Queensland-based"
+  },
+  {
+   "company": "Asterix Foods",
+   "date": "2025-10-08",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 4200000,
+   "amount_currency": "USD",
+   "hq_city": null,
+   "hq_country": "IL",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein",
+    "ingredients-biotech"
+   ],
+   "description": "Plant cell culture platform producing bioactive dairy and egg proteins at a fraction of precision fermentation cost",
+   "lead_investors": [
+    "CPT Capital"
+   ],
+   "investors": [
+    "CPT Capital",
+    "ReGen Ventures",
+    "SOSV",
+    "Grok Ventures",
+    "Israel Innovation Authority"
+   ],
+   "valuation_usd": null,
+   "source_name": "Business Wire",
+   "source_url": "https://www.businesswire.com/news/home/20251008495846/en/Asterix-Foods-Emerges-From-Stealth-With-$4.2M-Promising-Bioactive-Proteins-at-a-Fraction-of-the-Cost-of-Precision-Fermentation",
+   "source2_url": "https://agfundernews.com/exclusive-asterix-foods-emerges-from-stealth-to-unlock-2nd-wave-of-animal-free-proteins-in-plant-cell-culture",
+   "confidence": "high",
+   "notes": "Emerged from stealth Oct 8 2025; founded 2022 by Dan Even; licenses cell lines and bioreactors to ingredient/dairy manufacturers"
+  },
+  {
+   "company": "Phagos",
+   "date": "2025-10-10",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 25000000,
+   "amount_currency": "EUR",
+   "hq_city": "Paris",
+   "hq_country": "FR",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "description": "AI-driven bacteriophage therapy platform (Alphagos) replacing antibiotics in livestock production",
+   "lead_investors": [
+    "Capagro",
+    "Hoxton Ventures",
+    "CapHorn",
+    "Demeter"
+   ],
+   "investors": [
+    "Capagro",
+    "Hoxton Ventures",
+    "CapHorn",
+    "Demeter",
+    "Acurio Ventures",
+    "Citizen Capital",
+    "Entrepreneur First",
+    "Founders Capital",
+    "Station F"
+   ],
+   "valuation_usd": null,
+   "source_name": "The Phage",
+   "source_url": "https://www.thephage.xyz/2025/10/10/phagos-secures-e25-million-to-advance-ai-driven-phage-therapy-for-livestock/",
+   "source2_url": "https://capagro.fr/phagos-raises-e25m-to-end-bacterial-disease/",
+   "confidence": "high",
+   "notes": "€25M (~US$29M); first company authorized to market personalized veterinary phage treatments in the EU; founded 2021"
+  },
+  {
+   "company": "The Better Meat Co",
+   "date": "2025-08-19",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 31000000,
+   "amount_currency": "USD",
+   "hq_city": "Sacramento",
+   "hq_country": "US",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein",
+    "ingredients-biotech"
+   ],
+   "description": "Produces Rhiza mycoprotein via biomass fermentation of Neurospora fungi as a meat-enhancing/alternative protein ingredient",
+   "lead_investors": [
+    "Future Ventures",
+    "Resilience Reserve"
+   ],
+   "investors": [
+    "Future Ventures",
+    "Resilience Reserve",
+    "Glenn Hickman (Hickman's Family Farms)",
+    "Epic Ventures",
+    "Sigmas Group"
+   ],
+   "valuation_usd": null,
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/better-meat-co-raises-31m-series-a-some-days-building-a-startup-in-our-sector-can-feel-like-being-a-player-in-squid-game",
+   "source2_url": "https://www.greenqueen.com.hk/alternative-protein-investment-plant-based-startup-q3-2025-funding/",
+   "confidence": "high",
+   "notes": "Oversubscribed round; funds scale-up from 9,000L to 90,000L fermentation capacity"
+  },
+  {
+   "company": "NuCicer",
+   "date": "2025-07-30",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 11500000,
+   "amount_currency": "USD",
+   "hq_city": null,
+   "hq_country": "US",
+   "primary_segment": "ingredients-biotech",
+   "segments": [
+    "ingredients-biotech",
+    "agtech-upstream"
+   ],
+   "description": "Predictive breeding of ultra-high-protein chickpea varieties (up to 35% protein) for minimally processed flour and protein ingredients",
+   "lead_investors": [
+    "Rhapsody Venture Partners"
+   ],
+   "investors": [
+    "Rhapsody Venture Partners",
+    "Leaps by Bayer",
+    "Illumina Ventures",
+    "Better Ventures",
+    "Stray Dog Capital"
+   ],
+   "valuation_usd": null,
+   "source_name": "Nutrition Insight",
+   "source_url": "https://www.nutritioninsight.com/news/nucicer-funding-high-protein-chickpeas-breeding.html",
+   "source2_url": "https://www.mofo.com/resources/news/250808-mofo-advises-nucicer-on-11-5-million-series-a-funding-led",
+   "confidence": "high",
+   "notes": "An unnamed leading global food company also participated; 2,500+ acres planted in 2025 with plans to 10x in 2026"
+  },
+  {
+   "company": "Fermelanta",
+   "date": "2025-08-28",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 2000000000,
+   "amount_currency": "JPY",
+   "hq_city": null,
+   "hq_country": "JP",
+   "primary_segment": "ingredients-biotech",
+   "segments": [
+    "ingredients-biotech",
+    "precision-fermentation"
+   ],
+   "description": "Japanese biomanufacturing startup engineering microbes to produce complex plant secondary metabolites (flavonoids, carotenoids, pigments, vitamins) for food additives, nutraceuticals and agrochemicals",
+   "lead_investors": [
+    "Universal Materials Incubator Co",
+    "Beyond Next Ventures"
+   ],
+   "investors": [
+    "Universal Materials Incubator Co",
+    "Beyond Next Ventures",
+    "Angel Bridge"
+   ],
+   "valuation_usd": null,
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/fermelanta-nets-13-6m-to-engineer-microbes-for-complex-plant-metabolite-production",
+   "source2_url": "https://www.edibleplanetventures.com/post/microbes-as-factories-fermelanta-raises-13m-to-advance-japan-s-bioeconomy-goals",
+   "confidence": "high",
+   "notes": "JPY 2bn (~$13.6M); includes a grant under Japan's Deep Tech Startup Support Program; total raised JPY 4.8bn. Date is AgFunderNews coverage date (late Aug 2025). Applications span food, nutraceutical and pharma ingredients"
+  },
+  {
+   "company": "Vox AI",
+   "date": "2025-08-27",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 8700000,
+   "amount_currency": "USD",
+   "hq_city": "Amsterdam",
+   "hq_country": "NL",
+   "primary_segment": "restaurant-tech",
+   "segments": [
+    "restaurant-tech"
+   ],
+   "description": "Conversational voice AI platform for QSR drive-thru ordering and restaurant operations automation (90+ languages)",
+   "lead_investors": [
+    "Headline"
+   ],
+   "investors": [
+    "Headline",
+    "True",
+    "Simon Capital",
+    "Souschef Ventures"
+   ],
+   "valuation_usd": null,
+   "source_name": "Businesswire",
+   "source_url": "https://www.businesswire.com/news/home/20250827818007/en/Vox-AI-Raises-$8.7M-Seed-Funding-to-Transform-Drive-Thrus-and-Quick-Service-Restaurant-Operations-with-Autonomous-Voice-AI",
+   "source2_url": "https://siliconcanals.com/vox-ai-raises-7-5m/",
+   "confidence": "high",
+   "notes": "€7.5M / $8.7M; total raised $10M; opening San Francisco office"
+  },
+  {
+   "company": "Suplyd",
+   "date": "2025-08-04",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 2000000,
+   "amount_currency": "USD",
+   "hq_city": "Cairo",
+   "hq_country": "EG",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain",
+    "restaurant-tech"
+   ],
+   "description": "Digital procurement and supply chain platform for Egypt's HORECA sector (hotels, restaurants, cafes), serving 5,000+ restaurants",
+   "lead_investors": [
+    "4DX Ventures",
+    "Camel Ventures",
+    "Plus VC"
+   ],
+   "investors": [
+    "4DX Ventures",
+    "Camel Ventures",
+    "Plus VC",
+    "Seedstars"
+   ],
+   "valuation_usd": null,
+   "source_name": "Wamda",
+   "source_url": "https://www.wamda.com/2025/08/suplyd-raises-2-million-pre-series-a-build-gen-restaurant-infrastructure",
+   "source2_url": "https://disruptafrica.com/2025/08/06/egypts-suplyd-raises-2m-to-enhance-restaurants-supply-chain-beyond-distribution/",
+   "confidence": "high",
+   "notes": "Described as pre-Series A (mapped to Seed); existing investors also participated"
+  },
+  {
+   "company": "Wastelink",
+   "date": "2025-08-25",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 270000000,
+   "amount_currency": "INR",
+   "hq_city": "Delhi",
+   "hq_country": "IN",
+   "primary_segment": "food-waste",
+   "segments": [
+    "food-waste",
+    "supply-chain"
+   ],
+   "description": "B2B food upcycling startup using an AI-powered tech stack to convert surplus food into animal feed ingredients (ECOMIX)",
+   "lead_investors": [
+    "Avaana Capital"
+   ],
+   "investors": [
+    "Avaana Capital"
+   ],
+   "valuation_usd": null,
+   "source_name": "Inc42",
+   "source_url": "https://inc42.com/buzz/wastelink-bags-3-mn-to-turn-surplus-food-into-animal-feed/",
+   "source2_url": "https://startupnews.fyi/2025/08/25/wastelink-raises-inr-27-cr-from-avaana-capital-to-strengthen-indias-animal-feed-supply-chain-with-sustainable-upcycled-nutrition/",
+   "confidence": "high",
+   "notes": "INR 27 crore (~$3M); founded 2018; has processed 35,000+ tons of surplus food"
+  },
+  {
+   "company": "Soil Action",
+   "date": "2025-08-12",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 5250000,
+   "amount_currency": "USD",
+   "hq_city": null,
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Wyoming-based ag intelligence company combining near-infrared spectroscopy and ML for real-time in-field soil chemistry/nutrient analysis",
+   "lead_investors": [
+    "R7 Partners"
+   ],
+   "investors": [
+    "R7 Partners",
+    "Climactic VC",
+    "Dolby Family Ventures",
+    "Ponderosa Ventures",
+    "The University of Wyoming Foundation",
+    "Ag Ventures Alliance"
+   ],
+   "valuation_usd": null,
+   "source_name": "ACCESS Newswire (via The Globe and Mail)",
+   "source_url": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/34083326/soil-action-raises-525m-to-end-the-guesswork-beneath-the-surface/",
+   "source2_url": "https://agventuresalliance.com/news/agva-portfolio-company-soil-action-raises-5-25m-to-end-the-guesswork-beneath-the-surface/",
+   "confidence": "high",
+   "notes": null
+  },
+  {
+   "company": "BioConsortia",
+   "date": "2025-08-04",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 15000000,
+   "amount_currency": "USD",
+   "hq_city": "Davis",
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "description": "Ag biotech developing microbial products; raised to scale Always-N nitrogen-fixing seed treatment for corn globally",
+   "lead_investors": [
+    "Otter Capital"
+   ],
+   "investors": [
+    "Otter Capital"
+   ],
+   "valuation_usd": null,
+   "source_name": "AgriTechTomorrow (company release)",
+   "source_url": "https://www.agritechtomorrow.com/news/2025/08/04/bioconsortia-closes-financing-to-accelerate-launch-of-next-generation-nitrogen-fixing-biofertilizer-and-fuel-global-expansion/16842/",
+   "source2_url": "https://www.newaginternational.com/biofertilizer/bioconsortia-secures-15m-to-scale-nitrogen-fixing-seed-treatment-product/",
+   "confidence": "high",
+   "notes": "Insider round led by existing investor Otter Capital and affiliated funds; stage not disclosed; total raised $95M since 2014"
+  },
+  {
+   "company": "Hyphen",
+   "date": "2025-08-13",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 25000000,
+   "amount_currency": "USD",
+   "hq_city": "San Jose",
+   "hq_country": "US",
+   "primary_segment": "food-robotics",
+   "segments": [
+    "food-robotics",
+    "restaurant-tech"
+   ],
+   "description": "Restaurant robotics company building the Automated Makeline for automated bowl/meal assembly in fast-casual kitchens",
+   "lead_investors": [],
+   "investors": [
+    "CAVA Group"
+   ],
+   "valuation_usd": null,
+   "source_name": "PRNewswire",
+   "source_url": "https://www.prnewswire.com/news-releases/hyphen-raises-25m-to-scale-automated-makelines-302528651.html",
+   "source2_url": "https://www.vendingtimes.com/news/hyphen-secures-25m-in-series-b-funding-to-scale-automated-makelines/",
+   "confidence": "high",
+   "notes": "CAVA committed $5M plus an additional $5M subject to undisclosed terms (its first such investment); full investor list/lead not disclosed"
+  },
+  {
+   "company": "Geltor",
+   "date": "2025-08-11",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": "San Leandro",
+   "hq_country": "US",
+   "primary_segment": "precision-fermentation",
+   "segments": [
+    "precision-fermentation",
+    "ingredients-biotech",
+    "personalized-nutrition"
+   ],
+   "description": "Biodesign company producing animal-free collagen and other polypeptides via precision fermentation for ingestible and topical applications",
+   "lead_investors": [
+    "iSelect Fund"
+   ],
+   "investors": [
+    "iSelect Fund"
+   ],
+   "valuation_usd": null,
+   "source_name": "vegconomist",
+   "source_url": "https://vegconomist.com/investments-finance/geltor-closes-equity-financing-round-animal-free-beauty-ingredients/",
+   "source2_url": "https://cultivated-x.com/investments-finance/geltor-closes-equity-financing-round-animal-free-beauty-ingredients/",
+   "confidence": "medium",
+   "notes": "Round size undisclosed; brings total raised to $137M. Co-led by iSelect Fund with significant participation from existing investors. Focus skews beauty/wellness but includes ingestible collagen with FDA GRAS 'no questions' letter"
+  },
+  {
+   "company": "Better Nature",
+   "date": "2025-08-05",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 1100000,
+   "amount_currency": "GBP",
+   "hq_city": "London",
+   "hq_country": "GB",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein",
+    "d2c-cpg"
+   ],
+   "description": "UK's leading tempeh brand making high-protein, gut-friendly fermented plant-based products",
+   "lead_investors": [],
+   "investors": [],
+   "valuation_usd": null,
+   "source_name": "Food Manufacture",
+   "source_url": "https://www.foodmanufacture.co.uk/Article/2025/08/06/better-nature-raises-11m-to-accelerate-growth-of-tempeh-range/",
+   "source2_url": "https://www.greenqueen.com.hk/better-nature-tempeh-funding-chicken-protein-sales-revenue/",
+   "confidence": "high",
+   "notes": "GBP 1.1M (~$1.5M) mostly from existing investors, following record quarterly sales; individual investor names not disclosed; stage not stated"
+  },
+  {
+   "company": "TerraBlaster",
+   "date": "2025-08-06",
+   "date_precision": "day",
+   "stage": "Pre-seed",
+   "amount_value": 4000000,
+   "amount_currency": "USD",
+   "hq_city": "St. Louis",
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Soil health analytics startup using NASA-derived laser-induced breakdown spectroscopy (LIBS) for real-time NPK soil mapping at tractor speed",
+   "lead_investors": [
+    "Khosla Ventures"
+   ],
+   "investors": [
+    "Khosla Ventures",
+    "Trailhead Capital",
+    "OCP Group",
+    "The Reservoir"
+   ],
+   "valuation_usd": null,
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/the-week-in-agrifoodtech-aerofarms-raises-equity-terrablaster-bags-4m-rihanna-backs-africas-female-climate-founders",
+   "source2_url": "https://globalaginvesting.com/vc-firm-trailhead-capital-joins-agtech-terrablasters-oversubscribed-4m-pre-seed-round/",
+   "confidence": "high",
+   "notes": "Oversubscribed pre-seed; spinout of Impossible Sensing; sources vary on whether Khosla Ventures or Trailhead led"
+  },
+  {
+   "company": "Slang AI",
+   "date": "2026-02-24",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 36,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "New York",
+   "hq_country": "US",
+   "primary_segment": "restaurant-tech",
+   "segments": [
+    "restaurant-tech"
+   ],
+   "description": "AI voice platform handling inbound guest calls and communications for restaurants and hospitality venues",
+   "lead_investors": [
+    "US Venture Partners"
+   ],
+   "investors": [
+    "US Venture Partners",
+    "Thayer Investment Partners",
+    "Claire Hughes Johnson",
+    "Homebrew",
+    "Stage 2 Capital",
+    "Active Capital",
+    "Wing VC",
+    "Collide Capital",
+    "Underscore VC"
+   ],
+   "source_name": "PR Newswire (company press release)",
+   "source_url": "https://www.prnewswire.com/news-releases/slang-ai-raises-36m-series-b-to-scale-ai-for-guest-communications-across-every-restaurant-302695306.html",
+   "source2_url": "https://www.finsmes.com/2026/02/slang-ai-raises-36m-in-series-b-funding.html",
+   "confidence": "high",
+   "notes": "$36M comprises $28M equity and $8M debt; total funding to date $68M"
+  },
+  {
+   "company": "Varaha",
+   "date": "2026-02-03",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 20,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "IN",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Carbon removal project developer working with smallholder farmers on regenerative agriculture, agroforestry, biochar and enhanced rock weathering",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "investors": [
+    "WestBridge Capital",
+    "RTP Global",
+    "Omnivore"
+   ],
+   "source_name": "ESG Today",
+   "source_url": "https://www.esgtoday.com/carbon-removal-project-developer-varaha-raises-20-million/",
+   "source2_url": "https://entrackr.com/news/climate-tech-startup-varaha-raises-20-mn-in-series-b-led-by-westbridge-capital-11074654",
+   "confidence": "high",
+   "notes": "First tranche of a planned $45M Series B. Borderline climate-tech: core business is ag carbon credits rooted in smallholder regenerative farming; offtakes with Microsoft, Google, Lufthansa"
+  },
+  {
+   "company": "Mycophyto",
+   "date": "2026-01-20",
+   "date_precision": "month",
+   "stage": "Series A",
+   "amount_value": 16,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Valbonne",
+   "hq_country": "FR",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "description": "AI-optimized mycorrhizal fungi biostimulants improving crop water access, drought resilience and yields",
+   "lead_investors": [
+    "Innovacom",
+    "BNP Paribas"
+   ],
+   "investors": [
+    "Innovacom",
+    "BNP Paribas",
+    "Bpifrance (Deep Tech 2030 fund)",
+    "CDG Invest",
+    "Noshaq",
+    "RSI",
+    "Crédit Agricole"
+   ],
+   "source_name": "Mycostories",
+   "source_url": "https://www.mycostories.com/post/french-mycorrhizal-startup-raises-16-million-to-scale-soil-regeneration-technology",
+   "source2_url": "https://www.vestbee.com/insights/articles/top-european-funding-rounds-closed-in-january-2026",
+   "confidence": "medium",
+   "notes": "Announced mid-to-late January 2026 (covered in DigitalFoodLab week 4 roundup, Jan 19-25); exact announcement day not confirmed across sources"
+  },
+  {
+   "company": "Curate Technologies",
+   "date": "2026-01-28",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 10,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Los Angeles",
+   "hq_country": "US",
+   "primary_segment": "restaurant-tech",
+   "segments": [
+    "restaurant-tech"
+   ],
+   "description": "White-labeled mobile ordering and loyalty platform for restaurants built on Apple App Clips (no app download required)",
+   "lead_investors": [
+    "Kirk Brown"
+   ],
+   "investors": [
+    "Kirk Brown",
+    "K5 Global",
+    "Amon-Ra St. Brown",
+    "Carl Cheng"
+   ],
+   "source_name": "PR Newswire (company press release)",
+   "source_url": "https://www.prnewswire.com/news-releases/curate-raises-new-round-to-fix-a-core-loyalty-problem-customers-dont-want-to-download-another-app-302672040.html",
+   "source2_url": "https://pulse2.com/curate-technologies-10-million-funding/",
+   "confidence": "high",
+   "notes": "Round stage not disclosed in press release; led by ZoomInfo co-founder Kirk Brown with institutional support from K5 Global"
+  },
+  {
+   "company": "KluraLabs",
+   "date": "2026-02-17",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 8,
+   "amount_currency": "GBP",
+   "valuation_usd": null,
+   "hq_city": "Haverhill",
+   "hq_country": "GB",
+   "primary_segment": "packaging",
+   "segments": [
+    "packaging",
+    "food-waste"
+   ],
+   "description": "Antimicrobial stickers and films that integrate into existing food packaging to extend shelf life and cut food waste; rolling out with M&S",
+   "lead_investors": [
+    "Ahren Innovation Capital"
+   ],
+   "investors": [
+    "Ahren Innovation Capital",
+    "JamJar Investments",
+    "Bramble Partners",
+    "Triple B"
+   ],
+   "source_name": "Cambridge Network",
+   "source_url": "https://www.cambridgenetwork.co.uk/news/kluralabs-secures-ps8-million-scale-packaging-innovation-and-reduce-food-waste-globally",
+   "source2_url": "https://www.thegrocer.co.uk/news/kluralabs-secures-8m-to-roll-out-packaging-innovation-in-uk-retail/714850.article",
+   "confidence": "high",
+   "notes": "Some outlets report the round as £7.7m"
+  },
+  {
+   "company": "Foodforecast",
+   "date": "2026-02-26",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 8,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Cologne",
+   "hq_country": "DE",
+   "primary_segment": "food-waste",
+   "segments": [
+    "food-waste",
+    "supply-chain"
+   ],
+   "description": "AI demand and production forecasting for ultra-fresh food (bakeries, supermarkets, food service), cutting food waste by up to 30%",
+   "lead_investors": [
+    "SHIFT Invest",
+    "ECBF"
+   ],
+   "investors": [
+    "SHIFT Invest",
+    "ECBF",
+    "Future Food Fund",
+    "Aeronaut Invest"
+   ],
+   "source_name": "Vestbee",
+   "source_url": "https://www.vestbee.com/insights/articles/foodforecast-raises-8-m",
+   "source2_url": "https://ecbf.vc/foodforecast-raises-8me-series-a-to-scale-ai-forone-of-the-most-impactful-climate-solutionsreducing-food-waste-in-ultra-fresh-category/",
+   "confidence": "high",
+   "notes": "Round co-led by SHIFT Invest and ECBF; existing investors Future Food Fund and Aeronaut Invest participated"
+  },
+  {
+   "company": "Kilter",
+   "date": "2026-02-20",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 6.5,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "NO",
+   "primary_segment": "food-robotics",
+   "segments": [
+    "food-robotics",
+    "agtech-upstream"
+   ],
+   "description": "Autonomous precision weeding robots (AX-1) using AI vision and patented droplet technology for row and bed crops",
+   "lead_investors": [
+    "Kubota Corporation"
+   ],
+   "investors": [
+    "Kubota Corporation",
+    "SBG Invest",
+    "Pymwymic",
+    "Nufarm",
+    "Halden Pensjonskasse",
+    "ProAgInvest",
+    "Natural Ventures"
+   ],
+   "source_name": "EU-Startups",
+   "source_url": "https://www.eu-startups.com/2026/02/norways-kilter-secures-e6-5-million-to-scale-autonomous-precision-weeding-technology-prepares-for-series-b/",
+   "source2_url": "https://theaiinsider.tech/2026/02/20/kubota-leads-latest-e6-5m-in-funding-for-norweigian-autonomous-weeding-startup-kilter/",
+   "confidence": "high",
+   "notes": "Bridge round ahead of a planned Series B; includes strategic investment and European distribution deal with Kubota"
+  },
+  {
+   "company": "Innocent Meat",
+   "date": "2026-02-18",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 6,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Papendorf",
+   "hq_country": "DE",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein",
+    "food-robotics"
+   ],
+   "description": "Automated plug-and-produce production systems enabling meat processors to make cultivated meat at industrial scale",
+   "lead_investors": [],
+   "investors": [
+    "GENIUS Venture Capital",
+    "State of Mecklenburg-Vorpommern",
+    "European Regional Development Fund"
+   ],
+   "source_name": "Plant Based News",
+   "source_url": "https://plantbasednews.org/news/alternative-protein/innocent-meat-fundraising-round-cultivated-protein/",
+   "source2_url": "https://www.greenqueen.com.hk/innocent-meat-cultivated-lab-grown-protein-funding/",
+   "confidence": "high",
+   "notes": "Mix of VC (existing investor GENIUS Venture Capital) and public co-funding; proceeds fund demo facility and regulatory prep for 2028 market entry"
+  },
+  {
+   "company": "Aniai",
+   "date": "2026-01-20",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 4,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "New York",
+   "hq_country": "US",
+   "primary_segment": "food-robotics",
+   "segments": [
+    "food-robotics",
+    "restaurant-tech"
+   ],
+   "description": "Korean-founded kitchen robotics maker of the Alpha Grill automated grilling platform for US quick-service restaurant chains",
+   "lead_investors": [
+    "Korea Development Bank"
+   ],
+   "investors": [
+    "Korea Development Bank"
+   ],
+   "source_name": "PR Newswire (company press release)",
+   "source_url": "https://www.prnewswire.com/news-releases/aniai-expands-automated-grilling-robots-across-us-restaurants-and-enterprise-partnerships-as-total-funding-reaches-19-million-302662830.html",
+   "source2_url": "https://en.wowtale.net/2026/01/21/233376/",
+   "confidence": "high",
+   "notes": "Pre-Series A convertible investment (reported as KRW 5.8B) from Korea Development Bank, mapped to Seed; brings total funding to $19M. Korean roots with US HQ"
+  },
+  {
+   "company": "Maia Farms",
+   "date": "2026-01-19",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 3.75,
+   "amount_currency": "CAD",
+   "valuation_usd": null,
+   "hq_city": "Vancouver",
+   "hq_country": "CA",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein",
+    "ingredients-biotech"
+   ],
+   "description": "Mushroom and mycelium-based food ingredients produced via liquid-state fermentation and extrusion",
+   "lead_investors": [
+    "Active Impact Investments"
+   ],
+   "investors": [
+    "Active Impact Investments",
+    "Nya Planet",
+    "Ag-West Bio",
+    "PIC Investment Group",
+    "Deep Checks"
+   ],
+   "source_name": "National Law Review (company press release)",
+   "source_url": "https://natlawreview.com/press-releases/maia-farms-closes-oversubscribed-seed-round-global-demand-grows-mushroom",
+   "source2_url": "https://www.proteinproductiontechnology.com/post/maia-farms-secures-us-3-75-million-seed-round-as-mycelium-ingredient-strategy-moves-into-scale-up",
+   "confidence": "high",
+   "notes": "Oversubscribed seed equity round; press release denominates CAD (some outlets misreport USD). Non-dilutive backers include Genome BC, Natural Products Canada, Protein Industries Canada, NRC"
+  },
+  {
+   "company": "Takeat",
+   "date": "2026-02-02",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 15,
+   "amount_currency": "BRL",
+   "valuation_usd": null,
+   "hq_city": "Vitória",
+   "hq_country": "BR",
+   "primary_segment": "restaurant-tech",
+   "segments": [
+    "restaurant-tech"
+   ],
+   "description": "All-in-one restaurant management software (POS, CRM, delivery integration, tablet/QR ordering, financials) serving 3,000+ Brazilian restaurants",
+   "lead_investors": [
+    "DGF Investimentos"
+   ],
+   "investors": [
+    "DGF Investimentos",
+    "Quartzo Capital"
+   ],
+   "source_name": "Brazil Journal",
+   "source_url": "https://braziljournal.com/a-takeat-quer-ser-a-toast-brasileira-dgf-e-quartzo-compraram-a-ideia/",
+   "source2_url": "https://digitalfoodlab.com/34-foodtech-news-to-know-this-week-2026-week-10/",
+   "confidence": "high",
+   "notes": "R$15M (~$2.9M USD); positions itself as the 'Brazilian Toast'"
+  },
+  {
+   "company": "The Bland Company",
+   "date": "2026-02-10",
+   "date_precision": "day",
+   "stage": "Pre-seed",
+   "amount_value": 2.67,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "GB",
+   "primary_segment": "ingredients-biotech",
+   "segments": [
+    "ingredients-biotech",
+    "food-waste"
+   ],
+   "description": "Protein functionalization technology turning plant proteins from rice and pasta side streams into soluble egg-replacing ingredients",
+   "lead_investors": [
+    "Initialized Capital"
+   ],
+   "investors": [
+    "Initialized Capital",
+    "Entrepreneur First",
+    "Transpose Platform",
+    "Behind Genius Ventures",
+    "Alumni Ventures",
+    "Vento"
+   ],
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/the-bland-company-raises-2-7m-to-functionalize-plant-proteins-from-ag-side-streams",
+   "source2_url": null,
+   "confidence": "medium",
+   "notes": "Single reputable trade source (AgFunderNews, published Feb 10, 2026)"
+  },
+  {
+   "company": "Fruitist",
+   "date": "2025-10-29",
+   "date_precision": "day",
+   "stage": "Growth",
+   "amount_value": 150000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Los Angeles",
+   "hq_country": "US",
+   "primary_segment": "d2c-cpg",
+   "segments": [
+    "d2c-cpg",
+    "agtech-upstream"
+   ],
+   "description": "Vertically integrated 'superfruit' brand growing and marketing jumbo blueberries and other premium berries sold in 12,500+ outlets across 40 countries.",
+   "investors": [
+    "J.P. Morgan Asset Management (managed vehicle)",
+    "Ray Dalio family office"
+   ],
+   "lead_investors": [
+    "J.P. Morgan Asset Management"
+   ],
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/fruitist-raises-150m-to-expand-superfruit-operation-retailers-see-measurable-lift-when-were-on-their-shelves",
+   "source2_url": "https://www.thepacker.com/news/retail/fruitist-closes-150m-funding-accelerate-retail-expansion-jumbo-blueberries",
+   "confidence": "high",
+   "notes": "Equity financing led by a vehicle managed by J.P. Morgan Asset Management; CNBC reported valuation above $1B and total equity raised of $443M. TTM sales ~$400M."
+  },
+  {
+   "company": "MATR Foods",
+   "date": "2025-10-21",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 40000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Copenhagen",
+   "hq_country": "DK",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein"
+   ],
+   "description": "Danish maker of organic fungi-fermented (solid-state fermentation) meat alternatives from Scandinavian oats, peas, lupins and vegetables.",
+   "investors": [
+    "Novo Holdings",
+    "Export and Investment Fund of Denmark (EIFO)",
+    "European Investment Bank (venture debt)"
+   ],
+   "lead_investors": [
+    "Novo Holdings",
+    "Export and Investment Fund of Denmark (EIFO)"
+   ],
+   "source_name": "Novo Holdings press release",
+   "source_url": "https://novoholdings.dk/news/novo-holdings-co-leads-euro40m-fundraising-to-scale-matr-foods-production-of-organic-plant-based-meat-alternatives",
+   "source2_url": "https://agfundernews.com/armed-with-47m-matr-foods-to-scale-next-generation-of-alt-meat-via-solid-state-fermentation",
+   "confidence": "high",
+   "notes": "€40M total = €20M Series A equity (co-led by Novo Holdings and EIFO) + €20M venture debt from the EIB; funds a 4,000-ton plant in Ansager, Jutland. Reported as $47M in USD coverage."
+  },
+  {
+   "company": "Wild Bioscience",
+   "date": "2025-10-16",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 60000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Oxford",
+   "hq_country": "GB",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "description": "Oxford University spinout using AI to decode wild plant genomes and engineer climate-resilient, higher-yielding crops.",
+   "investors": [
+    "Ellison Institute of Technology",
+    "Oxford Science Enterprises",
+    "Braavos Capital",
+    "University of Oxford"
+   ],
+   "lead_investors": [
+    "Ellison Institute of Technology"
+   ],
+   "source_name": "Oxford Science Enterprises press release",
+   "source_url": "https://www.oxfordscienceenterprises.com/news/ose-and-ellison-institute-of-technology-make-first-co-investment-in-60m-series-a-for-wild-bioscience-to-boost-global-agricultural-resilience",
+   "source2_url": "https://agfundernews.com/the-week-in-agrifoodtech-wild-bioscience-raises-60m-starship-lands-50m-new-eu-agrifood-grants",
+   "confidence": "high",
+   "notes": "Also reported as £45M in some UK coverage."
+  },
+  {
+   "company": "Source.ag",
+   "date": "2025-11-03",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 17500000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Amsterdam",
+   "hq_country": "NL",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Applied-AI software for controlled-environment agriculture, deployed in 300+ greenhouses across 18 countries to predict yields and automate irrigation/climate.",
+   "investors": [
+    "Astanor",
+    "Enza Zaden",
+    "Harvest House"
+   ],
+   "lead_investors": [
+    "Astanor"
+   ],
+   "source_name": "Source.ag press release",
+   "source_url": "https://www.source.ag/news/sourceag-raises-175m-for-applied-ai-in-cea-pushing-total-funding-past-60m",
+   "source2_url": "https://www.eu-startups.com/2025/11/dutch-startup-source-ag-raises-e15-2-million-to-scale-ai-software-powering-300-greenhouses-across-18-countries/",
+   "confidence": "high",
+   "notes": "Company PR headlines $17.5M; European coverage reports €15.2M. Total funding now >$60M since 2020."
+  },
+  {
+   "company": "Mondra",
+   "date": "2025-10-23",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 10000000,
+   "amount_currency": "GBP",
+   "valuation_usd": null,
+   "hq_city": "London",
+   "hq_country": "GB",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain",
+    "food-waste"
+   ],
+   "description": "AI/digital-twin platform mapping untraceable food supply chains for emissions, climate-risk and disruption monitoring; customers include Lidl, Aldi, Tesco and Co-op.",
+   "investors": [
+    "AlbionVC",
+    "Planet A Ventures",
+    "Swisscom Ventures",
+    "PeakBridge",
+    "Ponderosa Ventures",
+    "Green Circle Foodtech Ventures"
+   ],
+   "lead_investors": [
+    "AlbionVC",
+    "Planet A Ventures"
+   ],
+   "source_name": "Tech.eu",
+   "source_url": "https://tech.eu/2025/10/23/mondra-raises-ps10m-to-accelerate-european-expansion/",
+   "source2_url": "https://www.mondra.com/blog/climate-tech-platform-mondra-raises-10m-in-series-a-funding",
+   "confidence": "high",
+   "notes": "Also reported as €11.8M by EU-Startups."
+  },
+  {
+   "company": "Agtonomy",
+   "date": "2025-10-28",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 18000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "South San Francisco",
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "food-robotics"
+   ],
+   "description": "Physical-AI software and services that retrofit agricultural and off-road equipment for autonomous operation via OEM partnerships.",
+   "investors": [
+    "DBL Partners",
+    "Nuveen",
+    "Autotech Ventures",
+    "Allison Transmission",
+    "Rethink Food",
+    "Black Forest Ventures"
+   ],
+   "lead_investors": [
+    "DBL Partners"
+   ],
+   "source_name": "GlobeNewswire (company press release)",
+   "source_url": "https://www.globenewswire.com/news-release/2025/10/28/3175553/0/en/Agtonomy-Secures-18-Million-Series-B-to-Accelerate-Physical-AI-Adoption-in-Off-Road-Industries.html",
+   "source2_url": "https://agfundernews.com/agtonomy-bags-18m-to-bring-more-ai-to-the-next-frontier-of-automation-agricultural-equipment",
+   "confidence": "high",
+   "notes": "Oversubscribed round; Nuveen (2M+ acres of farmland under management) joined as new investor."
+  },
+  {
+   "company": "nextProtein",
+   "date": "2025-11-04",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 18000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Paris",
+   "hq_country": "FR",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein",
+    "agtech-upstream",
+    "food-waste"
+   ],
+   "description": "Black soldier fly insect-protein producer converting agri-food byproducts into protein powder, oil and fertilizer; building Africa's largest insect protein plant in Tunisia.",
+   "investors": [
+    "Swen Capital Partners (Blue Ocean Fund)",
+    "British International Investment",
+    "Mirova",
+    "RAISE Impact",
+    "Société Générale (debt)",
+    "CIC Paris Innovation (debt)",
+    "La Banque des Start-ups by LCL (debt)"
+   ],
+   "lead_investors": [
+    "Swen Capital Partners (Blue Ocean Fund)",
+    "British International Investment"
+   ],
+   "source_name": "Launch Base Africa",
+   "source_url": "https://launchbaseafrica.com/2025/11/04/nextprotein-lands-20-7m-series-b-to-scale-insect-protein-in-tunisia/",
+   "source2_url": "https://en.africanmanager.com/nextprotein-raises-e18-million-to-scale-insect-based-protein-production-in-tunisia/",
+   "confidence": "high",
+   "notes": "€18M ($20.7M) includes €4M debt. Dual Paris–Tunis base; production facilities in Tunisia. New plant targets 12,000 tons/year of insect-based ingredients."
+  },
+  {
+   "company": "TRACT",
+   "date": "2025-10-23",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 18600000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "NL",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain"
+   ],
+   "description": "Enterprise supply-chain intelligence platform for the global agrifood industry (sustainability and sourcing-risk data), founded via collaboration between ADM, Cargill, Louis Dreyfus and ofi.",
+   "investors": [
+    "Icos Capital",
+    "Invest International",
+    "Future Food Fund",
+    "Rabo Investments",
+    "Pymwymic",
+    "Working Capital Fund"
+   ],
+   "lead_investors": [
+    "Icos Capital"
+   ],
+   "source_name": "TRACT press release",
+   "source_url": "https://www.tract.eco/news/tract-raises-186m-series-a",
+   "source2_url": "https://futurefoodfund.nl/news/tract-raises-e18-6m-series-a-to-expand-supply-chain-intelligence-platform-for-global-agrifood-industry/",
+   "confidence": "high",
+   "notes": null
+  },
+  {
+   "company": "Nutropy",
+   "date": "2025-10-23",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 7000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "FR",
+   "primary_segment": "precision-fermentation",
+   "segments": [
+    "precision-fermentation",
+    "alt-protein",
+    "ingredients-biotech"
+   ],
+   "description": "French startup producing animal-free casein milk proteins via precision fermentation for cheese, targeting a 'cheeseable milk' powder launch in 2027.",
+   "investors": [
+    "Big Pi Ventures",
+    "Zero Carbon Capital",
+    "Big Idea Ventures",
+    "Beta Lab",
+    "Wyngate",
+    "Paul Dischamp",
+    "Desai Ventures",
+    "PVS Investments",
+    "Novax (Axel Johnson)"
+   ],
+   "lead_investors": [
+    "Big Pi Ventures",
+    "Zero Carbon Capital"
+   ],
+   "source_name": "Green Queen",
+   "source_url": "https://www.greenqueen.com.hk/nutropy-precision-fermentation-casein-milk-protein-cheese-funding/",
+   "source2_url": "https://www.mycostories.com/post/french-precision-fermentation-startup-nutropy-raises-7m-to-develop-animal-free-casein-for-dairy-pro",
+   "confidence": "high",
+   "notes": "Oversubscribed round reported as €7M/$8M ($8.1M in some coverage); stage not labeled in any consulted source. Previously raised €2M in 2022."
+  },
+  {
+   "company": "Farm to Feed",
+   "date": "2025-11-03",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 1500000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Nairobi",
+   "hq_country": "KE",
+   "primary_segment": "food-waste",
+   "segments": [
+    "food-waste",
+    "supply-chain"
+   ],
+   "description": "Kenyan B2B marketplace for imperfect/'rescue-grade' produce, connecting 6,500+ smallholder farmers with commercial food buyers to cut food loss.",
+   "investors": [
+    "Delta40 Venture Studio",
+    "DRK Foundation",
+    "Catalyst Fund",
+    "Holocene",
+    "Marula Square",
+    "54Co",
+    "Levare Ventures",
+    "Mercy Corps Ventures",
+    "DEG DeveloPPP Ventures (non-dilutive)"
+   ],
+   "lead_investors": [
+    "Delta40 Venture Studio"
+   ],
+   "source_name": "TechCabal",
+   "source_url": "https://techcabal.com/2025/11/03/kenyas-farm-to-feed-raises-1-5-million/",
+   "source2_url": "https://weetracker.com/2025/11/03/farm-to-feed-1-5m-funding-climate-resilient-food-system/",
+   "confidence": "high",
+   "notes": "$1.5M = $1.27M equity led by Delta40 + $230K non-dilutive from DEG's DeveloPPP Ventures programme."
+  },
+  {
+   "company": "Appetronix",
+   "date": "2025-11-06",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 6000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "London, Ontario",
+   "hq_country": "CA",
+   "primary_segment": "food-robotics",
+   "segments": [
+    "food-robotics",
+    "restaurant-tech"
+   ],
+   "description": "Fully automated robotic kitchens for quick-service food (pizza, noodle and burrito bowls) in airports, hospitals, universities and other high-traffic venues; partner of Donatos Pizza.",
+   "investors": [
+    "Jim Grote / Grote family",
+    "AlleyCorp"
+   ],
+   "lead_investors": [
+    "Jim Grote / Grote family",
+    "AlleyCorp"
+   ],
+   "source_name": "PR Newswire (company press release)",
+   "source_url": "https://www.prnewswire.com/news-releases/appetronix-closes-10m-in-total-seed-funding-to-scale-robotic-kitchens-across-non-commercial-foodservice-markets-led-by-alleycorp-and-the-grote-family-fueling-fast-expansion-of-automated-food-concepts-302606925.html",
+   "source2_url": "https://agfundernews.com/appetronix-raises-6m-to-scale-robotic-kitchens-quick-service-is-going-to-get-more-and-more-automated",
+   "confidence": "high",
+   "notes": "$6M 'seed plus' round bringing total seed funding to $10M+. Press release states London, Ontario HQ; AgFunderNews describes the firm as Toronto-based."
+  },
+  {
+   "company": "Nbryo",
+   "date": "2025-11-01",
+   "date_precision": "month",
+   "stage": "Seed",
+   "amount_value": 10000000,
+   "amount_currency": "AUD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "AU",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "description": "Queensland agri-biotech building an IVF and embryo-multiplication platform to accelerate genetic improvement in beef and dairy cattle herds.",
+   "investors": [
+    "Tenacious Ventures",
+    "AgriZeroNZ",
+    "Queensland Investment Corporation (QIC)",
+    "Murdoch family",
+    "Mandalay Venture Partners"
+   ],
+   "lead_investors": [
+    "Tenacious Ventures"
+   ],
+   "source_name": "Startup Daily",
+   "source_url": "https://www.startupdaily.net/topic/ag-tech/agtech-startup-nbryo-nabs-10-million-seed-round-to-breed-better-beef/",
+   "source2_url": "https://nbryo.com/2025/11/nbryo-completes-aud-10-million-capital-raising-to-accelerate-genetic-improvement-in-beef-dairy/",
+   "confidence": "high",
+   "notes": "Announced early November 2025 (covered in AgFunderNews Nov 6 weekly roundup). Raise triggered conversion of A$12.3M in SAFE notes, taking total raised past A$22M since 2024."
+  },
+  {
+   "company": "Nourish",
+   "description": "Dietitian-led virtual metabolic/nutrition care clinic with GLP-1 support, covered by insurance",
+   "date": "2026-05-19",
+   "date_precision": "day",
+   "stage": "Series C",
+   "amount_value": 100000000,
+   "amount_currency": "USD",
+   "valuation_usd": 1750000000,
+   "hq_city": null,
+   "hq_country": "US",
+   "primary_segment": "personalized-nutrition",
+   "segments": [
+    "personalized-nutrition"
+   ],
+   "lead_investors": [
+    "Menlo Ventures"
+   ],
+   "investors": [
+    "Menlo Ventures",
+    "Thrive Capital",
+    "Index Ventures",
+    "J.P. Morgan Growth Equity Partners",
+    "Maverick Ventures",
+    "Y Combinator",
+    "BoxGroup",
+    "Atomico",
+    "Daybreak",
+    "Operator Partners"
+   ],
+   "source_name": "Business Wire (company press release)",
+   "source_url": "https://www.businesswire.com/news/home/20260512183360/en/Nourish-Raises-$100M-Series-C-to-Reverse-Chronic-Disease-with-AI-Native-Metabolic-Clinic",
+   "source2_url": "https://www.bloomberg.com/news/articles/2026-05-19/nutrition-care-startup-raises-100-million-to-help-glp-1-treatment",
+   "confidence": "high",
+   "notes": "Round valued company at $1.75B; total raised to date $215M"
+  },
+  {
+   "company": "Vori",
+   "description": "AI operating system for independent grocery stores (checkout, payments, inventory, ordering, pricing)",
+   "date": "2026-05-05",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 22000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "US",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain",
+    "restaurant-tech"
+   ],
+   "lead_investors": [
+    "Cherryrock Capital"
+   ],
+   "investors": [
+    "Cherryrock Capital",
+    "Greylock Partners",
+    "The Factory"
+   ],
+   "source_name": "Fortune",
+   "source_url": "https://fortune.com/2026/05/05/exclusive-ai-grocery-startup-vori-raises-22-million-to-help-independent-retailers-compete-with-walmart-and-amazon/",
+   "source2_url": "https://www.prnewswire.com/news-releases/vori-raises-22m-to-build-the-operating-system-for-the-worlds-grocery-stores-302763778.html",
+   "confidence": "high",
+   "notes": "Has processed $500M+ in payments across 55 cities since Jan 2024"
+  },
+  {
+   "company": "allO",
+   "description": "AI-native restaurant operating system (POS, payments, scan-to-order, front- and back-office)",
+   "date": "2026-05-27",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 12000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Munich",
+   "hq_country": "DE",
+   "primary_segment": "restaurant-tech",
+   "segments": [
+    "restaurant-tech"
+   ],
+   "lead_investors": [
+    "Zigg Capital"
+   ],
+   "investors": [
+    "Zigg Capital",
+    "LifeX Ventures",
+    "Aperture",
+    "Wecken & Cie.",
+    "20VC",
+    "Keen Venture Partners",
+    "Fabian Siegel",
+    "Mark Ransford",
+    "Ludwig Fuchs"
+   ],
+   "source_name": "EU-Startups",
+   "source_url": "https://www.eu-startups.com/2026/05/munichs-allo-raises-e12-million-series-a-to-expand-its-ai-operating-system-for-restaurants-across-europe/",
+   "source2_url": "https://www.hospitalitynet.org/news/4132593/allo-raises-14m-series-a-led-by-zigg-capital-to-scale-the-first-ai-native-operating-system-for-restaurants",
+   "confidence": "high",
+   "notes": "€12M (~$14M); serves 1,000+ restaurant locations in Germany"
+  },
+  {
+   "company": "Monil",
+   "description": "Solar-powered virtual fencing collars for cattle, connected via cellular to a mobile app",
+   "date": "2026-05-28",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 10000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "NO",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "lead_investors": [
+    "Firda"
+   ],
+   "investors": [
+    "Firda"
+   ],
+   "source_name": "Beef Magazine",
+   "source_url": "https://www.beefmagazine.com/livestock-management/monil-raises-10m-to-enter-u-s-virtual-fencing-market",
+   "source2_url": "https://agfundernews.com/agrifood-signals-elbit-acquires-bluewhite-more-funding-for-virtual-fencing-anheuser-busch-awards-80k-grant",
+   "confidence": "high",
+   "notes": "Raised from largest owner Firda plus other unnamed Norwegian VC investors; funds US market entry via Kansas City base; 50,000 collars sold in Norway/Sweden/UK; stage not disclosed"
+  },
+  {
+   "company": "Corvera",
+   "description": "Agentic AI platform automating supply chain, finance, and demand-planning workflows for CPG brands",
+   "date": "2026-05-05",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 4200000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "London",
+   "hq_country": "GB",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain",
+    "d2c-cpg"
+   ],
+   "lead_investors": [
+    "6 Degrees Capital"
+   ],
+   "investors": [
+    "6 Degrees Capital",
+    "Y Combinator"
+   ],
+   "source_name": "Tech.eu",
+   "source_url": "https://tech.eu/2026/05/05/london-founded-corvera-raises-42m-to-bring-agentic-ai-to-cpg-supply-chains/",
+   "source2_url": "https://www.crowdfundinsider.com/2026/05/278068-agentic-supply-chain-management-firm-corvera-raises-4-2m-round/",
+   "confidence": "high",
+   "notes": "YC Winter 2026 cohort; 20+ additional unnamed VC and angel investors participated"
+  },
+  {
+   "company": "SugaROx",
+   "description": "Crop biostimulants based on trehalose-6-phosphate (T6P); Rothamsted Research/Oxford spin-out",
+   "date": "2026-05-12",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": 2500000,
+   "amount_currency": "GBP",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "GB",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "lead_investors": [
+    "The Mosaic Company"
+   ],
+   "investors": [
+    "The Mosaic Company"
+   ],
+   "source_name": "Seed World",
+   "source_url": "https://www.seedworld.com/europe/2026/05/12/rothamsted-research-spin-out-sugarox-secures-2-5m-investment-from-mosaic/",
+   "source2_url": "https://www.farmersguide.co.uk/arable/biosolutions/sugarox-receives-2-5m-boost-to-develop-its-crop-biostimulant/",
+   "confidence": "high",
+   "notes": "Strategic investment from The Mosaic Company as part of ongoing Series A; follows Mosaic's £400K seed investment in 2025"
+  },
+  {
+   "company": "Primogene",
+   "description": "Enzymatic biomanufacturing of complex bioactive molecules (human milk oligosaccharides) for infant nutrition",
+   "date": "2026-04-29",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 4100000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Leipzig",
+   "hq_country": "DE",
+   "primary_segment": "ingredients-biotech",
+   "segments": [
+    "ingredients-biotech",
+    "personalized-nutrition"
+   ],
+   "lead_investors": [
+    "High-Tech Gründerfonds"
+   ],
+   "investors": [
+    "High-Tech Gründerfonds",
+    "Technologiegründerfonds Sachsen",
+    "Better Ventures",
+    "Sächsische Beteiligungsgesellschaft",
+    "Golzern Holding",
+    "FS Life Science Investment",
+    "Marc Struhalla"
+   ],
+   "source_name": "Green Queen",
+   "source_url": "https://www.greenqueen.com.hk/primogene-enzymatic-bioactive-molecules-infant-nutrition-funding/",
+   "source2_url": "https://bebeez.eu/2026/04/29/leipzigs-primogene-raises-e4-1-million-to-scale-enzymatic-biomanufacturing-of-complex-bioactive-molecules/",
+   "confidence": "high",
+   "notes": "€4.1M (~$4.8M); biocatalysis platform starting with HMOs for infant formula"
+  },
+  {
+   "company": "Opalia",
+   "description": "Cell-based dairy company replicating whole milk at the cellular level using mammary cells",
+   "date": "2026-04-28",
+   "date_precision": "day",
+   "stage": "Seed",
+   "amount_value": 3200000,
+   "amount_currency": "CAD",
+   "valuation_usd": null,
+   "hq_city": "Montreal",
+   "hq_country": "CA",
+   "primary_segment": "alt-protein",
+   "segments": [
+    "alt-protein"
+   ],
+   "lead_investors": [
+    "Nàdarra Ventures"
+   ],
+   "investors": [
+    "Nàdarra Ventures",
+    "Spring Capital",
+    "UCEED",
+    "Anges Québec",
+    "Investissement Québec",
+    "Cycle Momentum",
+    "BoxOne Ventures"
+   ],
+   "source_name": "Opalia (company press release)",
+   "source_url": "https://www.opaliafoods.com/news/leading-cell-based-dairy-company-opalia-raises-32-million-to-unlock-scalable-production-amid-rising-global-demand-and-supply-constraints",
+   "source2_url": "https://vegconomist.com/investments-finance/montreal-cell-based-dairy-company-opalia-closes-3-2m-seed-round-commercial-pilots-already-underway/",
+   "confidence": "high",
+   "notes": "Initial close of seed round; targeting further C$1.8M to reach C$5M total by mid-July 2026; market entry planned 2028 with partner Hoogwegt"
+  },
+  {
+   "company": "Cattler",
+   "description": "AI-powered farm management / system-of-record software for cattle feedlots and ranches",
+   "date": "2026-05-01",
+   "date_precision": "month",
+   "stage": "Seed",
+   "amount_value": 2000000,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "lead_investors": [
+    "Homegrown Capital"
+   ],
+   "investors": [
+    "Homegrown Capital",
+    "Grit Road Partners"
+   ],
+   "source_name": "Cattler (company announcement)",
+   "source_url": "https://www.cattler.farm/post/cattler-raises-2-million-to-build-the-operating-system-for-the-global-beef-industry",
+   "source2_url": "https://agfundernews.com/agrifood-signals-corteva-names-seed-spinout-vori-bags-22m-for-ai-grocery-fmc-sells-india-biz",
+   "confidence": "high",
+   "notes": "Argentine-founded, US-based; manages ~1M head of cattle daily across 8 countries in the Americas; covered in AgFunderNews May 7 roundup"
+  },
+  {
+   "company": "vGreens",
+   "description": "AI- and sensor-controlled closed-loop vertical farming technology, initially for strawberries",
+   "date": "2026-05-01",
+   "date_precision": "month",
+   "stage": "Unknown",
+   "amount_value": 2000000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Essen",
+   "hq_country": "DE",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "lead_investors": [],
+   "investors": [
+    "Frutania",
+    "Dürr",
+    "Christ Capital",
+    "Vorn VC"
+   ],
+   "source_name": "Vertical Farm Daily",
+   "source_url": "https://www.verticalfarmdaily.com/article/9836127/vgreens-raises-two-million-euros-for-ai-controlled-plant-cultivation/",
+   "source2_url": "https://agfundernews.com/agrifood-signals-corteva-names-seed-spinout-vori-bags-22m-for-ai-grocery-fmc-sells-india-biz",
+   "confidence": "medium",
+   "notes": "Approx. €2M strategic round with wholesaler Frutania and machinery maker Dürr as strategic partners; stage not disclosed; covered in AgFunderNews May 7 roundup"
+  },
+  {
+   "company": "Borro",
+   "description": "Digital QR-based deposit system for reusable cups at events and venues",
+   "date": "2026-05-28",
+   "date_precision": "day",
+   "stage": "Unknown",
+   "amount_value": 1300000,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Brussels",
+   "hq_country": "BE",
+   "primary_segment": "food-waste",
+   "segments": [
+    "food-waste",
+    "packaging"
+   ],
+   "lead_investors": [],
+   "investors": [
+    "Seeder Fund",
+    "imec.istart",
+    "bluesnipe",
+    "PMV",
+    "butterfly & elephant"
+   ],
+   "source_name": "EU-Startups",
+   "source_url": "https://www.eu-startups.com/2026/05/brussels-based-borro-bags-e1-3-million-to-expand-digital-deposit-system-for-reusable-cups-across-europe/",
+   "source2_url": "https://bebeez.eu/2026/05/28/brussels-based-borro-bags-e1-3-million-to-expand-digital-deposit-system-for-reusable-cups-across-europe/",
+   "confidence": "high",
+   "notes": "Follow-on to €350K initial round (Nov 2024); stage not explicitly labeled; butterfly & elephant is the CVC arm of GS1 Germany; funds expansion to NL, DE, FR"
+  },
+  {
+   "company": "Halter",
+   "date": "2026-03-25",
+   "date_precision": "day",
+   "stage": "Series D+",
+   "amount_value": 220,
+   "amount_currency": "USD",
+   "valuation_usd": 2000000000,
+   "hq_city": "Auckland",
+   "hq_country": "NZ",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Solar-powered smart collars and virtual fencing for rotational grazing and cattle/livestock management",
+   "lead_investors": [
+    "Founders Fund"
+   ],
+   "investors": [
+    "Founders Fund",
+    "Bond",
+    "Bessemer Venture Partners",
+    "DCVC",
+    "Blackbird",
+    "NewView Capital",
+    "Ubiquity Ventures",
+    "Promus Ventures",
+    "Icehouse Ventures"
+   ],
+   "source_name": "The Next Web",
+   "source_url": "https://thenextweb.com/news/halter-series-e-virtual-fencing-cattle",
+   "source2_url": "https://www.halterhq.com/en-us/news/halter-raises-165m-in-funding-to-help-farmers-boost-productivity",
+   "confidence": "high",
+   "notes": "Series E at just over $2B valuation; one of the largest agtech rounds ever. Announcement dated Mar 24, 2026 by TNW and Mar 25, 2026 on Halter's newsroom (timezone). Distinct from the $100M/NZ$165M Series D of June 23, 2025 (pre-window)."
+  },
+  {
+   "company": "Tomorrow.io",
+   "date": "2026-02-03",
+   "date_precision": "day",
+   "stage": "Series D+",
+   "amount_value": 210,
+   "amount_currency": "USD",
+   "valuation_usd": 1000000000,
+   "hq_city": "Boston",
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "AI weather intelligence platform with proprietary satellite constellation; precision-ag weather forecasting for farming plus aviation/logistics/defense customers",
+   "lead_investors": [
+    "Stonecourt Capital",
+    "HarbourVest Partners"
+   ],
+   "investors": [
+    "Stonecourt Capital",
+    "HarbourVest Partners",
+    "Pitango",
+    "Harel Insurance"
+   ],
+   "source_name": "CTech (Calcalist)",
+   "source_url": "https://www.calcalistech.com/ctechnews/article/opg9e0ka0",
+   "source2_url": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
+   "confidence": "high",
+   "notes": "Series F closed in two tranches: $175M announced Feb 3, 2026 (Stonecourt + HarbourVest co-led, $1B valuation) plus $35M extension from Pitango/Harel in May 2026, totaling $210M. Classification caveat: multi-vertical weather company, but tracked as the largest precision-ag deal of 2026 by PitchBook/CropLife."
+  },
+  {
+   "company": "Tropic Biosciences",
+   "date": "2026-03-12",
+   "date_precision": "day",
+   "stage": "Series C",
+   "amount_value": 105,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Norwich",
+   "hq_country": "GB",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "ingredients-biotech"
+   ],
+   "description": "CRISPR gene-edited tropical crops: non-browning and TR4-resistant bananas, extended shelf-life varieties, and gene-edited rice",
+   "lead_investors": [
+    "Forbion BioEconomy Fund",
+    "Corteva Catalyst"
+   ],
+   "investors": [
+    "Forbion BioEconomy Fund",
+    "Corteva Catalyst",
+    "Just Climate",
+    "IQ Capital",
+    "ABN AMRO",
+    "Invest International",
+    "Temasek",
+    "Five Seasons Ventures"
+   ],
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/tropic-bags-105m-to-scale-gene-edited-bananas-deploy-tr4-resistant-bananas-in-2027",
+   "source2_url": "https://tropic.bio/series-c-raise/",
+   "confidence": "high",
+   "notes": "Oversubscribed round co-led by Forbion's BioEconomy Fund and Corteva via Corteva Catalyst; commercial TR4-resistant Cavendish deployment planned from 2027."
+  },
+  {
+   "company": "Ecorobotix",
+   "date": "2025-10-13",
+   "date_precision": "day",
+   "stage": "Series D+",
+   "amount_value": 105,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Yverdon-les-Bains",
+   "hq_country": "CH",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "food-robotics"
+   ],
+   "description": "AI-powered ultra-high-precision 'Plant-by-Plant' crop spraying (ARA smart sprayer), cutting crop-protection chemical use",
+   "lead_investors": [
+    "Highland Europe",
+    "European Circular Bioeconomy Fund",
+    "McWin Capital Partners"
+   ],
+   "investors": [
+    "Highland Europe",
+    "European Circular Bioeconomy Fund",
+    "McWin Capital Partners",
+    "4FOX Ventures",
+    "AQTON",
+    "BASF Venture Capital",
+    "Capagro",
+    "Cibus Capital",
+    "Flexstone Partners",
+    "Fondation Domaine de Villette",
+    "Meritech",
+    "Stellar Impact",
+    "Swisscanto",
+    "Swisscom Ventures",
+    "Yara Growth Ventures"
+   ],
+   "source_name": "AgFunderNews",
+   "source_url": "https://agfundernews.com/ecorobotix-doubles-down-on-ai-software-for-precision-spraying-after-150m-raise",
+   "source2_url": "https://www.goodwinlaw.com/en/news-and-events/news/2025/10/announcements-technology-goodwin-advises-mcwin-capital-partners-in-ecorobotix-105-million",
+   "confidence": "high",
+   "notes": "Series D is $105M; the $150M headline figure is cumulative with the 2024 $45M Series C. Largest precision-ag robotics round recorded in 2025."
+  },
+  {
+   "company": "Nourish",
+   "date": "2026-05-19",
+   "date_precision": "day",
+   "stage": "Series C",
+   "amount_value": 100,
+   "amount_currency": "USD",
+   "valuation_usd": 1750000000,
+   "hq_city": "New York",
+   "hq_country": "US",
+   "primary_segment": "personalized-nutrition",
+   "segments": [
+    "personalized-nutrition"
+   ],
+   "description": "Dietitian-led virtual nutrition/metabolic care clinic (10,000+ registered dietitians, insurance-covered telenutrition with AI clinical infrastructure)",
+   "lead_investors": [
+    "Menlo Ventures"
+   ],
+   "investors": [
+    "Menlo Ventures",
+    "Thrive Capital",
+    "Index Ventures",
+    "J.P. Morgan Growth Equity Partners",
+    "Maverick Ventures",
+    "Y Combinator",
+    "BoxGroup",
+    "Atomico",
+    "Daybreak",
+    "Operator Partners"
+   ],
+   "source_name": "Nourish (company announcement)",
+   "source_url": "https://www.nourish.com/blog/nourish-announces-series-c",
+   "source2_url": "https://hitconsultant.net/2026/05/19/nourish-raises-100m-series-c-metabolic-care/",
+   "confidence": "high",
+   "notes": "$1.75B post-money valuation; total raised $215M."
+  },
+  {
+   "company": "Hydrosat",
+   "date": "2026-01-15",
+   "date_precision": "day",
+   "stage": "Series B",
+   "amount_value": 60,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Washington",
+   "hq_country": "US",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Thermal-infrared satellite constellation delivering water-stress, irrigation-optimization and drought-detection data for agriculture",
+   "lead_investors": [
+    "Hartree Partners",
+    "Subutai Capital Partners",
+    "Space 4 Earth"
+   ],
+   "investors": [
+    "Hartree Partners",
+    "Subutai Capital Partners",
+    "Space 4 Earth",
+    "Truffle Capital",
+    "Luxembourg Future Fund",
+    "OTB Ventures",
+    "Blue Bear Capital",
+    "Statkraft Ventures",
+    "Cultivation Capital",
+    "Santa Barbara Venture Partners"
+   ],
+   "source_name": "SpaceNews",
+   "source_url": "https://spacenews.com/hydrosat-raises-60-million-in-series-b-funding/",
+   "source2_url": "https://hydrosat.com/2026/01/15/hydrosat-raises-60m-in-series-b-funding-to-accelerate-growth/",
+   "confidence": "high",
+   "notes": "Castle Placement describes the $60M as a combination of Series B-1/B-2/B-3 equity and debt. Customers include Bayer, SupPlant, Nutradrip as well as NOAA/NRO."
+  },
+  {
+   "company": "EarthDaily Analytics",
+   "date": "2025-07-31",
+   "date_precision": "day",
+   "stage": "Debt",
+   "amount_value": 60,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Vancouver",
+   "hq_country": "CA",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Daily scientifically-calibrated Earth observation constellation and geospatial analytics with a core agriculture monitoring business (EarthDaily Agro, ex-Geosys)",
+   "lead_investors": [
+    "Trinity Capital"
+   ],
+   "investors": [
+    "Trinity Capital"
+   ],
+   "source_name": "PR Newswire (Trinity Capital)",
+   "source_url": "https://www.prnewswire.com/news-releases/trinity-capital-inc-provides-60-million-in-financing-to-earthdaily-analytics-transforming-the-future-of-geospatial-solutions-302517858.html",
+   "source2_url": "https://earthdaily.com/blog/earthdaily-secures-60-million-in-financing-from-trinity-capital",
+   "confidence": "high",
+   "notes": "$60M equipment financing (venture debt) to fund the 10-satellite EarthDaily Constellation. Scope caveat: constellation also serves defense/climate/infrastructure verticals; counted as an agrifoodtech deal by AgFunder's Q3 2025 tracking."
+  },
+  {
+   "company": "BinSentry",
+   "date": "2025-08-11",
+   "date_precision": "day",
+   "stage": "Series C",
+   "amount_value": 50,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": "Kitchener",
+   "hq_country": "CA",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream",
+    "supply-chain"
+   ],
+   "description": "AI-powered solar sensors and software for on-farm animal feed bin monitoring and feed supply chain automation (40,000+ bins across North America and Brazil)",
+   "lead_investors": [
+    "Lead Edge Capital"
+   ],
+   "investors": [
+    "Lead Edge Capital"
+   ],
+   "source_name": "Business Wire",
+   "source_url": "https://www.businesswire.com/news/home/20250811415965/en/BinSentry-Raises-$50-Million-to-Modernize-Animal-Feed-Supply-Chains-with-AI-Powered-Sensor-Technology",
+   "source2_url": "https://leadedge.com/news/lead-edge-capital-leads-binsentrys-50-million-series-c-to-modernize-animal-feed-supply-chains-with-ai-powered-sensor-technology/",
+   "confidence": "high",
+   "notes": "USD 50M Series C led by Lead Edge Capital; Cargill is exclusive Brazil distributor."
+  },
+  {
+   "company": "GrubMarket",
+   "date": "2026-02-02",
+   "date_precision": "day",
+   "stage": "Series D+",
+   "amount_value": 50,
+   "amount_currency": "USD",
+   "valuation_usd": 4500000000,
+   "hq_city": "San Francisco",
+   "hq_country": "US",
+   "primary_segment": "supply-chain",
+   "segments": [
+    "supply-chain"
+   ],
+   "description": "AI-powered B2B food supply chain / wholesale food e-commerce platform ($2B+ revenue, operating in all 50 US states and 70+ countries)",
+   "lead_investors": [],
+   "investors": [
+    "Future Food Fund",
+    "Portfolia Funds",
+    "Liberty Street Funds",
+    "RD Heritage Group",
+    "Flume Ventures",
+    "MY Securities"
+   ],
+   "source_name": "PR Newswire (GrubMarket)",
+   "source_url": "https://www.prnewswire.com/news-releases/grubmarket-raises-50-million-series-h-to-fuel-ecommerce-and-ai-transformation-of-the-american-food-supply-chain-industry-302675822.html",
+   "source2_url": "https://www.pymnts.com/supply-chain/2026/grubmarket-hits-4-5-billion-valuation-as-ai-optimizes-food-supply-chain/",
+   "confidence": "high",
+   "notes": "Series H (mapped to Series D+); $4.5B pre-money valuation. Follows a $50M Series G in March 2025 at $3.5B (pre-window)."
+  },
+  {
+   "company": "Laxey",
+   "date": "2026-06-23",
+   "date_precision": "day",
+   "stage": "Growth",
+   "amount_value": 47,
+   "amount_currency": "EUR",
+   "valuation_usd": null,
+   "hq_city": "Vestmannaeyjar",
+   "hq_country": "IS",
+   "primary_segment": "agtech-upstream",
+   "segments": [
+    "agtech-upstream"
+   ],
+   "description": "Land-based (RAS) Atlantic salmon farming company building a 35,000-tonne facility in Iceland's Westman Islands",
+   "lead_investors": [],
+   "investors": [],
+   "source_name": "Laxey (company announcement)",
+   "source_url": "https://www.laxey.is/en/laxey-completes-substantially-oversubscribed-eur-47-million-equity-raise-and-signs-a-committed-term-sheet-to-an-international-syndicated-loan/",
+   "source2_url": "https://www.seafoodsource.com/news/business-finance/laxey-nets-eur-47-million-in-funding-round-for-land-based-salmon-farm",
+   "confidence": "high",
+   "notes": "Oversubscribed EUR 47M (~USD 41M) equity raise, upsized from EUR 40M target; mostly existing shareholders plus new undisclosed investors. Also signed committed term sheet for syndicated loan (DNB, Rabobank, Arion Bank, Eksfin) — loan not counted here. Anchored PitchBook's Q2 2026 animal & aquaculture segment."
+  },
+  {
+   "company": "Liberation Bioindustries",
+   "date": "2025-12-19",
+   "date_precision": "day",
+   "stage": "Series A",
+   "amount_value": null,
+   "amount_currency": "USD",
+   "valuation_usd": null,
+   "hq_city": null,
+   "hq_country": "US",
+   "primary_segment": "precision-fermentation",
+   "segments": [
+    "precision-fermentation",
+    "ingredients-biotech"
+   ],
+   "description": "Commercial-scale precision fermentation biomanufacturing (600,000 L facility in Richmond, Indiana, producing food proteins and ingredient building blocks); formerly Liberation Labs",
+   "lead_investors": [],
+   "investors": [
+    "Agronomics",
+    "New Agrarian Company",
+    "IDO Investments",
+    "Siddhi Capital"
+   ],
+   "source_name": "Agronomics RNS via StockTitan",
+   "source_url": "https://www.stocktitan.net/news/AGNMF/agronomics-limited-announces-liberation-bioindustries-series-a1-9j2k5zn56de6.html",
+   "source2_url": "https://www.crunchbase.com/organization/liberation-labs",
+   "confidence": "low",
+   "notes": "First tranche of Series A1 closed Dec 19, 2025; total round size undisclosed in the RNS. Disclosed components: ~$27M Agronomics loan-note conversion plus $2.5M from New Agrarian; PitchBook/Crunchbase aggregators record ~$60.2M (Dec 9, 2025) with IDO Investments and Siddhi Capital. PitchBook's Q4 2025 foodtech report flags it among the quarter's key infrastructure deals. Distinct from the $31.5M NEOM Investment Fund round of Q1 2025 (pre-window). Amount left null pending primary confirmation."
+  }
+ ],
+ "corrections": [
+  {
+   "company": "Picketa Systems",
+   "verified": true,
+   "stage": "Seed",
+   "date": "2026-06-15",
+   "amount_value": 2100000,
+   "amount_currency": "CAD",
+   "lead_investors": [
+    "Tall Grass Ventures"
+   ],
+   "investors": [
+    "Tall Grass Ventures",
+    "BDC Seed Fund",
+    "Verdex Capital",
+    "Skull Diamond & Heart Capital",
+    "NBIF",
+    "Koan Capital",
+    "East Valley Ventures"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "AI-powered spectroscopy (LENS) for real-time in-field crop nutrient testing across potatoes, corn, canola, soybeans and wheat",
+   "source_url": "https://agfundernews.com/picketa-raises-1-5m-to-bring-crop-nutrient-testing-to-the-field",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Round originally denominated CAD 2.1m (~USD 1.5m); BetaKit explicitly calls it a seed round. Announced 2026-06-15."
+  },
+  {
+   "company": "Terraxy",
+   "verified": true,
+   "stage": "Seed",
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Wa'ed Ventures"
+   ],
+   "investors": [
+    "Wa'ed Ventures",
+    "KAUST"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "KAUST spinout scaling Carbosoil soil enhancer for desert greening, water retention and carbon capture",
+   "source_url": "https://waya.media/saudis-terraxy-raises-usd-3m-to-scale-desert-greening-technology/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Single verified $3M 'Seed-2' round led by Aramco's Wa'ed Ventures with KAUST; the two roundup appearances refer to the same round — keep only this one record. HQ city ambiguous across sources (KAUST/Thuwal spinout; new facility in Al Zulfi); could not confirm Riyadh."
+  },
+  {
+   "company": "Seqana",
+   "verified": true,
+   "stage": null,
+   "date": "2026-06-17",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Pymwymic"
+   ],
+   "investors": [
+    "Pymwymic",
+    "HTGF",
+    "Counteract",
+    "Landwirtschaftliche Rentenbank"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Satellite imagery and ML for soil carbon MRV and broader soil health measurement",
+   "source_url": "https://www.seqana.com/blog/press-release-seqana-raises-eur-3-2m-fundraising-round",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "EUR 3.2m confirmed via company press release; mixed equity + debt (startup loan from Landwirtschaftliche Rentenbank), no stage label stated anywhere — stage genuinely Unknown."
+  },
+  {
+   "company": "Rainbow Crops",
+   "verified": true,
+   "stage": "Seed",
+   "date": "2026-06-16",
+   "amount_value": 9700000,
+   "amount_currency": "EUR",
+   "lead_investors": [
+    "LIFTT EuroInvest"
+   ],
+   "investors": [
+    "LIFTT EuroInvest",
+    "Agri Investment Fund",
+    "PINC",
+    "VIB",
+    "Maia Ventures",
+    "Corteva Catalyst"
+   ],
+   "hq_city": "Ghent",
+   "hq_country": "BE",
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Trait Foundry platform combining AI, multiplex genome editing and automated phenotyping for complex crop traits",
+   "source_url": "https://agfundernews.com/rainbow-crops-raises-11-25m-to-scale-ai-guided-multiplex-gene-editing",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Round originally denominated EUR 9.7m (~$11.25m). HQ is Belgium (VIB spinout, Ghent), not US — country corrected."
+  },
+  {
+   "company": "Vivici",
+   "verified": true,
+   "stage": null,
+   "date": "2026-06-17",
+   "amount_value": 12500000,
+   "amount_currency": "EUR",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "EIC Accelerator blended finance (EUR 2.5m grant + EUR 10m equity) to scale precision-fermented dairy proteins",
+   "source_url": "https://agfundernews.com/vivici-bags-e12-5m-eic-funding-to-scale-precision-fermented-dairy-proteins",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Amount resolved: EUR 12.5m is the original denomination; $14.4m is the USD conversion — the 14.4 figure was mistakenly recorded as EUR. Grant stage classification stands (EIC blended finance). Existing lead/investor (European Innovation Council) unchanged."
+  },
+  {
+   "company": "Vertoro",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Converts lignin into renewable oil feedstock for marine fuel, SAF and chemicals",
+   "source_url": "https://www.esgtoday.com/vertoro-raises-20-million-to-scale-plant-based-clean-fuel-technology/",
+   "confidence": "high",
+   "exclude": true,
+   "exclude_reason": "Pure biofuel/materials play with no food angle: EUR 17m Series B funds a lignin-to-renewable-oil plant in Rotterdam serving shipping fuel, SAF and chemicals markets; no food application — out of scope.",
+   "notes": "Round is real (Series B, EUR 17m, investors incl. Invest-NL, Maersk, Climate Tech Partners) but sector is out of scope for a food-tech dataset."
+  },
+  {
+   "company": "Innovorder",
+   "verified": true,
+   "stage": "Growth",
+   "date": "2026-06-04",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "UL Invest"
+   ],
+   "investors": [
+    "UL Invest",
+    "Evolem"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Omnichannel restaurant and canteen digitalization SaaS (POS, self-order kiosks, online ordering) with AI agents",
+   "source_url": "https://www.maddyness.com/2026/06/04/innovorder-leve-20-millions-deuros-pour-digitaliser-les-restaurants-et-cantines-en-europe/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "No series letter stated; company profitable since 2024, round from family office UL Invest (with Evolem) to fund European expansion and acquisitions — classified Growth. Announced 2026-06-04, not 06-15."
+  },
+  {
+   "company": "Leaft Foods",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Extracts RuBisCO protein from alfalfa leaves; strategic equity investment by Japanese dairy trader Lacto Japan to expand into Japan",
+   "source_url": "https://www.greenqueen.com.hk/leaft-foods-lacto-japan-funding-alfalfa-leaf-rubisco-protein/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Amount undisclosed everywhere; no round stage named (corporate strategic investment) — stage stays Unknown. Existing investor list (Lacto Japan) confirmed and unchanged. Announced early June 2026 (Green Queen published 2026-06-08)."
+  },
+  {
+   "company": "Cordon Technologies",
+   "verified": true,
+   "stage": null,
+   "date": "2026-06-09",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "British Design Fund"
+   ],
+   "investors": [
+    "British Design Fund"
+   ],
+   "hq_city": "Maidenhead",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Precision spraying system enabling real-time multi-treatment adjustment to cut pesticide use in vineyards and specialty crops",
+   "source_url": "https://tech.eu/2026/06/09/cordon-technologies-raises-1m-to-help-farmers-cut-pesticide-use-through-precision-spraying/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "First close of a GBP 1m round led by British Design Fund; no stage label given in tech.eu or UKBAA coverage — stage stays Unknown. HQ Maidenhead confirmed via UKBAA."
+  },
+  {
+   "company": "Manam Chocolate",
+   "verified": true,
+   "stage": "Series A",
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Omnivore"
+   ],
+   "investors": [
+    "Omnivore",
+    "Turner Morrison"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Bean-to-bar craft chocolate brand built on Indian cacao, expanding experiential retail across Hyderabad and Delhi-NCR",
+   "source_url": "https://www.outlookbusiness.com/news/manam-chocolate-raises-9-million-to-fuel-expansion-plans",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Series A led by Omnivore with participation from Turner Morrison consortium — Omnivore is sole lead (Turner Morrison was a participant, not co-lead). Valuation not disclosed."
+  },
+  {
+   "company": "SWARM Engineering",
+   "verified": true,
+   "stage": null,
+   "date": "2026-06-10",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "S2G Investments",
+    "AgRogue Growth Partners"
+   ],
+   "investors": [
+    "S2G Investments",
+    "AgRogue Growth Partners",
+    "Radicle Growth",
+    "Grit Road Partners",
+    "Middleland Capital",
+    "Open Prairie",
+    "Serra Ventures",
+    "Trailhead Capital"
+   ],
+   "hq_city": "San Francisco",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Domain-trained AI agents and optimization algorithms for agrifood and manufacturing supply chain, workforce and logistics decisions",
+   "source_url": "https://swarm.engineering/insights/press-release",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Series A confirmed (oversubscribed), co-led by S2G Investments and AgRogue Growth Partners; announced 2026-06-10. Valuation not disclosed."
+  },
+  {
+   "company": "Uvera",
+   "verified": true,
+   "confidence": "high",
+   "date": "2026-07-09",
+   "stage": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [
+    "Morgan Stanley Inclusive & Sustainable Ventures",
+    "LAB7",
+    "Core Vision"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "AI/IoT shelf-life extension and fresh-food supply chain intelligence platform; seed round of undisclosed size",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.wamda.com/2026/07/uvera-attracts-morgan-stanley-lab7-core-vision-seed-round",
+   "notes": "Investor list confirmed: Morgan Stanley Inclusive & Sustainable Ventures (not Morgan Stanley proper), LAB7 (Aramco's venture-building arm), Core Vision, plus unnamed strategic angels. No lead named; amount not disclosed. Also covered by Zawya press release and Arab News. Announced ~Jul 9, 2026."
+  },
+  {
+   "company": "Hippo Harvest",
+   "verified": true,
+   "confidence": "high",
+   "date": "2026-07-09",
+   "stage": "Series C",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Cox Farms"
+   ],
+   "investors": [
+    "Cox Farms",
+    "Congruent Ventures",
+    "Hawthorne Food Ventures",
+    "Collaborative Fund",
+    "Fresh Investment Club"
+   ],
+   "hq_city": "Pescadero",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Robotic indoor greenhouse grower (AMR + ML) scaling lettuce and spinach; $30m Series C led by Cox Farms",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.prnewswire.com/news-releases/hippo-harvest-closes-30-million-series-c-led-by-cox-farms-scaling-robotic-indoor-growing-technology-and-expanding-to-new-markets-302822124.html",
+   "notes": "Press release dated Jul 9, 2026 gives HQ as Pescadero, CA (not Half Moon Bay). $30m amount confirmed; no valuation disclosed. Follows $21m Series B (Feb 2024)."
+  },
+  {
+   "company": "Rize",
+   "verified": true,
+   "confidence": "high",
+   "date": null,
+   "stage": "Series B",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "BNP Paribas Asset Management"
+   ],
+   "investors": [
+    "BNP Paribas Asset Management",
+    "The Rockefeller Foundation",
+    "Temasek",
+    "Breakthrough Energy Ventures",
+    "UOB",
+    "BIDV",
+    "Temasek Foundation"
+   ],
+   "hq_city": "Singapore",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Low-emission (methane-reducing) rice farming platform across Southeast Asia; $31m Series B ($20m equity + $11m debt)",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.esgtoday.com/rize-raises-31-million-to-tackle-the-climate-impact-of-rice-farming/",
+   "notes": "Announced Jul 16, 2026 (matches record date). Of the $31m, $11m is debt from UOB, BIDV and Temasek Foundation; equity led by BNP Paribas Asset Management. Total raised to date $47m."
+  },
+  {
+   "company": "ProFuse Technology",
+   "verified": true,
+   "confidence": "medium",
+   "date": null,
+   "stage": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [
+    "Green Circle Foodtech Ventures",
+    "Siddhi Capital",
+    "Tempo Beverages"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "ingredients-biotech",
+   "description": "Muscle-tissue biology platform pivoting from cultivated-meat growth media to high-throughput screening of food-grade (GRAS) molecules for muscle health in the GLP-1 era; $1.5m raise",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://agfundernews.com/profuse-technology-raises-1-5m-to-tackle-muscle-loss-in-the-glp-1-era",
+   "notes": "AgFunderNews exclusive (Jul 2, 2026; single source, hence medium confidence). Round type not stated anywhere — stage stays Unknown. No lead identified. Segment reclassified from alt-protein to ingredients-biotech: this raise funds the muscle-health/supplement-screening pivot, not cultivated meat media."
+  },
+  {
+   "company": "Stenon",
+   "verified": true,
+   "confidence": "high",
+   "date": "2026-07-01",
+   "stage": "Series B",
+   "amount_value": 18000000,
+   "amount_currency": "EUR",
+   "lead_investors": [
+    "Pymwymic"
+   ],
+   "investors": [
+    "Pymwymic",
+    "DeepTech & Climate Fonds",
+    "Atlantic",
+    "Oyster Bay",
+    "Founders Fund",
+    "TIME Ventures",
+    "Bernd Hoffmann"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Real-time in-field soil and nitrogen analysis (FarmLab sensor + AI); €18m Series B led by Pymwymic",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://blog.stenon.io/2026/07/01/stenon-raises-18-million-in-series-b-financing-to-scale-real-time-nitrogen-and-soil-data-management/",
+   "notes": "Originally denominated €18m (roundup's $20.5m was a USD conversion). Announced Jul 1, 2026. DeepTech & Climate Fonds is a new investor; Atlantic, Oyster Bay, Founders Fund, TIME Ventures (Marc Benioff) and Bernd Hoffmann (ex-AGCO/Claas) are existing investors. Also confirmed by Pymwymic and Startbase."
+  },
+  {
+   "company": "The Protein Brewery",
+   "verified": true,
+   "confidence": "high",
+   "date": "2026-06-29",
+   "stage": null,
+   "amount_value": 18000000,
+   "amount_currency": "EUR",
+   "lead_investors": [
+    "ABN AMRO Sustainable Impact Fund"
+   ],
+   "investors": [
+    "ABN AMRO Sustainable Impact Fund",
+    "Invest-NL",
+    "Novo Holdings",
+    "Madeli",
+    "Brabant Development Agency (BOM)"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Fermotein whole-food mycoprotein via fungal fermentation; €18m Series B extension following first EU novel food approval for whole-food mycelium",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.theproteinbrewery.com/18m-series-b-extension",
+   "notes": "Company press release dated Jun 29, 2026 (record date 07-02 was the roundup date). Originally denominated €18m (~$20.5m). Extension brings total Series B to ~€48m and total funding to >€70m. Stage Series B confirmed — no change."
+  },
+  {
+   "company": "Fieldwork Robotics",
+   "verified": true,
+   "confidence": "high",
+   "date": "2026-06-22",
+   "stage": "Seed",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [
+    "SEED Innovations"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Autonomous soft-touch raspberry/berry harvesting robots with four robotic arms; SEED Innovations investment completing a £2.5m Seed+ round",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://fieldworkrobotics.com/new-investment-from-seed-innovations/",
+   "notes": "Company announcement Jun 22, 2026. Round labeled 'Seed+' (mapped to Seed). SEED Innovations tranche not disclosed in the primary source; trade press (Robotics & Automation News, Share Talk) reported £300k for a 3.66% stake (implies ~£8.2m valuation, not officially confirmed). Part of a £2.5m Seed+ round that builds on a separate £2.2m round led by Elbow Beach in April 2026 — check dataset for a duplicate April record before attributing the full £2.5m here."
+  },
+  {
+   "company": "Coast 4C",
+   "verified": true,
+   "confidence": "high",
+   "date": "2026-06-24",
+   "stage": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Blue Revolution Fund (Hatch Blue)"
+   ],
+   "investors": [
+    "Blue Revolution Fund (Hatch Blue)",
+    "Conservation International Ventures",
+    "elea",
+    "RS Group",
+    "Potato Impact Partners",
+    "Minderoo Foundation",
+    "Kibo Invest",
+    "Azulito Fund"
+   ],
+   "hq_city": null,
+   "hq_country": "AU",
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Regenerative seaweed farming and traceable supply-chain platform for smallholder farmers in Southeast Asia; oversubscribed $2.5m seed led by Hatch Blue's Blue Revolution Fund",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://aquaasiapac.com/2026/06/24/coast-4c-secures-oversubscribed-us2-5-million-seed-round-to-scale-smallholder-seaweed-farming-in-southeast-asia/",
+   "notes": "HQ correction: headquartered in New South Wales, Australia (per Conservation International Ventures profile and AU LinkedIn), with primary operations in the Philippines — hq_country PH -> AU; no specific HQ city confirmed. Seed stage and $2.5m amount confirmed. Announced Jun 24, 2026."
+  },
+  {
+   "company": "Myota",
+   "verified": true,
+   "confidence": "high",
+   "date": null,
+   "stage": "Series A",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "PeakBridge"
+   ],
+   "investors": [
+    "PeakBridge"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Clinically validated prebiotic fibre blends for gut and metabolic health (D2C supplements + B2B food ingredients); $4.5m Series A led by PeakBridge",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.greenqueen.com.hk/myota-fibre-gut-health-metabolic-prebiotic-blends-glp-1-funding/",
+   "notes": "Series A led by PeakBridge; no other participating investors named in Green Queen, The Grocer, or NutraIngredients coverage. Amount $4.5m confirmed (reported in USD). London HQ confirmed."
+  },
+  {
+   "company": "Omni",
+   "verified": true,
+   "confidence": "high",
+   "date": null,
+   "stage": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "IW Capital",
+    "Redrice Ventures"
+   ],
+   "investors": [
+    "IW Capital",
+    "Redrice Ventures",
+    "RootBridge Capital",
+    "Digitalis Ventures",
+    "Lever VC",
+    "Deborah Meaden"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Vet-formulated plant-based dog food and supplements brand; £11m Series A co-led by IW Capital and Redrice Ventures",
+   "exclude": true,
+   "exclude_reason": "Pet food — explicitly out of scope for this dataset (plant-based dog food brand, not human food-tech)",
+   "source_url": "https://www.petgazette.biz/237408-plant-based-pet-food-brand-omni-secures-11m-series-a-funding/",
+   "notes": "Round is real and confirmed (£11m / ~$14.5m Series A, Jul 2026 coverage), but the scope rules list pet food under NEVER include — record should be removed."
+  },
+  {
+   "company": "OneSoil",
+   "verified": true,
+   "confidence": "medium",
+   "date": null,
+   "stage": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [
+    "Yury Melnichek (Melnichek Investments)"
+   ],
+   "hq_city": "Zurich",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Satellite-imagery and AI precision-farming platform launching an AI Agronomist chat assistant; €1m from existing investors",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://tech.eu/2026/06/18/onesoil-secures-eur1m-to-expand-ai-powered-farming-assistant/",
+   "notes": "Tech.eu (Jun 18, 2026, matches record date) describes OneSoil as Zurich-based (record said Lausanne) — hq_city corrected to Zurich, medium confidence. €1m came from existing investors including Yury Melnichek (Melnichek Investments); no round label given anywhere, so stage stays Unknown; no lead named. Amount €1m confirmed."
+  },
+  {
+   "company": "Phytolon",
+   "verified": true,
+   "confidence": "high",
+   "stage": null,
+   "date": "2026-05-26",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [],
+   "investors": [
+    "Millennium Foodtech",
+    "NextGen Nutrition Investment Partners",
+    "Colorcon Ventures",
+    "Yossi Ackerman"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Precision-fermentation natural food colors (FDA-cleared Beetroot Red); $23.6M Series B to commercialize in the US",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.prnewswire.com/news-releases/phytolon-closes-23-6-million-series-b-to-commercialize-its-innovative-natural-food-colors-302781241.html",
+   "notes": "Round led by an undisclosed strategic investor (name not public, so lead_investors left empty); completed in three stages, final stage in April 2026 with existing investors. Total raised to date $43.6M. PR dated 2026-05-26."
+  },
+  {
+   "company": "Choice",
+   "verified": true,
+   "confidence": "high",
+   "stage": "Series A",
+   "date": "2026-03-16",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": "Prague",
+   "hq_country": "CZ",
+   "lead_investors": [
+    "Alea Capital Partners"
+   ],
+   "investors": [
+    "Alea Capital Partners",
+    "Reflex Capital",
+    "Smartlink",
+    "J&T Ventures"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Prague-based all-in-one restaurant SaaS (commission-free ordering, QR payments, reservations, loyalty) across 9 CEE markets",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://tech.eu/2026/03/16/choice-secures-71m-series-a-to-expand-its-restaurant-operating-system-across-europe/",
+   "notes": "Roundup HQ was wrong: company is headquartered in Prague, Czech Republic (Czech-Polish team), not Warsaw. Roundup date also wrong: round announced 2026-03-16, not May. Total funding $11.6M."
+  },
+  {
+   "company": "Melazyme",
+   "verified": true,
+   "confidence": "high",
+   "stage": "Seed",
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [
+    "SeaX Ventures"
+   ],
+   "investors": [
+    "SeaX Ventures",
+    "Stellaris Venture Partners",
+    "Plug and Play Ventures"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Precision fermentation of melanin ('Black Gold') and brazzein sweet protein; founded 2025 by Perfect Day alumni Perumal Gandhi and Bonney Oommen",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.greenqueen.com.hk/melazyme-precision-fermentation-perfect-day-melanin-brazzein-protein-funding/",
+   "notes": "Utah-based; specific city not disclosed in any source consulted. Melanin targets cosmetics/materials but brazzein sweet-protein platform keeps it in food scope."
+  },
+  {
+   "company": "NanoStruct",
+   "verified": true,
+   "confidence": "high",
+   "stage": "Seed",
+   "date": "2026-05-11",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": "Wuerzburg",
+   "hq_country": null,
+   "lead_investors": [
+    "High-Tech Gruenderfonds",
+    "Bayern Kapital",
+    "AUXXO Female Catalyst Fund"
+   ],
+   "investors": [
+    "High-Tech Gruenderfonds",
+    "Bayern Kapital",
+    "AUXXO Female Catalyst Fund"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Nanostructured sensor chips plus ML for same-day food pathogen detection (hours vs days), cutting recalls and waste",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://tech.eu/2026/05/11/nanostruct-raises-eur26m-seed-to-bring-same-day-pathogen-detection-to-the-food-industry/",
+   "notes": "EUR 2.6M seed co-led by HTGF, Bayern Kapital and AUXXO Female Catalyst Fund; Wuerzburg, Germany. Announced 2026-05-11 (roundup said 05-14). Prior non-dilutive grants from German BMWE and EU."
+  },
+  {
+   "company": "Aplantex",
+   "verified": true,
+   "confidence": "medium",
+   "stage": null,
+   "date": "2026-05-07",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [
+    "Francois Ravenelle"
+   ],
+   "investors": [
+    "Francois Ravenelle",
+    "Investissement Quebec"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Green biotech growing plant-cell replicators for high-value actives serving cosmetics, food additives and nutritional health; oversubscribed $5M bridge",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://finance.yahoo.com/sectors/technology/articles/aplantex-2025-bridge-oversubscribed-2m-100000462.html",
+   "notes": "Business Wire PR (2026-05-07) states '$5M' without explicit currency; Montreal HQ and prior rounds denominated in CAD suggest the amount is likely CAD, not USD — could not confirm, so amount left unchanged. Bridge round led by Francois Ravenelle, PhD (individual), with Investissement Quebec via its Impulsion Fund. Montreal HQ confirmed."
+  },
+  {
+   "company": "Adamo Foods",
+   "verified": true,
+   "confidence": "high",
+   "stage": "Grant",
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": "London",
+   "hq_country": "GB",
+   "lead_investors": [],
+   "investors": [
+    "Circular Bio-Based Europe Joint Undertaking (Horizon Europe)"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Whole-cut mycelium steak; EUR 10M Horizon Europe CBE JU grant funding the 12-partner MycoStruct scale-up consortium",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://vegconomist.com/investments-finance/eu-awards-adamo-foods-10m-bring-fungal-whole-cut-steaks-commercial-scale/",
+   "notes": "HQ confirmed London, UK (roundup's Germany was wrong; record already corrected). Grant from Circular Bio-Based Europe Joint Undertaking under Horizon Europe; 3-year MycoStruct project with Bidfood, Buehler, TU Delft, TFTAK, Bio Base Europe. UK foodservice launch planned."
+  },
+  {
+   "company": "Resurrect Bio",
+   "verified": true,
+   "confidence": "high",
+   "stage": "Series A",
+   "date": "2026-05-13",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": "Norwich",
+   "hq_country": null,
+   "lead_investors": [
+    "Corteva Catalyst"
+   ],
+   "investors": [
+    "Corteva Catalyst",
+    "Calculus Capital",
+    "Pymwymic",
+    "UKI2S",
+    "SynBioVen",
+    "AgFunder"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Sainsbury Laboratory spinout reactivating crops' natural disease immunity via FloraFold AI platform; $10.3M Series A final close",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://agfundernews.com/resurrect-bio-expands-series-a-to-10-3m-to-scale-tech-helping-plants-to-defend-themselves",
+   "notes": "Resolved: Feb-2026 $8.1M was the INITIAL close of the same Series A, which reached a final close of $10.3M announced 2026-05-13 — one round, not two. Keep this record at $10.3M; any separate Feb $8.1M record in the dataset is a duplicate and should be removed. HQ is Norwich (Sainsbury Laboratory spinout, Norwich Research Park), not London. Total raised to date $12.4M."
+  },
+  {
+   "company": "Oishii",
+   "verified": true,
+   "confidence": "high",
+   "stage": "Series C",
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [
+    "SPARX Asset Management"
+   ],
+   "investors": [
+    "SPARX Asset Management",
+    "Nomura Real Estate Development",
+    "MISUMI Group",
+    "Mizuho Bank"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Premium indoor vertical-farmed Omakase strawberries; $150M Series C first close led by SPARX to scale Smart Farm model in US and Japan",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.prnewswire.com/news-releases/oishii-announces-first-closing-of-150m-in-series-c-financing-as-it-scales-its-indoor-smart-farm-model-302770199.html",
+   "notes": "First closing of the Series C; lifetime funding $370M. No official valuation disclosed in the press release; secondary-market estimate sites show conflicting figures ($615M vs $1.6B), so valuation left null."
+  },
+  {
+   "company": "Naturbeads",
+   "verified": true,
+   "confidence": "high",
+   "stage": "Grant",
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [],
+   "investors": [
+    "European Structural Fund"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "University of Bath spinout making biodegradable cellulose microbeads to replace microplastics in cosmetics, paints, detergents, coatings and leather",
+   "exclude": true,
+   "exclude_reason": "Out of scope: no food angle. The GBP 3.6M (EUR 4.1M) is a European Structural Fund grant reimbursing construction of a Puglia (Italy) plant; stated applications are cosmetics, paints, detergents, coatings and leather — food/food packaging is not mentioned in any source. Pure materials play, and not a VC round.",
+   "source_url": "https://www.uktech.news/climate-tech/naturbeads-secures-3-6m-to-set-up-italy-production-plant-20260423",
+   "notes": "Announced 2026-04-23, matching the record date. Recommend removal from the food-tech dataset."
+  },
+  {
+   "company": "AuX Labs",
+   "verified": true,
+   "confidence": "high",
+   "stage": null,
+   "date": "2026-04-21",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": "Toronto",
+   "hq_country": "CA",
+   "lead_investors": [
+    "NYA Ventures"
+   ],
+   "investors": [
+    "NYA Ventures",
+    "Congruent Ventures",
+    "Bluestein Ventures",
+    "Nadarra Ventures",
+    "Verdex Capital",
+    "Builders VC"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Precision-fermented casein for animal-free cheese with authentic melt and stretch; self-affirmed GRAS, piloting with foodservice customers",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.greenqueen.com.hk/aux-labs-precision-fermentation-casein-animal-free-cheese-funding/",
+   "notes": "HQ correction: Toronto, Canada — not US as in the roundup. Round stage not disclosed in the GlobeNewswire PR (2026-04-21) or trade coverage, so stage stays Unknown."
+  },
+  {
+   "company": "Incapto",
+   "verified": true,
+   "confidence": "high",
+   "stage": "Series B",
+   "date": "2026-04-24",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [
+    "McWin Capital Partners"
+   ],
+   "investors": [
+    "McWin Capital Partners",
+    "Cardumen Capital",
+    "Lever VC",
+    "Banc Sabadell",
+    "P101",
+    "A3 Media",
+    "JME"
+   ],
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Barcelona coffee-as-a-service brand replacing capsules with bean-to-cup machines and subscriptions; EUR 10M Series B for European expansion",
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.refreshmentmag.com/news/mcwin-invests-5m-in-coffee-subscription-platform-incapto-as-part-of-10m-funding-round",
+   "notes": "Series B; McWin invested EUR 5M of the EUR 10M via McWin Food Tech Fund I. New investors Cardumen Capital and Lever VC; existing backers Banc Sabadell, P101, A3 Media and JME also participated. Announced 2026-04-24."
+  },
+  {
+   "company": "NS/TX Industries",
+   "verified": true,
+   "stage": "Series A",
+   "date": "2026-06-10",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Inter IKEA Development BV",
+    "Lever VC"
+   ],
+   "investors": [
+    "Inter IKEA Development BV",
+    "Lever VC",
+    "Good Startup",
+    "Verdex Capital",
+    "Chris Bryson",
+    "Protein Industries Canada"
+   ],
+   "hq_city": "Toronto",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "alt-protein",
+   "description": "Toronto manufacturing-tech company behind NEW/SCHOOL FOODS; Series A plus non-dilutive grants to build its automated V2 assembly line for whole-cut alt proteins",
+   "source_url": "https://finance.yahoo.com/sectors/healthcare/articles/ns-tx-industries-secures-10-120000875.html",
+   "exclude": null,
+   "exclude_reason": null,
+   "confidence": "high",
+   "notes": "$10.5M USD confirmed (Series A equity co-led by Inter IKEA Development BV and Lever VC, plus non-dilutive capital from Protein Industries Canada). Press release (BusinessWire, 2026-06-10) plus vegconomist/Dealroom coverage."
+  },
+  {
+   "company": "Leaf",
+   "verified": true,
+   "stage": null,
+   "date": "2026-06-10",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Leaps by Bayer"
+   ],
+   "investors": [
+    "Leaps by Bayer"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "agtech-upstream",
+   "description": "API data infrastructure unifying farm machinery, soil lab, weather, satellite and FMS data for agribusiness AI applications; processes data covering ~20% of global crop acres",
+   "source_url": "https://www.prnewswire.com/news-releases/leaf-raises-13m-series-b-to-bring-ai-to-agribusiness-302795837.html",
+   "exclude": null,
+   "exclude_reason": null,
+   "confidence": "high",
+   "notes": "Series B and $13M confirmed via company press release. Co-led by Leaps by Bayer alongside unnamed 'industry strategics' — no other investors named publicly. San Francisco HQ confirmed (no change)."
+  },
+  {
+   "company": "Innovafeed",
+   "verified": true,
+   "stage": "Growth",
+   "date": "2026-06-05",
+   "amount_value": 51000000,
+   "amount_currency": "EUR",
+   "lead_investors": [],
+   "investors": [
+    "Creadev",
+    "QIA",
+    "Temasek",
+    "FFC",
+    "ABC Impact",
+    "ADM"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "alt-protein",
+   "description": "French black soldier fly insect-protein producer; €51M from existing shareholders and banking partners to fund commercial scale-up of its Hilucia ingredient lines for aquafeed and pet food",
+   "source_url": "https://thefishsite.com/articles/innovafeed-raises-51m-as-it-shifts-focus-to-commercial-growth",
+   "exclude": null,
+   "exclude_reason": null,
+   "confidence": "high",
+   "notes": "Round originally denominated €51M (reported as $59M USD). No series letter disclosed anywhere; unlettered late-stage internal round from historical shareholders (post-Series D company) plus bank financing for commercialization phase — classified as Growth. No lead named. Also covered by agfundernews and company PR."
+  },
+  {
+   "company": "Mykor",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Clean Growth Fund"
+   ],
+   "investors": [
+    "Clean Growth Fund",
+    "British Business Bank South West Investment Fund (via The FSE Group)",
+    "Green Angel Ventures",
+    "Innovate UK investor partnership programme"
+   ],
+   "hq_city": "Bristol",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Mycelium biofabrication of low-carbon construction panels/insulation (MykoSIP) grown from agricultural and industrial waste",
+   "source_url": "https://www.mycostories.com/post/mykor-raises-4-million-to-scale-mycelium-construction-systems-grown-from-waste",
+   "exclude": true,
+   "exclude_reason": "Out of scope: construction/insulation materials company with no food product. Using ag-waste feedstock does not make it food tech — this is a pure materials play (climate/construction-tech), explicitly excluded by scope rules.",
+   "confidence": "high",
+   "notes": "£4M round led by Clean Growth Fund confirmed (also tech.eu, UKBAA, company blog); announced ~2026-05-27. Real round, but wrong sector for this dataset."
+  },
+  {
+   "company": "Raisio",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "Listed Finnish food company's four-year internal R&D programme (2026-2029) to develop fibre ingredients from grain side streams",
+   "source_url": "https://www.proteinproductiontechnology.com/post/raisio-secures-eu4-5-million-research-investment-to-transform-grain-side-streams-into-next-generation-fiber-ingredients",
+   "exclude": true,
+   "exclude_reason": "Not a VC/grant/debt financing round into a startup: this is a publicly listed corporation's own R&D programme (€2.7M own funds + €1.8M Business Finland project grant to the corporate). Corporate internal R&D spend is out of scope.",
+   "confidence": "high",
+   "notes": "€4.5M figure is total project value of a research programme, not a raise."
+  },
+  {
+   "company": "PROSCALE",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_country": "FI",
+   "valuation_usd": null,
+   "primary_segment": null,
+   "description": "EU CBE JU-funded 16-partner research consortium (coordinated by VTT, Finland) scaling single-cell protein via continuous fermentation of food-industry sidestreams, 2026-2030",
+   "source_url": "https://www.greenqueen.com.hk/proscale-microbial-fermentation-single-cell-proteins-eu-food-waste/",
+   "exclude": true,
+   "exclude_reason": "Not a financing round into a company: PROSCALE is an EU Horizon/CBE JU Innovation Action grant (~€6.9-7M) to a 16-member research consortium coordinated by VTT Technical Research Centre of Finland. No food-tech company received a VC/grant round here. HQ country in the record (DE) was also wrong — coordinator is Finnish.",
+   "confidence": "high",
+   "notes": "Also confirmed by cbe.europa.eu project page and Protein Production Technology."
+  },
+  {
+   "company": "Marble Technologies",
+   "verified": true,
+   "stage": null,
+   "date": "2026-06-03",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "food-robotics",
+   "description": "Robotics and AI systems automating meatpacking pack-off lines; already sorts ~3% of daily US beef production and is profitable",
+   "source_url": "https://siliconprairienews.com/2026/06/with-30-million-series-a-raise-marble-technologies-is-creating-the-future-of-meatpacking-in-nebraska/",
+   "exclude": null,
+   "exclude_reason": null,
+   "confidence": "high",
+   "notes": "$30M Series A confirmed; Lincoln, NE HQ confirmed (also office in Cambridge, MA). Investor syndicate not disclosed — described only as 'mostly Nebraska investors'; no lead named in any source found (Silicon Prairie News, Fundraise Insider, AixPoint). Leads left empty deliberately."
+  },
+  {
+   "company": "Apoha",
+   "verified": true,
+   "stage": "Series A",
+   "date": "2026-06-03",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Singular"
+   ],
+   "investors": [
+    "Singular",
+    "Draper Associates",
+    "Redalpine",
+    "Seedcamp",
+    "Wilbe",
+    "Nucleus"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "ingredients-biotech",
+   "description": "AI 'liquid intelligence' platform measuring molecular behaviour to design proteins, food ingredients and materials — e.g. matching texture/functionality for alt-protein ingredient replacement",
+   "source_url": "https://www.proteinproductiontechnology.com/post/apoha-raises-us-36-million-to-scale-ai-platform-for-designing-proteins-food-ingredients-and-new-materials",
+   "exclude": false,
+   "exclude_reason": null,
+   "confidence": "high",
+   "notes": "Kept in scope: horizontal AI/sensing platform (pharma, food, materials) but with explicit, demonstrated food applications (food ingredient functionality/texture design, plant-based chicken ingredient replacement project) — not a 'no food angle' materials play. Borderline; flag if you want strict food-only scoping. Also received Innovate UK grant funding. Dual HQ London/San Francisco."
+  },
+  {
+   "company": "Perplant",
+   "verified": true,
+   "stage": "Seed",
+   "date": "2026-05-25",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Jytte Rosenmaj"
+   ],
+   "investors": [
+    "Jytte Rosenmaj",
+    "Kræn Østergaard Nielsen",
+    "Antler",
+    "The Footprint Firm",
+    "Export and Investment Fund of Denmark (EIFO)"
+   ],
+   "hq_city": "Copenhagen",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "agtech-upstream",
+   "description": "Edge-AI tractor-mounted sensors for plant-level precision spraying, cutting herbicide use up to 90% and fertilizer ~30%",
+   "source_url": "https://thenextweb.com/news/perplant-1m-seed-precision-spraying-copenhagen",
+   "exclude": null,
+   "exclude_reason": null,
+   "confidence": "high",
+   "notes": "€1M seed round led by angel Jytte Rosenmaj (Agreena chair), with Kræn Østergaard Nielsen (ex-Coop Danmark CEO), existing backers Antler and The Footprint Firm, and EIFO; additional non-dilutive grants from ESA and Innovation Fund Denmark. Also covered by ArcticStartup and BeBeez."
+  },
+  {
+   "company": "Pacifico Biolabs",
+   "verified": true,
+   "stage": "Series A",
+   "date": "2026-05-27",
+   "amount_value": 7000000,
+   "amount_currency": "EUR",
+   "lead_investors": [],
+   "investors": [
+    "Stray Dog Capital",
+    "TGFS",
+    "Sprout & About Ventures",
+    "Simon Capital",
+    "FoodLabs"
+   ],
+   "hq_city": "Leipzig",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "alt-protein",
+   "description": "Biomass-fermentation startup growing whole-cut mycelium meat (chicken-first, Viando B2B label; seafood/pork in pipeline) in retrofitted German brewery tanks",
+   "source_url": "https://www.greenqueen.com.hk/pacifico-biolabs-funding-mycelium-meat-fermentation-protein-beer-tanks/",
+   "exclude": null,
+   "exclude_reason": null,
+   "confidence": "high",
+   "notes": "Round originally denominated €7M (~$8.1M) Series A. HQ corrected Berlin -> Leipzig (production in Saxony). An unnamed regional brewery partner also participated. No formal lead disclosed (Green Queen, AgFunderNews, EU-Startups all consulted). Company has pivoted from alt-seafood-first to chicken-first."
+  },
+  {
+   "company": "StrainX Bioworks",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Prime Venture Partners",
+    "Leo Capital"
+   ],
+   "investors": [
+    "Prime Venture Partners",
+    "Leo Capital",
+    "Good Startup",
+    "Sparrow Capital",
+    "Sun Icon Ventures",
+    "Dholakia Ventures",
+    "WindT (IIT Delhi) Angels"
+   ],
+   "hq_city": "Bhopal",
+   "hq_country": null,
+   "valuation_usd": null,
+   "primary_segment": "precision-fermentation",
+   "description": "Indian precision-fermentation/synbio platform producing high-value nutritional and flavour ingredients; 10,000L capacity in Bhopal scaling toward 100,000L, first molecule self-affirmed GRAS",
+   "source_url": "https://agfundernews.com/strainx-bioworks-nets-13m-to-scale-biomanufacturing-platform-india-is-going-to-be-the-fermentation-capital-of-the-world",
+   "exclude": null,
+   "exclude_reason": null,
+   "confidence": "high",
+   "notes": "$13M round confirmed (AgFunderNews, Green Queen, SynBioBeta); led by Prime Venture Partners and Leo Capital. No series letter stated in any source ('exits stealth' round) — stage stays Unknown. HQ corrected Bangalore -> Bhopal per AgFunderNews and Green Queen (company facility and base in Bhopal). Announced ~2026-05-24/25."
+  },
+  {
+   "company": "Planetary",
+   "verified": true,
+   "stage": "Series A",
+   "date": "2026-04-20",
+   "amount_value": 22000000,
+   "amount_currency": "CHF",
+   "hq_city": "Geneva",
+   "hq_country": "CH",
+   "lead_investors": [
+    "Radikal Capital",
+    "Oetker Ventures"
+   ],
+   "investors": [
+    "Radikal Capital",
+    "Oetker Ventures",
+    "Royal Cosun",
+    "arc investors",
+    "Green Generation Fund",
+    "AgriFoodTech Venture Alliance",
+    "Astanor Ventures",
+    "XAnge"
+   ],
+   "valuation_usd": null,
+   "description": "Geneva-based full-stack fermentation CDMO converting sugar-industry side streams into mycoprotein, fibers and enzymes via a licensing platform",
+   "primary_segment": "precision-fermentation",
+   "source_url": "https://agfundernews.com/planetary-nets-28m-to-scale-fermentation-infrastructure-and-licensing-platform",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "HQ is Geneva, Switzerland (not GB); production plant in Aarberg. Round originally denominated CHF: 16m Series A equity + 6m credit = CHF 22m (~$28m). Announced 2026-04-20. Total funding to date ~$40m."
+  },
+  {
+   "company": "Afresh Technologies",
+   "verified": true,
+   "stage": null,
+   "date": "2026-04-21",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [
+    "Just Climate",
+    "High Sage Ventures"
+   ],
+   "investors": [
+    "Just Climate",
+    "High Sage Ventures"
+   ],
+   "valuation_usd": null,
+   "description": "San Francisco AI platform for grocery fresh-food ordering and inventory, live in 12,500+ departments with Albertsons, Meijer and Wakefern",
+   "primary_segment": "supply-chain",
+   "source_url": "https://www.prnewswire.com/news-releases/afresh-raises-34m-to-scale-ai-across-the-grocery-industry--driving-fresher-food-stronger-margins-and-less-waste-302747794.html",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "No series letter stated in the press release or trade coverage ('new funding', co-led by Just Climate and High Sage Ventures, 'participation from all major investors' unnamed) - stage genuinely unstated, stays Unknown."
+  },
+  {
+   "company": "Grodi",
+   "verified": true,
+   "stage": null,
+   "date": "2026-02-25",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": "Almería",
+   "hq_country": null,
+   "lead_investors": [
+    "Swanlaab Innvierte Agri FoodTech"
+   ],
+   "investors": [
+    "Swanlaab Innvierte Agri FoodTech",
+    "Axon Desarrollo Andalucía",
+    "CDTI Innvierte (SICC)"
+   ],
+   "valuation_usd": null,
+   "description": "Almería-based agtech industrializing VEGA 11, an autonomous computer-vision robot for Mediterranean greenhouses",
+   "primary_segment": "agtech-upstream",
+   "source_url": "https://tech.eu/2026/02/25/grodi-raises-eur25m-led-by-swanlaab-to-advance-greenhouse-automation/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Founded 2022. No round-type label (seed/Series A) stated in any coverage consulted; stage stays Unknown. Lead fund is Swanlaab Innvierte Agri FoodTech (full fund name)."
+  },
+  {
+   "company": "Alpa",
+   "verified": true,
+   "stage": "Pre-seed",
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [
+    "Daphni"
+   ],
+   "investors": [
+    "Daphni",
+    "True Capital",
+    "2100 Ventures",
+    "Firedrop",
+    "Oprtrs Club",
+    "Kima Ventures",
+    "Sonorcap",
+    "Alexandre Yazdi",
+    "Jerome Tafani"
+   ],
+   "valuation_usd": null,
+   "description": "London fintech by Taster founder Anton Soulier building a real-time P&L and financial operating system for hospitality operators",
+   "primary_segment": "restaurant-tech",
+   "source_url": "https://tech.eu/2026/02/26/alpa-lands-35m-to-build-financial-platform-for-hospitality/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Pre-seed led by Daphni. Angels: Voodoo founder Alexandre Yazdi and ex-Burger King France CEO Jerome Tafani (joined board). Amount reported as $3.5m USD (EU-Startups quotes €2.9m equivalent)."
+  },
+  {
+   "company": "IKOS Advanced",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": "Almería",
+   "hq_country": null,
+   "lead_investors": [
+    "Impact Bridge Asset Management"
+   ],
+   "investors": [
+    "Impact Bridge Asset Management"
+   ],
+   "valuation_usd": null,
+   "description": "Almería-based agtech (founded 2019) using sensor networks and AI to optimize irrigation and agricultural inputs, moving to a PaaS model",
+   "primary_segment": "agtech-upstream",
+   "source_url": "https://www.fruitnet.com/eurofruit/ikos-advanced-raises-8mn-to-advance-digital-tools-in-agriculture/270717.article",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Investment made via Impact Bridge's IB Sustainable AgriFood Fund I; no other investors named and no round-type label stated - stage stays Unknown. Company had €7m revenue in 2025 (growth-equity profile)."
+  },
+  {
+   "company": "REDUCED",
+   "verified": true,
+   "stage": null,
+   "date": "2026-02-20",
+   "amount_value": 4000000,
+   "amount_currency": "EUR",
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [
+    "Delphinus Venture Capital"
+   ],
+   "investors": [
+    "Delphinus Venture Capital",
+    "Novo Holdings",
+    "ECBF",
+    "EIFO"
+   ],
+   "valuation_usd": null,
+   "description": "Copenhagen foodtech fermenting food-industry side streams into natural umami and Maillard savoury ingredients for manufacturers",
+   "primary_segment": "ingredients-biotech",
+   "source_url": "https://bebeez.eu/2026/02/20/danish-foodtech-reduced-brings-series-a-to-e12-million-to-support-industrial-rollout-of-clean-label-savoury-ingredients/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Amount corrected: the Feb 2026 announcement was a €4m Series A EXTENSION co-led by Delphinus Venture Capital; €12m is the cumulative Series A total (roundup recorded the cumulative figure). Existing backers Novo Holdings, ECBF, EIFO participated."
+  },
+  {
+   "company": "Verley",
+   "verified": true,
+   "stage": null,
+   "date": "2026-02-24",
+   "amount_value": 32000000,
+   "amount_currency": "EUR",
+   "hq_city": "Lyon",
+   "hq_country": null,
+   "lead_investors": [
+    "Alven"
+   ],
+   "investors": [
+    "Alven",
+    "Blast",
+    "Sofinnova Partners",
+    "Captech Santé",
+    "Sparkfood",
+    "Founders Future",
+    "Bpifrance"
+   ],
+   "valuation_usd": null,
+   "description": "Lyon-based precision fermentation startup (ex Bon Vivant) commercializing beta-lactoglobulin whey proteins under the FermWhey range",
+   "primary_segment": "precision-fermentation",
+   "source_url": "https://agfundernews.com/precision-fermentation-startup-verley-raises-38m-series-a-as-blg-unlocks-new-segment-of-protein-market",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "HQ corrected Paris -> Lyon (AgFunder, PPTI). Originally denominated €32m (~$38m): €25m equity led by Alven + €7m non-dilutive from Bpifrance. Series A stage confirmed."
+  },
+  {
+   "company": "Pepper",
+   "verified": true,
+   "stage": null,
+   "date": "2026-02-20",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [
+    "Lead Edge Capital"
+   ],
+   "investors": [
+    "Lead Edge Capital",
+    "ICONIQ",
+    "Index Ventures",
+    "Greylock",
+    "Harmony Partners",
+    "Interplay"
+   ],
+   "valuation_usd": null,
+   "description": "NYC platform for independent food distributors spanning ordering, sales, AR and embedded payments; 500+ distributors, ~$30B GMV",
+   "primary_segment": "supply-chain",
+   "source_url": "https://www.businesswire.com/news/home/20260220742173/en/Pepper-Secures-$50-Million-Series-C-to-Expand-End-to-End-Technology-Platform-for-Independent-Food-Distributors",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "$50m Series C confirmed, led by Lead Edge Capital with existing investors ICONIQ, Index Ventures, Greylock, Harmony Partners, Interplay. Announced 2026-02-20."
+  },
+  {
+   "company": "ÄIO",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [],
+   "investors": [
+    "Enterprise Estonia"
+   ],
+   "valuation_usd": null,
+   "description": "Tallinn biotech spinoff turning industrial side streams into fermentation-derived alternative fats; €1.2m Enterprise Estonia grant funds the 3-year FERM-OIL scale-up project",
+   "primary_segment": "precision-fermentation",
+   "source_url": "https://aio.bio/foodtech/press-release-aio-secures-e1-2m-grant-to-scale-up-sustainable-fermentation-based-flavoured-fats-for-future-food-applications/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Grant from Enterprise Estonia (national innovation agency) for the FERM-OIL project (total project budget €2.3m), taking Flavoured Fat from pilot to validated industrial production. Grant stage confirmed correct."
+  },
+  {
+   "company": "Agreenculture",
+   "verified": true,
+   "stage": "Series A",
+   "date": "2025-12-16",
+   "amount_value": 6000000,
+   "amount_currency": "EUR",
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [],
+   "investors": [
+    "Supernova Invest",
+    "Future Food Fund",
+    "Unilis (Unigrains Group)"
+   ],
+   "valuation_usd": null,
+   "description": "Toulouse-based maker of autonomy and safety kits for agricultural machinery, partnering with Pellenc, Kubota and Kuhn",
+   "primary_segment": "food-robotics",
+   "source_url": "https://www.eu-startups.com/2025/12/french-startup-agreenculture-raises-e6-million-to-grow-its-autonomous-farming-technology/",
+   "confidence": "high",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Amount corrected: originally denominated €6m ($7m equivalent per AgFunder). Series A equity from Supernova Invest, Future Food Fund and Unilis; no single lead disclosed. Additional credit facility from Crédit Agricole Toulouse 31 (not included in equity amount)."
+  },
+  {
+   "company": "Symbrosia",
+   "verified": true,
+   "stage": "Series A",
+   "date": "2025-12-15",
+   "amount_value": null,
+   "amount_currency": null,
+   "hq_city": null,
+   "hq_country": null,
+   "lead_investors": [],
+   "investors": [
+    "Idemitsu",
+    "One Small Planet"
+   ],
+   "valuation_usd": null,
+   "description": "Kona, Hawaii startup scaling SeaGraze, an Asparagopsis red-seaweed feed additive that cuts ruminant methane emissions",
+   "primary_segment": "agtech-upstream",
+   "source_url": "https://agfundernews.com/symbrosia-nets-5-8m-to-scale-most-cost-effective-cultivation-method-for-methane-busting-seaweed-additive",
+   "confidence": "medium",
+   "exclude": null,
+   "exclude_reason": null,
+   "notes": "Round labeled Series A-1 (mapped to canonical Series A). New strategic investors Idemitsu and One Small Planet plus unnamed existing backers; no lead explicitly disclosed. Planning 15-acre Kona facility; FDA data submitted."
+  },
+  {
+   "company": "Those Vegan Cowboys",
+   "verified": true,
+   "stage": null,
+   "date": null,
+   "amount_value": 6250000,
+   "amount_currency": "EUR",
+   "lead_investors": [
+    "Pieter Geelen"
+   ],
+   "investors": [
+    "Pieter Geelen",
+    "Westland Kaas",
+    "Wouter Veenboer"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "Precision-fermentation startup making animal-free casein for cheese; EUR 6.25M first external round led by TomTom co-founder Pieter Geelen",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.greenqueen.com.hk/those-vegan-cowboys-precision-fermentation-cheese-casein-funding/",
+   "confidence": "high",
+   "notes": "Roundup's $7.3M was the USD conversion; original denomination is EUR 6.25M, announced 2025-12-18. Described as the company's first fundraising round with no series label (stage stays Unknown). The record-breaking crowdfunding campaign in Feb-2026 is a separate, later event and not a duplicate of this round. Multiple sources: Green Queen, EU-Startups, DairyReporter, vegconomist."
+  },
+  {
+   "company": "Squizify",
+   "verified": true,
+   "stage": null,
+   "date": "2025-12-12",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Coreline Ventures"
+   ],
+   "investors": [
+    "Coreline Ventures"
+   ],
+   "hq_city": "Brisbane",
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "Digital food safety and HACCP compliance platform for hospitality, retail and food manufacturers",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.startupdaily.net/topic/funding/digital-food-safety-startup-squizify-lands-in-japan-after-10-million-series-a/",
+   "confidence": "medium",
+   "notes": "Series A confirmed, $10M from Japan/US-focused Coreline Ventures; announced 2025-12-12 alongside Japan expansion, though the round itself closed some months earlier (exact close date undisclosed). HQ is Brisbane, not Melbourne. Article does not state whether $10M is AUD or USD, so the amount is left unchanged; single reputable source (Startup Daily)."
+  },
+  {
+   "company": "MEQ Solutions",
+   "verified": true,
+   "stage": "Series A",
+   "date": "2025-12-15",
+   "amount_value": 23000000,
+   "amount_currency": "AUD",
+   "lead_investors": [
+    "Insight Partners"
+   ],
+   "investors": [
+    "Insight Partners"
+   ],
+   "hq_city": "Melbourne",
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "AI-powered objective red-meat grading via probes and USDA-certified camera imaging",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.prnewswire.com/news-releases/meq-solutions-lands-23m-from-insight-partners-to-redefine-how-value-is-created-in-the-1-trillion-global-red-meat-trade-302642504.html",
+   "confidence": "high",
+   "notes": "Original denomination is A$23M (approx US$15M), Series A led by Insight Partners, announced 2025-12-15. PR Newswire release and Startup Daily both say the company is based in Melbourne, not Adelaide."
+  },
+  {
+   "company": "Chromologics",
+   "verified": true,
+   "stage": null,
+   "date": "2025-11-18",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [],
+   "investors": [
+    "Novo Holdings",
+    "EIFO",
+    "Döhler Ventures",
+    "Collateral Good Ventures",
+    "Synergetic"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "Fermentation-derived natural food colors (Natu.Red); funding EFSA/FDA regulatory submissions and scale-up",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.prnewswire.com/news-releases/chromologics-raises-7-million-to-bring-its-natural-colour-ingredients-closer-to-market-302618235.html",
+   "confidence": "high",
+   "notes": "EUR 7M confirmed; announced 2025-11-18 (PR Newswire/Reuters). No lead investor or series label stated (stage stays Unknown). Takes total raised to almost EUR 20M. Confirmed by Novo Holdings' own announcement, PR Newswire, and trade press."
+  },
+  {
+   "company": "Keychain",
+   "verified": true,
+   "stage": null,
+   "date": "2025-11-17",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "W23 Global"
+   ],
+   "investors": [
+    "W23 Global"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "AI platform matching CPG brands and retailers with manufacturers; $10M strategic investment from retailer-backed W23 Global to launch Keychain360 and push private label in Europe",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.foodnavigator.com/Article/2025/11/18/keychain-raises-10m-to-speed-private-label-launches/",
+   "confidence": "high",
+   "notes": "This is a distinct strategic round from W23 Global (VC backed by Tesco, Ahold Delhaize, Woolworths, Empire/Sobeys, ShopRite), not the Aug-2025 $30M Series B led by Wellington Management; it brings total raised to $78M. No series label given (stage stays Unknown). Irish Times published 2025-11-17, FoodNavigator 2025-11-18."
+  },
+  {
+   "company": "AKA Foods",
+   "verified": true,
+   "stage": "Seed",
+   "date": "2025-11-17",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Alex Bronstein",
+    "Michael Bronstein"
+   ],
+   "investors": [
+    "Alex Bronstein",
+    "Michael Bronstein"
+   ],
+   "hq_city": "Amstelveen",
+   "hq_country": "NL",
+   "valuation_usd": null,
+   "description": "Secure AI platform (AKA Studio) for food product formulation, reformulation and R&D knowledge management",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.prnewswire.com/news-releases/aka-foods-secures-17-2-million-dollars-in-seed-funding-to-launch-the-worlds-first-secure-ai-system-for-food-innovation-302615548.html",
+   "confidence": "high",
+   "notes": "$17.2M seed confirmed via PR Newswire release dated 2025-11-17; led by AI researchers/entrepreneurs Alex and Michael Bronstein; no other investors named. HQ Amstelveen, Netherlands. Note: it is an AI software company for food R&D rather than an ingredients producer, so segment could arguably be reclassified, but it stays in scope."
+  },
+  {
+   "company": "Biocentis",
+   "verified": true,
+   "stage": "Seed",
+   "date": "2025-11-19",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "Grantham Foundation",
+    "Algebris Investments"
+   ],
+   "investors": [
+    "Grantham Foundation",
+    "Algebris Investments",
+    "Wellcome"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "Genetic biocontrol of pest insects (Imperial College spin-out); $13M seed equity co-led by Grantham Foundation and Algebris plus $6M Wellcome award",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.businesswire.com/news/home/20251119917075/en/Biocentis-secures-$19M-to-revolutionize-insect-control-through-programmable-biology",
+   "confidence": "high",
+   "notes": "$19M total = $13M seed equity (led by Grantham Foundation for the Protection of the Environment and Algebris Investments) + $6M grant/award from Wellcome; announced 2025-11-19. Company is London- and Milan-based; first targets are Aedes aegypti mosquito and a fruit fly threatening fruit production (agtech angle confirmed)."
+  },
+  {
+   "company": "Revyve",
+   "verified": true,
+   "stage": "Series B",
+   "date": "2025-09-23",
+   "amount_value": 24000000,
+   "amount_currency": "EUR",
+   "lead_investors": [
+    "ABN AMRO Sustainable Impact Fund",
+    "Invest-NL"
+   ],
+   "investors": [
+    "ABN AMRO Sustainable Impact Fund",
+    "Invest-NL",
+    "Brabantse Ontwikkelings Maatschappij (BOM)",
+    "Danstar Ferment (Lallemand Bio-Ingredients)",
+    "Grey Silo Ventures"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "Egg-replacing functional yeast proteins from brewers' yeast side-streams for bakery, sauces and alt-meat",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://www.prnewswire.com/news-releases/revyve-secures-24-million-funding-to-boost-egg-replacing-yeast-proteins-302562351.html",
+   "confidence": "high",
+   "notes": "Date corrected from 2025-11-15 to 2025-09-23 (PR Newswire/BeBeez/EU-Startups all September 2025). Nearly EUR 24M Series B co-led by ABN AMRO Sustainable Impact Fund and Invest-NL, with BOM, Lallemand's Danstar Ferment, and Grey Silo Ventures (Cereal Docks CVC); total raised now over EUR 40M."
+  },
+  {
+   "company": "Vivici (Series A)",
+   "verified": true,
+   "stage": "Series A",
+   "date": "2025-02-25",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "APG (on behalf of ABP)",
+    "Invest-NL"
+   ],
+   "investors": [
+    "APG (on behalf of ABP)",
+    "Invest-NL",
+    "InnovationQuarter",
+    "dsm-firmenich",
+    "Fonterra"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "Precision-fermentation dairy proteins (Vivitein BLG whey protein); EUR 32.5M Series A",
+   "primary_segment": null,
+   "exclude": true,
+   "exclude_reason": "Round is real but was announced 2025-02-25, roughly five months before the TTM window opens on 2025-07-21; the 2025-10-15 date in the roundup is wrong. Out of window (and distinct from the Jun-2026 EIC grant, which would be a separate record).",
+   "source_url": "https://www.vivici.com/insights/vivici-secures-series-a-funding",
+   "confidence": "high",
+   "notes": "Vivici's own press page and APG both date the EUR 32.5M Series A to 25 February 2025, led by APG on behalf of pension fund ABP together with Invest-NL, with InnovationQuarter and existing shareholders dsm-firmenich and Fonterra. No valuation disclosed."
+  },
+  {
+   "company": "NxtFood",
+   "verified": true,
+   "stage": "Series B",
+   "date": "2025-09-19",
+   "amount_value": 49000000,
+   "amount_currency": "EUR",
+   "lead_investors": [
+    "Creadev",
+    "Roquette Ventures"
+   ],
+   "investors": [
+    "Creadev",
+    "Roquette Ventures",
+    "Clay Capital",
+    "IRD Invest"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "French plant-based meat producer (Accro brand) making alternatives from local wheat and pea protein; EUR 49M Series B to triple its Vitry-en-Artois site and expand across Europe",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://agfundernews.com/french-startup-nxtfood-raises-58m-to-scale-alt-meat-platform-aims-for-profitability-in-12-18-months",
+   "confidence": "high",
+   "notes": "Original denomination EUR 49M (~$58M). Series B confirmed by Protein Production Technology; anchored by existing investors Creadev (now majority shareholder) and Roquette Ventures, joined by new investors Clay Capital and IRD Invest (Groupe IRD). HQ is in the Hauts-de-France region (production in Vitry-en-Artois), not Paris — no single HQ city confirmed, so hq_city left unchanged pending confirmation. AgFunderNews article dated 2025-09-19."
+  },
+  {
+   "company": "The EVERY Company",
+   "verified": true,
+   "stage": "Series D+",
+   "date": "2025-10-28",
+   "amount_value": null,
+   "amount_currency": null,
+   "lead_investors": [
+    "McWin Capital Partners"
+   ],
+   "investors": [
+    "McWin Capital Partners",
+    "Main Sequence",
+    "Bloom8",
+    "TO.VC",
+    "Minerva Foods",
+    "Grosvenor Food & AgTech",
+    "New Agrarian",
+    "SOSV"
+   ],
+   "hq_city": null,
+   "hq_country": null,
+   "valuation_usd": null,
+   "description": "Precision-fermented egg proteins; $55M Series D first close alongside nationwide Walmart rollout",
+   "primary_segment": null,
+   "exclude": null,
+   "exclude_reason": null,
+   "source_url": "https://agfundernews.com/the-every-co-raises-55m-to-scale-egg-proteins-via-fermentation-crosses-line-from-promise-to-proof-says-investor",
+   "confidence": "high",
+   "notes": "First close of the $55M Series D announced via Business Wire on 2025-10-28 (AgFunderNews coverage 2025-11-04; FoodNavigator-USA 2025-11-05); a second close was planned later in 2025. Led by McWin Capital Partners with Main Sequence, Bloom8, TO.VC, Minerva Foods, Grosvenor Food & AgTech, New Agrarian, and SOSV. Cumulative funding now $294M. No valuation disclosed in any source consulted."
+  }
+ ]
+}

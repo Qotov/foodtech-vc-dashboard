@@ -20,7 +20,7 @@ export default function Methodology({ meta, kpis }) {
           </div>
           <div>
             <h4 className="font-semibold mb-1.5" style={{ color: 'var(--text)' }}>Sources</h4>
-            <p>AgFunderNews weekly “AgriFood Signals” roundups (primary backbone), plus TechCrunch, Sifted, EU-Startups, Green Queen, and company/press releases. Every record stores its source URLs and a confidence grade (high / medium / low).</p>
+            <p>AgFunderNews weekly “AgriFood Signals” roundups (primary backbone), plus TechCrunch, Sifted, EU-Startups, Green Queen, Tech.eu, regional tech press (Inc42, Wamda, Disrupt Africa and peers), and company press releases. Records were then individually re-verified against primary sources in a second research pass — stages, lead investors, and amounts corrected where the roundup was wrong. Every record stores its source URLs and a confidence grade (high / medium / low).</p>
           </div>
           <div>
             <h4 className="font-semibold mb-1.5" style={{ color: 'var(--text)' }}>How money is counted</h4>

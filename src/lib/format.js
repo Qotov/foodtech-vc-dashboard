@@ -71,6 +71,7 @@ export const COUNTRY_NAMES = {
   CN: 'China', IN: 'India', JP: 'Japan', KR: 'South Korea', SG: 'Singapore',
   AU: 'Australia', NZ: 'New Zealand', ID: 'Indonesia', PH: 'Philippines',
   BR: 'Brazil', AR: 'Argentina', ZA: 'South Africa', NG: 'Nigeria', KE: 'Kenya',
+  CL: 'Chile', CZ: 'Czechia', EG: 'Egypt', GR: 'Greece', IS: 'Iceland', LT: 'Lithuania',
 };
 
 export const countryName = (iso) => COUNTRY_NAMES[iso] ?? iso ?? '—';

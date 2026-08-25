@@ -8,4 +8,15 @@ export default defineConfig(({ command }) => ({
   plugins: [react()],
   base: command === 'build' ? '/foodtech-vc-dashboard/' : '/',
   server: { port: 5173 },
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          react: ['react', 'react-dom'],
+          charts: ['recharts'],
+          geo: ['react-simple-maps', 'topojson-client', 'd3-scale'],
+        },
+      },
+    },
+  },
 }));
