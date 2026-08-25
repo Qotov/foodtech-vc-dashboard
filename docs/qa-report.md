@@ -1,6 +1,6 @@
 # QA & coverage report
 
-_Built 2026-08-25T13:55:59.170Z · TTM 2025-07-21 → 2026-07-20_
+_Built 2026-08-25T13:59:32.227Z · TTM 2025-07-21 → 2026-07-20_
 
 ## Headline
 - **151** deals in window
